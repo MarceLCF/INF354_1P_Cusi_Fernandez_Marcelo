@@ -1,0 +1,1809 @@
+@relation 'vgsales-weka.filters.unsupervised.attribute.Remove-weka.filters.unsupervised.attribute.Remove-R1,7,8,9,10-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-unset-class-temporarily'
+
+@attribute Name {'FIFA Soccer 11','Super Mario Bros.','Resident Evil','Tony Hawks Pro Skater','Super Smash Bros. for Wii U and 3DS','Warzone 2100','Spyro the Dragon','Links Crossbow Training','Guitar Hero III: Legends of Rock','Fallout 3','Pokemon Mystery Dungeon: Explorers of Time/Explorers of Darkness','Uncharted: Drakes Fortune','Madden NFL 06','LEGO Star Wars: The Complete Saga','Diddy Kong Racing','Monster Hunter Freedom 3','Dr. Mario','God of War III','StarCraft II: Wings of Liberty','Assassins Creed','FIFA 15','Crash Team Racing','FIFA 17','Batman: Arkham City','Driver 2','The Simpsons: Hit & Run','Tony Hawks Pro Skater 2','Animal Crossing: City Folk','The Lord of the Rings: The Two Towers','Forza Motorsport 4','Tomb Raider','The Legend of Zelda: A Link to the Past','The Legend of Zelda: The Wind Waker','Mario & Sonic at the Olympic Winter Games','Luigis Mansion: Dark Moon',Splatoon,'The Last of Us','Madden NFL 2005',Pitfall!,'Madden NFL 07','Spider-Man: The Movie','Dragon Quest VII: Warriors of Eden','Uncharted: The Nathan Drake Collection','Call of Duty: Advanced Warfare','God of War','Nintendo Land','Michael Jackson: The Experience','Tony Hawks Pro Skater 3','Winning Eleven: Pro Evolution Soccer 2007','The Elder Scrolls IV: Oblivion','Zelda II: The Adventure of Link','Need for Speed: Most Wanted','Resistance: Fall of Man','Sonic the Hedgehog','Kingdom Hearts II','FIFA 14',Asteroids,'Fable II','Halo 5: Guardians','Super Mario 3D World','Batman: Arkham Asylum','Assassins Creed: Revelations','Namco Museum','Metal Gear Solid 3: Snake Eater',Daxter,'Warcraft II: Tides of Darkness','The Legend of Zelda: Ocarina of Time','FIFA Soccer 06','EyeToy Play','Uncharted 4: A Thiefs End','Gran Turismo 5 Prologue','Street Fighter IV','FIFA 12','Teenage Mutant Ninja Turtles',Excitebike,Frogger,'Madden NFL 2003','Watch Dogs',Half-Life,'Super Mario World 2: Yoshis Island','FIFA Soccer 07','The Legend of Zelda: Skyward Sword','Street Fighter II Turbo','Carnival Games','Fallout 4','World of Warcraft: The Burning Crusade','Fallout: New Vegas','God of War II','Forza Motorsport 2','World Soccer Winning Eleven 9','Namco Museum Vol.3','Tekken Tag Tournament','Far Cry 4','Star Fox 64',Minecraft,Golf,'Professor Layton and the Diabolical Box','Left 4 Dead 2','Namco Museum: 50th Anniversary','EA Sports Active','Assassins Creed: Unity','Donkey Kong Land','Tony Hawks Underground','Assassins Creed IV: Black Flag','Monster Hunter 4 Ultimate',MotorStorm,'The Elder Scrolls V: Skyrim','Tekken 5','Dragon Warrior III','Sports Champions','NBA 2K16','World Soccer Winning Eleven 8 International','Flash Focus: Vision Training in Minutes a Day','Namco Museum Vol.1','The Legend of Zelda: Links Awakening','Mario & Luigi: Bowser Inside Story','Big Brain Academy: Wii Degree','Nintendogs + cats','Batman: Arkham Knight','Mario & Sonic at the London 2012 Olympic Games','LEGO Indiana Jones: The Original Adventures','Resident Evil Director Cut','Ratchet & Clank: Size Matters','Just Dance 2014','The Sims: Unleashed','Super Paper Mario','Harry Potter and the Sorcerer Stone','The Witcher 3: Wild Hunt','Resident Evil 3: Nemesis','Spyro: Year of the Dragon','FIFA Soccer 2005','Pokémon Trading Card Game','Battlefield 4',MySims,'Friend Collection','Tony Hawk Pro Skater 4','Midnight Club 3: DUB Edition',Banjo-Kazooie,'SOCOM: U.S. Navy SEALs','Guitar Hero: World Tour','Gran Turismo 6','Jak and Daxter: The Precursor Legacy','Pokemon Snap','FIFA Soccer 10','Pro Evolution Soccer 2008','Call of Duty: Ghosts','Resident Evil 4','Tom Clancy The Division','Star Wars: Battlefront','Doom II: Hell on Earth','The Simpsons: Road Rage','Cooking Mama 2: Dinner With Friends','Luigi Mansion','Star Wars: Battlefront II','WWF SmackDown!','Croc: Legend of the Gobbos','Grand Theft Auto: Liberty City Stories','The Getaway','Tomb Raider III: Adventures of Lara Croft','James Bond 007: Agent Under Fire','LEGO Star Wars: The Video Game','Rugrats in Paris: The Movie','Spyro 2: Ripto Rage!','Left 4 Dead','Resident Evil 5','Donkey Kong Country 3: Dixie Kong Double Trouble!','Assassin Creed: Brotherhood','Kung Fu','Clubhouse Games','FIFA Soccer 2004','Star Wars Battlefront (2015)','Battlefield: Bad Company 2','Guitar Hero: On Tour','Assassin Creed: Unity','Far Cry 3','Monster Hunter 4',Borderlands,'Tekken 4','LittleBigPlanet 2','Grand Theft Auto 2','Final Fantasy III','Spider-Man 2','F-1 Race','FIFA Soccer 2003','Crash Bash','LEGO Batman: The Videogame','Metal Gear Solid V: The Phantom Pain','The Legend of Zelda: Spirit Tracks','WWF War Zone','The Legend of Zelda: Majora Mask','Professor Layton and the Unwound Future','Rugrats: Search For Reptar','Assassin Creed IV: Black Flag','English Training: Have Fun Improving Your Skills!','James Bond 007: Nightfire','Ratchet & Clank','Mario Party 9','Star Wars Episode III: Revenge of the Sith','Max Payne','The Lord of the Rings: The Return of the King','Assassin Creed Syndicate',Destiny,'True Crime: Streets of LA','Wii Music','Gran Turismo (PSP)','Monster Hunter X',Tekken,'FIFA 16','L.A. Noire','Madden NFL 16','Yokai Watch 2 Ganso/Honke','007: Tomorrow Never Dies',Baseball,'Killer Instinct','WWF SmackDown! 2: Know Your Role','Crisis Core: Final Fantasy VII','God of War: Chains of Olympus','Dragon Quest VI: Maboroshi no Daichi','Dance Central','Enter the Matrix','Super Mario Maker','Rhythm Heaven','Ace Combat 04: Shattered Skies','Club Penguin: Elite Penguin Force','Animal Crossing','Sonic Rush','Resident Evil 6','Halo: The Master Chief Collection','FIFA Soccer 08',Spider-Man,'Need for Speed III: Hot Pursuit','Star Wars Episode I Racer','Personal Trainer: Cooking','Dragon Warrior IV','Heavy Rain','Mass Effect 2','Dragon Ball Z: Budokai','Madden NFL 2002','World Class Track Meet','Borderlands 2','The Legend of Zelda: A Link Between Worlds','Donkey Kong','The Sims: Vacation','Mass Effect 3','Kung Fu Panda','Epic Mickey','Saints Row 2',Rayman,'Killzone 2','Tom Clancy Splinter Cell','Mike Tyson Punch-Out!!','WWE SmackDown! Shut Your Mouth','Gears of War: Ultimate Edition','NBA 2K13','Dragon Ball Z: Budokai Tenkaichi 3','wwe Smackdown vs. Raw 2006','Middle-Earth: Shadow of Mordor','Star Fox','The Sims: Livin Large','World Soccer Winning Eleven 6 International','Devil May Cry','Animal Crossing: Happy Home Designer','The Sims 4','Star Wars: The Old Republic','Sonic Heroes','Kirby Super Star Ultra','Hitman 2: Silent Assassin','Wave Race 64','SOCOM II: U.S. Navy SEALs','WWE SmackDown! vs. RAW 2006',inFAMOUS,'Pac-Man Collection','Mass Effect','WarioWare: Smooth Moves','Cooking Mama: Cook Off','Super Mario World 2: Yoshi Island',Titanfall,'Sonic Mega Collection Plus','Sega Superstars Tennis','World Soccer Winning Eleven 7 International','Hot Shots Golf 3','Call of Duty: Finest Hour','Zumba Fitness 2','Syphon Filter','Imagine: Babyz','Colin McRae Rally','Madden NFL 13','The Elder Scrolls III: Morrowind','Mortal Kombat',F-Zero,'Yoshi Story','Command & Conquer: Red Alert','Skylanders: Spyro Adventure',BioShock,'Madden NFL 10','Medal of Honor','WWE SmackDown! vs. Raw','Metroid Prime','Finding Nemo',Myst,'Need for Speed: Hot Pursuit','Imagine: Fashion Designer','WWE SmackDown! Here Comes the Pain','Star Wars: The Force Unleashed','Yoshi Island DS','Hot Shots Golf','Killzone 3','A Bug Life','WWF SmackDown! Just Bring It','Dragon Quest V: Tenkuu no Hanayome','Mortal Kombat Trilogy','Battlefield 3','NBA Street','Professor Layton and the Last Specter','Monster Hunter Tri','Jak II','inFAMOUS: Second Son','Ratchet & Clank: Going Commando','Tekken 6','The Sims','Sonic and the Secret Rings','Saints Row: The Third','Missile Command','Mario Paint','Pokémon Stadium 2',Metroid,'Call of Duty 3','Onimusha: Warlords','Mortal Kombat X','Mario Party','Madden NFL 12','LEGO Star Wars II: The Original Trilogy','Madden NFL 11','Mario vs. Donkey Kong: Mini-Land Mayhem!','Skate 3','Burnout 3: Takedown','Yokai Watch 2 Shinuchi','Need for Speed: Shift','Final Fantasy XIII-2','Call Of Duty 2: Big Red One',Fable,'Hannah Montana','Skylanders Giants','Medal of Honor Heroes','Super Mario Bros.: The Lost Levels','Star Wars: Shadows of the Empire','Midnight Club: Street Racing','Pac-Man: Adventures in Time','Halo Wars','God of War Collection','ESPN NFL 2K5','Mario Strikers Charged','NBA 2K12','Style Savvy','Harry Potter and the Chamber of Secrets','Super Mario All-Stars: Limited Edition','Streets of Rage','FIFA Soccer 09','Ratchet & Clank Future: Tools of Destruction','NBA Live 2005',LittleBigPlanet,'Killzone: Shadow Fall','Ghostbusters: The Video Game (DS Version)','Monster Hunter Freedom 2','WWE SmackDown vs. RAW 2007','Ratchet & Clank: Up Your Arsenal','Art Academy','Dragon Age: Origins','Madden NFL 08','Sonic Adventure 2 Battle','Dragon Warrior II','Pokémon Colosseum','Deca Sports','Madden NFL 09','Space Invaders','Crazy Taxi','Perfect Dark','Game Party','Dragon Warrior','Tomb Raider (2013)','Marvel: Ultimate Alliance','PES 2009: Pro Evolution Soccer','Mario Party 2','Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City','LEGO Harry Potter: Years 1-4','Mortal Kombat: Deadly Alliance','Resistance 2',Pure,'Tomb Raider: The Last Revelation','Rock Band','NBA 2K14','Mario Party 4','uDraw Studio','Midnight Club: Los Angeles','Final Fantasy V','Final Fantasy Tactics','Twisted Metal 2','Halo: Combat Evolved Anniversary','Need for Speed Carbon: Own the City','The Sims: Bustin Out','Riven: The Sequel to Myst','Tom Clancy Rainbow Six: Vegas 2','Sonic Adventure','Ice Hockey','pro evolution soccer 2011','Dragon Ball Z: Budokai 2','ATV Offroad Fury','Dino Crisis','Need for Speed: ProStreet','Tetris Plus','Pro Wrestling','Theme Hospital','Frogger Adventures: Temple of the Frog','Need for Speed (2015)','Zumba Fitness',Monopoly,'Batman: Arkham Origins','Dead Island','Guitar Hero','Kinect: Disneyland Adventures','WCW/nWo Revenge',Bloodborne,'NBA 2K15','Yu-Gi-Oh! The Duelists of the Roses','Half-Life 2','The Incredibles','Tony Hawk Underground 2','Kinect Sports: Season Two','Kirby Dream Land 2','Donkey Kong Land II','Dragon Warrior Monsters','Skylanders SWAP Force','WWE SmackDown vs Raw 2008','My Fitness Coach','Resident Evil - Code: Veronica X','The Sims 3','The Legend of Zelda: Majora Mask 3D','Just Dance Kids','Mario Tennis','Grand Theft Auto','James Bond 007: Everything or Nothing','WarioWare Touched!','Need For Speed: High Stakes','Chrono Trigger','Cool Boarders 3','LEGO Marvel Super Heroes','Guild Wars 2','Pokemon Ranger: Shadows of Almia','Tomb Raider II','God of War: Ascension','Need for Speed Underground 2','Pro Evolution Soccer 2010','Just Dance 2015','Yokai Watch Busters','Mario Bros.','TOCA Touring Car Championship','Paper Mario: Sticker Star','Sonic Ultimate Genesis Collection','Super Monkey Ball: Banana Blitz','Kirby: Nightmare in Dream Land','Wario Land 4','Onimusha 2: Samurai Destiny','Cool Boarders 2','Paper Mario: The Thousand-Year Door','Dissidia: Final Fantasy','Sonic Advance','Spyro: Season of Ice','Teenage Mutant Ninja Turtles II: The Arcade Game','Dance Dance Revolution X2','New Super Luigi U','Prince of Persia: The Sands of Time',Scribblenauts,'The Legend of Zelda: Link Awakening DX','BioShock 2','Devil May Cry 3: Dante Awakening Special Edition','Rock Band 2','Guitar Hero II','Wario Land 3','Pro Yakyuu Family Stadium','Sonic Unleashed','High School Musical: Makin the Cut!','Pro Evolution Soccer 2012','Saints Row','Star Wars: Knights of the Old Republic','Kirby Pinball Land','Donkey Kong Country','Hitman: Absolution','Yu-Gi-Oh: Duel Monsters 4','ATV Offroad Fury 2','Forza Motorsport 5','Madden NFL 25','Pokemon Ranger','Mario & Luigi: Superstar Saga','Final Fantasy XIII','Star Wars: Rogue Squadron',Tennis,'The Sims: House Party','Your Shape featuring Jenny McCarthy','Syphon Filter 2','Tom Clancy Rainbow Six: Siege',Volleyball,'Call of Duty: Roads to Victory','Super Mario RPG: Legend of the Seven Stars',Mahjong,'R.C. Pro-Am','SimCity 2000','Demon Attack','Dance Dance Revolution Extreme','Tetris DS','Final Fantasy Tactics Advance','Far Cry: Primal','Toy Story 3: The Video Game','Kirby Epic Yarn','Project Gotham Racing','Tony Hawk Pro Skater','Need for Speed: Hot Pursuit 2','Mario Sports Mix','Dynasty Warriors 4','Parasite Eve','Scooby-Doo! Night of 100 Frights','Project Gotham Racing (JP weekly sales)','Need for Speed: Most Wanted 5-1-0','Portal 2','Devil May Cry 3: Dante Awakening','Derby Stallion','Dead Rising','NBA 2K11','Wipeout: The Game','The Sims 2: Pets','Battlefield: Hardline','Metal Gear Solid: Peace Walker','World of Warcraft: Cataclysm','Tetris Worlds','Need For Speed: Undercover','Dance Dance Revolution: Hottest Party','Mario Party 5','Sim Theme Park','Warcraft: Orcs & Humans','Spec Ops: Airborne Commando','Kingdom Hearts: Birth by Sleep','UFC 2009 Undisputed','Dark Souls','Yu-Gi-Oh! The Eternal Duelist Soul','Tom Clancy Splinter Cell: Conviction','Pokemon Mystery Dungeon: Red/Blue Rescue Team','R4: Ridge Racer Type 4','SoulCalibur II','Mario & Luigi: Dream Team','Pokémon Mystery Dungeon: Blue Rescue Team','Sonic Mega Collection','Diablo III','NBA Jam','PGR4 - Project Gotham Racing 4','Kingdom Hearts 358/2 Days','Dance Central 2','Rayman Raving Rabbids: TV Party','SOCOM: U.S. Navy SEALs: Combined Assault','Peter Jackson King Kong: The Official Game of the Movie','Need for Speed: The Run','Madden NFL 15','1080°: TenEighty Snowboarding','Just Dance 3','NBA Live 2004','Dead Space','Call of Duty 2','Forza Horizon',TouchMaster,'Fire Emblem: Awakening',DriveClub,'Super Street Fighter II','Mortal Kombat vs. DC Universe','Tenchu: Stealth Assassins',SimCity,'Dragon Age: Inquisition','Sonic Classic Collection','Spyro: Enter the Dragonfly','Call of Duty: World at War','Devil May Cry 2','Burnout Paradise','E.T.: The Extra Terrestrial','BioShock Infinite','Hot Shots Golf: Open Tee','Rad Racer',Soccer,'Kirby Squeak Squad','Tom Clancy Rainbow Six: Vegas','Crash Nitro Kart','Grand Theft Auto: San Andreas','Star Wars: Dark Forces','NBA Street Vol. 2','Def Jam Vendetta','Who wants to be a millionaire','Scooby Doo and the Cyber Chase',Alleyway,'Dragon Ball Z: Budokai 3','Jet Moto 2','Tom Clancy Ghost Recon','X-Men Legends','Mortal Kombat II','Virtua Fighter 2','Tetris DX','Mario Super Sluggers','The Legend of Zelda: Oracle of Ages','Red Faction','The Sims: Makin Magic','MX Unleashed','PaRappa The Rapper','Toy Story Mania!','Mario Party 3','Game Party 2','Destiny: The Taken King','LEGO Star Wars III: The Clone Wars','Star Wars Rogue Leader: Rogue Squadron II','Max Payne 3','Need for Speed Rivals','Yokai Watch','Ratchet & Clank Future: A Crack in Time','Yu-Gi-Oh! Forbidden Memories','Mortal Kombat: Deception','Hot Shots Golf 2','Medal of Honor: European Assault (All Region sales)','WCW Nitro','High School Musical: Sing It!','Star Fox Adventures','FIFA 2000','Dynasty Warriors 3','Donkey Kong Country Returns','The Legend of Zelda: Oracle of Seasons','Shrek 2','The Legend of Dragoon','Turok 2: Seeds of Evil',SingStar,'LittleBigPlanet 3','NBA Live 2002','Phineas and Ferb','Chrono Cross','GoldenEye 007 (2010)','Mario Party: Island Tour','Jak 3','Rayman Raving Rabbids 2','Kingdom Hearts: Chain of Memories',Pinball,'inFAMOUS 2','Gran Turismo Concept 2001 Tokyo','Demon Souls','NCAA Football 06','Hey You Pikachu!','2 Games in 1: Sonic Advance & ChuChu Rocket!','World of Warcraft: Mists of Pandaria','Jet Moto','Just Cause 3','Secret of Mana','The Orange Box','Air Combat','Kirby: Triple Deluxe','Sonic & Knuckles','The Sims: Hot Date','Metroid Prime 3: Corruption','Dragon Quest VI: Realms of Revelation','The Evil Within','DDRMAX2: Dance Dance Revolution','Virtua Fighter 4','Sly 2: Band of Thieves','Sonic Advance 2','NFL GameDay 2000','Call of Duty: Black Ops 3','Disney The Lion King','Beyond: Two Souls','Kinect Star Wars','Midnight Club II','Dragon Quest Monsters: Joker','SpongeBob SquarePants: SuperSponge','The Getaway: Black Monday','Professor Layton and the Mask of Miracle','Just Cause 2','Dragon Dogma','50 Cent: Bulletproof','Wii Party U','Final Fantasy II','Kirby 64: The Crystal Shards','Dead or Alive 3','Metroid II: Return of Samus','WWF Attitude','The SpongeBob SquarePants Movie','Golden Sun','Sonic the Hedgehog 3','Kid Icarus','Def Jam: Fight for NY','State of Emergency','2 Games in 1 Double Pack: The Incredibles / Finding Nemo: The Continuing Adventures','The Urbz: Sims in the City','Star Wars: Starfighter','Madden NFL 2000','Kingdom Hearts','Pro Evolution Soccer',Crackdown,Yoshi,'Disney Aladdin','Kirby Adventure','Cooking Mama 3: Shop & Chop','Dance Dance Revolution X','2 Games in 1: Disney Princess & The Lion King','Star Wars Episode I: The Phantom Menace','Xenosaga Episode I: Der Wille zur Macht','The Beatles: Rock Band','Forza Motorsport 6','Sonic Colors','Cruisn USA','Madden NFL 99','Uncharted: Golden Abyss','SSX Tricky',Overwatch,'Twisted Metal III','Disney Infinity','Crash Bandicoot: The Huge Adventure',Dishonored,'The Order: 1886','The Elder Scrolls Online','Call of Duty: World at War Final Fronts','Imagine: Teacher','Call of Duty: Modern Warfare 3','Star Ocean: Till The End of Time','The Sims 3: Late Night Expansion Pack','Game Party 3','Toy Story 2: Buzz Lightyear to the Rescue!','Deal or No Deal','Ace Combat 5: The Unsung War','Need for Speed Underground','Kanshuu Nippon Joushikiryoku Kentei Kyoukai: Imasara Hito ni wa Kikenai Otona no Joushikiryoku Training DS','Cabela Big Game Hunter 2010','The Crew','We Ski','Personal Trainer: Math','Kirby Return to Dreamland','Super Puyo Puyo','Ben 10: Protector of Earth','NCAA Football 07','SOCOM 3: U.S. Navy SEALs','Saints Row IV','Jampack Winter 99','WCW vs. nWo: World Tour','WCW/NWO Thunder','Dragon Ball Z: The Legacy of Goku','Sid Meier Civilization V','Call of Duty Black Ops: Declassified','Star Wars Battlefront: Renegade Squadron','World Championship Poker: Featuring Howard Lederer - All In','NFL GameDay 98','LEGO Batman 2: DC Super Heroes','Yoshi Cookie','Time Crisis','The Sims: Superstar','Star Wars The Clone Wars: Lightsaber Duels','Metroid Fusion','Shaun White Snowboarding: Road Trip','SSX 3','Big Beach Sports','Madden NFL 2001','Fight Night Round 3',Knack,'Disney DuckTales','Tony Hawk Pro Skater 3','Monsters Inc.','StarCraft II: Heart of the Swarm','PGR: Project Gotham Racing 2','Spy Hunter','NCAA Football 2004','SpongeBob SquarePants: Battle for Bikini Bottom','Dying Light','Heavenly Sword','Street Fighter II: Special Champion Edition',SSX,'NBA Ballers','Need for Speed Carbon','NBA Live 2003','Dragon Ball Z: Budokai Tenkaichi','Ms. Pac-Man','Mario Party 6','Super Scope 6','Go Vacation','Army of Two','Dragon Quest IV: Chapters of the Chosen','Kirby & the Amazing Mirror','LEGO Pirates of the Caribbean: The Video Game','Dig Dug','Tom Clancy Rainbow Six','Ghosts Goblins','Tiger Woods PGA Tour 2003','NBA Live 06 (All region sales)','Prince of Persia: Warrior Within',Kinectimals,'Until Dawn','Viva Pinata',Pikmin,'Call of Duty: Black Ops','Sonic Generations','Tiger Woods PGA Tour 2004','Ape Escape','NCAA Football 2005','Tony Hawk American Wasteland (Old all region sales)',Rage,'Mario Hoops 3 on 3','Kirby Air Ride','Sled Storm','Pokemon Battle Revolution','NFL Street 2','Gears of War: Judgment','Yu-Gi-Oh! Duel Monsters','Super Mario Strikers','Buzz! The Music Quiz','SpongeBob Atlantis SquarePantis','Dance Dance Revolution: Hottest Party 2','Moshi Monsters: Moshling Zoo','Dollar Dash','Far Cry 2','F-1 World Grand Prix','River Raid','Silent Hill','Dragon Quest V: Hand of the Heavenly Bride','No Man Sky','ESPN NBA 2K5',Diablo,'The Legend of Zelda: Twilight Princess','Soul Edge','Devil May Cry 4','SoulCalibur IV','NASCAR 2000','Wolfenstein: The New Order','Carnival Games: Mini Golf','Guitar Hero: On Tour Decades','MySims Kingdom','Jampack Summer 2K','Guitar Hero 5','High School Musical 3: Senior Year','Kingdom Hearts 3D: Dream Drop Distance','Hannah Montana: Music Jam','Pokemon Mystery Dungeon: Explorers of Sky','Spyro 2: Season of Flame','NCAA Football 2002','Conflict: Desert Storm','Mario Party 7','Pro Evolution Soccer 2013','Smuggler Run','Donkey Kong Classics','Twisted Metal','Dark Souls III','Final Fight','Dragon Quest Monsters 2','Pokemon Pinball: Ruby & Sapphire','Mafia II',Stuntman,'Tom Clancy Rainbow Six 3','Active Life: Outdoor Challenge','007: The World is not Enough','Spider-Man 2: Enter: Electro','Star Wars: The Force Unleashed II','Ni no Kuni: Wrath of the White Witch','Command & Conquer: Tiberian Sun','LEGO Battles: Ninjago','Mario Party 10','Dead Rising 3','Resident Evil: The Umbrella Chronicles','Fire Emblem Fates','Dark Cloud','Warcraft III: The Frozen Throne','Tom Clancy Ghost Recon Advanced Warfighter','Disney Fairies: Tinker Bell','MVP Baseball 2005','Die Hard Trilogy','Call of Duty: Black Ops II','Fight Night Round 4','The Simpsons Game','Mortal Kombat 3','NFL GameDay 99','Call of Duty: Modern Warfare: Reflex Edition','Mario Golf: Toadstool Tour','Tiger Woods 99 PGA Tour Golf','Donkey Kong Country: Tropical Freeze','Dead Space 2','Sonic Rivals 2','Knockout Kings','The Simpsons Skateboarding','NASCAR 98','F1 Race',Xevious,'NASCAR 99','NBA Live 2000','Super Monkey Ball 2','Pac-Man World 2','Sonic & Sega All-Stars Racing','Football Manager 2012','Puzzle & Dragons','Mega Man 2','Simpsons Wrestling','NBA Live 98','Resistance 3','Tokyo Xtreme Racer Zero','Final Fantasy XIV: A Realm Reborn','NFL Blitz','Red Faction II','Super Scribblenauts','WWF No Mercy','Ice Climber','Sonic CD','Ninja Hattori Kun: Ninja wa Shuugyou Degogiru no Maki','Dead Rising 2','Pac-Man World','Disney Sing It: Pop Hits','Final Fantasy: Crystal Chronicles','Medal of Honor: Frontline','Drawn To Life: SpongeBob SquarePants Edition',Banjo-Tooie,'Buzz! The BIG Quiz','007: Quantum of Solace','New Play Control! Mario Power Tennis','Bratz: Forever Diamondz','Dirge of Cerberus: Final Fantasy VII','Nintendo World Cup','WWF WrestleMania 2000','Wario Land II','Major League Baseball 2K5','Fight Night 2004','Tom Clancy Splinter Cell: Pandora Tomorrow','Imagine: Master Chef','Assassin Creed III: Liberation','Mario Golf','Disney Princess','Metal Gear Rising: Revengeance','The House of the Dead 2 & 3 Return','Disney Princess: Magical Jewels','LittleBigPlanet PS Vita',Xenogears,'Tom Clancy Ghost Recon: Future Soldier','Battlefield: Bad Company','Midway Arcade Treasures',Wall-E,'Triple Play 99',Homefront,'Super Monkey Ball','Mortal Kombat 4','Mario Superstar Baseball','Medal of Honor: Warfighter','WCW vs the World','SNK vs. Capcom: The Match of the Millennium','LEGO City Undercover','Onimusha 3: Demon Siege','Red Dead Revolver','Anno 2070','Resident Evil: Outbreak','Smarty Pants',Tamagotchi,'4 Nin uchi Mahjong','Dragon Ball Z','Game de Hakken!! Tamagotchi 2','Namco Museum 64','Hasbro Family Game Night','Dragon Quest Monsters: Joker 2','Tony Hawk American Wasteland (Weekly american sales)','My Word Coach','Hello Kitty Party','SingStar Pop','Sonic Rivals','SimCity (2013)','Kirby Super Star','Kinect Joy Ride','Rayman Raving Rabbids','Tiger Woods PGA Tour 2005','NCAA Football 2003','Frogger 2: Swampy Revenge','LEGO Indiana Jones 2: The Adventure Continues','Tiger Woods PGA Tour 09 All-Play','Classic NES Series: Super Mario Bros.','Triple Play 2000','Cabela Big Game Hunter','UFC Undisputed 2010','NBA Live 06 (Weekly american sales)','The Legend of Zelda: The Minish Cap','NFL Street','Super Metroid','Pro Yakyuu Family Stadium 87','Resident Evil (Remake)','Inazuma Eleven 2','Injustice: Gods Among Us','Ridge Racer','Metroid: Other M','Knockout Kings 2000','Gran Turismo 4 Prologue','Twisted Metal: Black','NASCAR 2005: Chase for the Cup',2Xtreme,'Sonic Advance 3','Colin McRae Rally 3','Doom (2016)','Final Fantasy XII: Revenant Wings','Bakugan: Battle Brawlers','Deus Ex: Human Revolution','Teenage Mutant Ninja Turtles III: The Manhattan Project','Dynasty Warriors 5','Hannah Montana: Spotlight World Tour','WWE 13','The Sims 2','Paper Mario','Bravely Default: Flying Fairy','Duke Nukem: Time to Kill','Persona 4: Golden','Hasbro Family Game Night 2','Disney Princess: Enchanted Journey','Gardening Mama','Dave Mirra Freestyle BMX 2','Assassin Creed: Rogue','Ridge Racer 7','A Collection of Activision Classic Games for the Atari 2600','Forza Horizon 2','MotorStorm: Pacific Rift','Star Wars Knights of the Old Republic II: The Sith Lords','Pocket Monsters Stadium','Tom Clancy Ghost Recon 2','Crash Bandicoot 2: N-Tranced','SingStar Abba',Gradius,'Dragon Quest III: Soshite Densetsu e...',Centipede,'Yoshi New Island','Ryse: Son of Rome','Dead to Rights','LEGO Harry Potter: Years 5-7','Marvel vs. Capcom 3: Fate of Two Worlds','Dance Dance Revolution (Japan)','F1 2010','Madden NFL 98','Namco Museum DS','Grand Theft Auto: Chinatown Wars','Alan Wake','Samurai Warriors','Monster Hunter Freedom','Crysis 2','SaGa Frontier','SingStar Party','The ICO & Shadow of the Colossus Collection','Test Drive','Mario & Luigi: Partners in Time','Lost Planet: Extreme Condition','Doom 3','Donkey Kong Jungle Beat','Max Payne 2: The Fall of Max Payne','Command & Conquer: Red Alert 2','MVP Baseball 2004','Ratchet & Clank: Up Your Arsenal (Weekly american sales)','Your Shape: Fitness Evolved','Triple Play 2001','Metroid Prime 2: Echoes','Final Fantasy X / X-2 HD Remaster',Corvette,'Petz Wild Animals: Dolphinz','Pokemon Ranger: Guardian Signs','Need for Speed Underground Rivals','Dark Souls II','World of Warcraft: Wrath of the Lich King','The LEGO Movie Videogame','TOCA 2: Touring Cars',Gyromite,'NFL 2K3','Fighting Force','Mega Man Battle Network 4: Red Sun / Blue Moon','MAG: Massive Action Game','Madden NFL 97','Cars 2','TNN Motor Sports Hardcore 4x4','IHRA Drag Racing 2',[Prototype],Madagascar,'Rugrats Studio Tour','LEGO Battles','Pitfall II: Lost Caverns','Turok: Evolution','High School Musical 3: Senior Year DANCE!','Gold Gym: Cardio Workout',Adventure,'Yu-Gi-Oh! The Sacred Cards','NBA Live 07','SingStar 80s','EA Playground','Test Drive 5','Romancing SaGa 3','EA Sports Active 2','Digimon World','Rise of the Tomb Raider','Yoshi Woolly World','Mega Man Battle Network 3 Blue / White Version','FIFA Street','Resident Evil Zero','Pirates of the Caribbean: The Curse of the Black Pearl',Transformers,'Guitar Hero: Aerosmith','Mystery Case Files: MillionHeir','Valkyria Chronicles','Midnight Club 3: DUB Edition (America weekly sales)','Champions of Norrath','Imagine: Wedding Designer','Metal Gear Solid V: Ground Zeroes',Yakuman,'Army Men 3D','Twisted Metal 4',Manhunt,'Kid Icarus: Uprising','Silent Hill 2','Tomb Raider: Underworld','Castlevania: Symphony of the Night','The Sims 2: Nightlife','Road Rash','Pokemon Mystery Dungeon: Gates to Infinity',Atlantis,'NBA 2K9','WWE 12','Tony Hawk Underground','Hogan Alley','Jillian Michaels Fitness Ultimatum 2009','.hack//Infection Part 1','Rockstar Games presents Table Tennis','Sonic Adventure DX: Director Cut','Jet Li: Rise to Honor','Battle Arena Toshinden','Yokai Watch 3','Tamagotchi Connection: Corner Shop','Football Manager 2011','Devil Dice','Final Fantasy IV','Hyrule Warriors','Championship Manager 03/04','Brian Lara Cricket',Ratatouille,'Wheel of Fortune','LEGO The Lord of the Rings','Winter Sports: The Ultimate Challenge','SOCOM: U.S. Navy SEALs Confrontation','NBA Live 2001',Combat,'Dragon Ball: Daimaou Fukkatsu','Gegege no Kitarou 2: Youkai Gundan no Chousen','Reel Fishing','Pokemon XD: Gale of Darkness',Black,'RollerCoaster Tycoon 2','Lara Croft Tomb Raider: The Angel of Darkness','Road Rash 3D','Ratchet: Deadlocked','Baldur Gate: Dark Alliance','Transformers: Autobots / Decepticons','Tales of Xillia','Diddy Kong Racing DS','Assassin Creed: Bloodlines','Oddworld: Abe Oddysee','Ridge Racer V','WWE SmackDown vs. Raw 2009','Tetris 2 (All region sales)','Frogger: The Great Quest','2010 FIFA World Cup South Africa','Ninja Gaiden','Crash Bandicoot: The Wrath of Cortex',Driv3r,'Disney Tarzan / Disney Aladdin in Nasira Revenge / Disney The Emperor New Groove Action Game','Farming Simulator 2015','Medal of Honor: Airborne','Kirby Tilt Tumble','Vigilante 8',Castlevania,'Donkey Kong Country 2',Bayonetta,'WarioWare Inc.: Mega MicroGame','Madden NFL 17','Boom Blox','The Sims 2: Castaway','Naruto Shippuden: Ultimate Ninja Storm 2','Mario Power Tennis','Intelligent Qube','Game & Watch Gallery 2','Game & Watch Gallery 3',Pac-Man,'Parfait: Chocolat Second Style','F1 2011',Cars,'NBA Live 99','Chocobo no Fushigi Dungeon','Golden Sun: The Lost Age','WCW Mayhem','NBA 2K2','NASCAR Thunder 2003','Super Street Fighter IV: 3D Edition','Fuzion Frenzy','Sly Cooper and the Thievius Raccoonus','The Magical Quest starring Mickey Mouse','Dragon Quest IV: Michibikareshi Monotachi','Star Wars Episode 1: Jedi Power Battles','Dino Crisis 2','Shrek / Shrek 2 2-in-1 Gameboy Advance Video','Test Drive 4','World Soccer Winning Eleven 9 (JP & Others sales)','The Lord of the Rings: The Fellowship of the Ring','ATV Offroad Fury 3','Pikmin 2','Just Dance 2016','Disney Sing It','WWE 2K16','Dragon Ball Z: La Legende Saien',TwinBee,'Ganbare Goemon! Karakuri Douchuu','NFL 2K',SolarStriker,'NHL 2002','Mario vs. Donkey Kong 2: March of the Minis','PokéPark Wii: Pikachu Adventure','One Piece: Pirate Warriors','WWE 2K14','Metal Gear Solid: Portable Ops','Nuclear Strike','Captain Toad: Treasure Tracker','SpongeBob SquarePants: Revenge of the Flying Dutchman','Scarface: The World is Yours','Kobe Bryant in NBA Courtside','Disney Chip Dale: Rescue Rangers','The Dukes of Hazzard: Racing for Home','Final Fantasy I & II: Dawn of Souls','NBA 2K17','Pokemon Super Mystery Dungeon','Just Dance 4','Metal Gear Solid VR Missions','Pole Position','Resident Evil: Operation Raccoon City','Pro Yakyuu Family Stadium 88',Shenmue,'Tony Hawk Pro Skater 2','WWE SmackDown vs. Raw 2010','Plants vs. Zombies','Super Ghouls Ghosts',Spore,'Soviet Strike','Your Shape: Fitness Evolved 2012',Gun,'Ty the Tasmanian Tiger','Wario Land: Shake It!','Sonic Rush Adventure','Mega Man 3','Ratchet & Clank (2016)','Mission: Impossible','Romancing SaGa 2','Cabela Dangerous Hunts','Cool Boarders 4','Rage Racer','Medal of Honor: Rising Sun','Football Manager 2013','Destruction Derby 2','Mirror Edge','Mario vs. Donkey Kong','EA Sports Active: More Workouts','Final Fantasy Tactics: The War of the Lions','Midnight Club 3: DUB Edition Remix','Tom Clancy Ghost Recon: Jungle Storm','Bushido Blade','NASCAR Thunder 2002','Jet Force Gemini','Mega Man X','Yu-Gi-Oh! The Sacred Cards (American and Others sales)','Sega Rally Championship','Test Drive: Off Road','Medal of Honor Heroes 2','Sniper: Ghost Warrior',Rocksmith,'Plants vs. Zombies: Garden Warfare','Worldwide Soccer Manager 2009','Omerta: City of Gangsters','Gauntlet: Dark Legacy','Ninja Gaiden Sigma','Bad Boys: Miami Takedown',Kaboom!,'Red Dead Redemption: Undead Nightmare','Sonic and the Black Knight','Call of Duty 4: Modern Warfare',Qix,'Derby Stallion III',Doraemon,'High School Musical 2: Work This Out!','Ratchet & Clank: All 4 One','Donkey Konga','Fight Night Champion','Dragon Quest I & II','Tak and the Power of Juju','Puyo Puyo Sun Ketteiban','Pokemon Rumble Blast','Action Bass','Tenchu: Wrath of Heaven','Shadow of the Colossus','Brave Fencer Musashi','Hot Shots Golf: Out of Bounds','Dance Dance Revolution Extreme 2','Rabbids Go Home','South Park',Commando,Pilotwings,'Resident Evil - Code: Veronica','Super R.C. Pro-Am','Royal Palace of White Sword and The City of Gentiles','Mobile Suit Gundam: Federation vs. Zeon',MechAssault,'ModNation Racers','Derby Stallion 99','Fantasy Life','Tom Clancy Rainbow Six 3: Black Arrow','WWE 2K15','Jampack Winter 98','Alien: Isolation','Yakuza 3','Pokémon Mystery Dungeon: Red Rescue Team (US weekly sales)','Dragon Age II','Moon Patrol','Supercar Street Challenge','Pilotwings 64','Crackdown 2','Castlevania: Lords of Shadow','Disney Infinity 2.0: Marvel Super Heroes','SOCOM: U.S. Navy SEALs Fireteam Bravo','Worldwide Soccer Manager 2008',Counter-Strike,'Mad Max (2015)',GRID,'Guitar Hero Encore: Rocks The 80s','Sunset Overdrive','Tom Clancy Splinter Cell: Chaos Theory','Donkey Kong Jr.','Arc the Lad','NBA Jam Tournament Edition','Pikmin 3','Legend of Mana','Lumines: Puzzle Fusion',Megamania,'The Legend of Zelda: Tri Force Heroes','Jungle Hunt','Triple Play 98','Petz Dogz 2','WWE SmackDown vs. Raw 2011','Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories','Lode Runner','The Final Fantasy Legend','Famicom Jump: Eiyuu Retsuden','F-Zero X',Popeye,'NERF N-Strike','SingStar Legends','SingStar Rocks!','Tales of Symphonia','Untold Legends: Brotherhood of the Blade','Star Ocean: The Second Story','Lightning Returns: Final Fantasy XIII','Imagine: Babysitters','Yakuza 2','Skate 2','Dragon Ball Z: The Legacy of Goku II','Virtua Fighter 5','NFL 2K1',BeatMania,'Namco Museum Battle Collection','Madden NFL 2004','Empire: Total War','The Godfather','Tiger Woods PGA Tour 10','Star Wars: Bounty Hunter','Densha De Go!','Dante Inferno','Endless Ocean','NFL Blitz 2000','Sonic Free Riders','NASCAR Thunder 2004','Prince of Persia','Grand Theft Auto V','The Biggest Loser','Fisherman Bass Club','MySims Agents','Resident Evil: The Darkside Chronicles','NCAA Football 13',Joust,'DiRT 3','Spore Creatures','Ready 2 Rumble Boxing','Dragon Ball Z: Taiketsu','Disney Lilo & Stitch','Star Fox: Assault','Naruto: Ultimate Ninja Storm','NCAA Football 14','Doko Demo Issyo','Imagine: Fashion Designer New York','Bully: Scholarship Edition','Virtua Fighter','Championship Manager 99/00','Super Princess Peach','NHL 99','SoulCalibur III','F1 2012','World Tour Soccer','Disney Universe','Ridge Racer Revolution','Hot Wheels Turbo Racing','NCAA Football 99','Mortal Kombat: Armageddon','Aliens vs Predator',Freekstyle,'Junior Brain Trainer',Darksiders,DiRT,'Simple 1500 Series Vol. 1: The Mahjong','NBA Street V3','Sleeping Dogs','Mercenaries 2: World in Flames','Worms Armageddon',Hulk,'NFL Quarterback Club 98','DJ Hero','Dora the Explorer: Dora Saves the Mermaids','Diablo II: Lord of Destruction','Naruto Shippuden: Ultimate Ninja Storm 4','Virtua Tennis 3','Seek and Destroy',Warhawk,'Apollo Justice: Ace Attorney','Cosmic Ark','SOCOM: U.S. Navy SEALs Fireteam Bravo 2','Skylanders: Trap Team',Defender,'Dance on Broadway','Adventure Island','Arc the Lad II','Tag Team Match M.U.S.C.L.E.','Derby Stallion 96','UFC Undisputed 3','NBA 2K3','Dragon Ball: XenoVerse','Dave Mirra Freestyle BMX','Imagine: Animal Doctor','Forza Motorsport','Monster Rancher 2','Pokemon Conquest','Guinness World Records: The Videogame','MVP Baseball 2003','Legacy of Kain: Soul Reaver','Disney Tangled','Tales of Destiny','ATV: Quad Power Racing','Disney Fairies: Tinker Bell and the Lost Treasure','Mega Man X4','Naruto: Clash of Ninja 2','Dance Dance Revolution SuperNOVA'}
+@attribute Platform {PS3,GB,PS,WiiU,Wii,PS2,X360,DS,N64,PSP,NES,PC,PS4,SNES,GC,3DS,2600,GEN,XOne,GBA,XB,DC,PSV,SAT,SCD}
+@attribute Year string
+@attribute Genre {Sports,Platform,Action,Fighting,Strategy,Shooter,Misc,Role-Playing,Racing,Puzzle,Adventure,Simulation}
+@attribute Publisher {'Electronic Arts',Nintendo,'Virgin Interactive',Activision,'Eidos Interactive','Sony Computer Entertainment','Bethesda Softworks',LucasArts,Capcom,Ubisoft,'Warner Bros. Interactive Entertainment',Atari,'Vivendi Games','Microsoft Game Studios',Sega,'Enix Corporation','Konami Digital Entertainment','Take-Two Interactive','Square Enix','Namco Bandai Games',Palcom,'Hasbro Interactive','Sony Computer Entertainment Europe','505 Games',THQ,'Fox Interactive',SquareSoft,'Acclaim Entertainment','MTV Games','Disney Interactive Studios',N/A,'Majesco Entertainment',Codemasters,'Red Orb','GT Interactive','Level 5','Arena Entertainment','Midway Games',JVC,'Deep Silver',RedOctane,'989 Studios',NCSoft,'UEP Systems','Parker Bros.',Maxis,Imagic,'Tecmo Koei','Valve Software','ASCII Entertainment',Mindscape,Infogrames,'Universal Interactive',Unknown,Square,Valve,'Activision Value',Banpresto,D3Publisher,'Oxygen Interactive','Red Storm Entertainment','Video System','Hello Games','Global Star','Gotham Games','Westwood Studios',GungHo,'Crave Entertainment','Hudson Soft',Coleco,'Rising Star Games',Atlus,'TDK Mediactive','ASC Games','Zoo Games',Accolade,'Sony Online Entertainment',3DO,RTL,Natsume,'Focus Home Interactive',Alchemist,'Black Label Games','SouthPeak Games',Mastertronic,Ocean,'Zoo Digital Publishing',Psygnosis,'City Interactive','Empire Interactive',Success,Compile,Russel,Taito,Agetec,GSP,Microprose,'Play It'}
+@attribute Global_Sales numeric
+
+@data
+'FIFA Soccer 11',PS3,2010,Sports,'Electronic Arts',1
+'Super Mario Bros.',GB,1999,Platform,Nintendo,0.997525
+'Resident Evil',PS,1996,Action,'Virgin Interactive',0.992574
+'Tony Hawks Pro Skater',PS,1999,Sports,Activision,0.985149
+'Super Smash Bros. for Wii U and 3DS',WiiU,2014,Fighting,Nintendo,0.985149
+'Warzone 2100',PS,1999,Strategy,'Eidos Interactive',0.982673
+'Spyro the Dragon',PS,1998,Platform,'Sony Computer Entertainment',0.980198
+'Links Crossbow Training',Wii,2007,Shooter,Nintendo,0.980198
+'Guitar Hero III: Legends of Rock',PS2,2007,Misc,Activision,0.975248
+'Fallout 3',X360,2008,Role-Playing,'Bethesda Softworks',0.970297
+'Pokemon Mystery Dungeon: Explorers of Time/Explorers of Darkness',DS,2007,Role-Playing,Nintendo,0.970297
+'Uncharted: Drakes Fortune',PS3,2007,Action,'Sony Computer Entertainment',0.965347
+'Madden NFL 06',PS2,2005,Sports,'Electronic Arts',0.957921
+'LEGO Star Wars: The Complete Saga',DS,2007,Action,LucasArts,0.955446
+'Diddy Kong Racing',N64,1997,Racing,Nintendo,0.950495
+'Monster Hunter Freedom 3',PSP,2010,Role-Playing,Capcom,0.94802
+'Dr. Mario',NES,1990,Puzzle,Nintendo,0.943069
+'God of War III',PS3,2010,Action,'Sony Computer Entertainment',0.940594
+'StarCraft II: Wings of Liberty',PC,2010,Strategy,Activision,0.938119
+'Assassins Creed',PS3,2007,Adventure,Ubisoft,0.938119
+'FIFA 15',PS3,2014,Sports,'Electronic Arts',0.935644
+'Crash Team Racing',PS,1999,Racing,'Sony Computer Entertainment',0.928218
+'FIFA 17',PS4,2016,Sports,'Electronic Arts',0.923267
+'Batman: Arkham City',X360,2011,Action,'Warner Bros. Interactive Entertainment',0.920792
+'Driver 2',PS,2000,Action,Atari,0.913366
+'The Simpsons: Hit & Run',PS2,2003,Racing,'Vivendi Games',0.905941
+'Tony Hawks Pro Skater 2',PS,2000,Sports,Activision,0.90099
+'Animal Crossing: City Folk',Wii,2008,Simulation,Nintendo,0.90099
+'The Lord of the Rings: The Two Towers',PS2,2002,Action,'Electronic Arts',0.898515
+'Forza Motorsport 4',X360,2011,Racing,'Microsoft Game Studios',0.891089
+'Tomb Raider',PS,1996,Action,'Eidos Interactive',0.888614
+'Guitar Hero III: Legends of Rock',Wii,2007,Misc,Activision,0.886139
+'The Legend of Zelda: A Link to the Past',SNES,1991,Action,Nintendo,0.883663
+'The Legend of Zelda: The Wind Waker',GC,2002,Action,Nintendo,0.881188
+'Mario & Sonic at the Olympic Winter Games',Wii,2009,Sports,Sega,0.876238
+'Luigis Mansion: Dark Moon',3DS,2013,Action,Nintendo,0.876238
+Splatoon,WiiU,2015,Shooter,Nintendo,0.873762
+'The Last of Us',PS4,2014,Action,'Sony Computer Entertainment',0.868812
+'Guitar Hero III: Legends of Rock',X360,2007,Misc,Activision,0.863861
+'Madden NFL 2005',PS2,2004,Sports,'Electronic Arts',0.863861
+Pitfall!,2600,1981,Platform,Activision,0.856436
+'Madden NFL 07',PS2,2006,Sports,'Electronic Arts',0.85396
+'Spider-Man: The Movie',PS2,2002,Action,Activision,0.851485
+'Dragon Quest VII: Warriors of Eden',PS,2000,Role-Playing,'Enix Corporation',0.84901
+'Uncharted: The Nathan Drake Collection',PS4,2015,Action,'Sony Computer Entertainment',0.84901
+'Call of Duty: Advanced Warfare',PS3,2014,Shooter,Activision,0.844059
+'God of War',PS2,2005,Action,'Sony Computer Entertainment',0.844059
+'Nintendo Land',WiiU,2012,Misc,Nintendo,0.841584
+'Michael Jackson: The Experience',Wii,2010,Misc,Ubisoft,0.836634
+'Tony Hawks Pro Skater 3',PS2,2001,Sports,Activision,0.834158
+'Winning Eleven: Pro Evolution Soccer 2007',PS2,2006,Sports,'Konami Digital Entertainment',0.829208
+'The Elder Scrolls IV: Oblivion',X360,2006,Role-Playing,'Take-Two Interactive',0.829208
+'Zelda II: The Adventure of Link',NES,1987,Adventure,Nintendo,0.826733
+'Need for Speed: Most Wanted',PS2,2005,Racing,'Electronic Arts',0.824257
+'Resistance: Fall of Man',PS3,2006,Shooter,'Sony Computer Entertainment',0.819307
+'Sonic the Hedgehog',GEN,1991,Platform,Sega,0.816832
+'Kingdom Hearts II',PS2,2005,Role-Playing,'Square Enix',0.814356
+'FIFA 14',X360,2013,Sports,'Electronic Arts',0.809406
+'Call of Duty: Advanced Warfare',X360,2014,Shooter,Activision,0.809406
+Asteroids,2600,1980,Shooter,Atari,0.809406
+'Fable II',X360,2008,Role-Playing,'Microsoft Game Studios',0.809406
+'Halo 5: Guardians',XOne,2015,Shooter,'Microsoft Game Studios',0.79703
+'Super Mario 3D World',WiiU,2013,Platform,Nintendo,0.794554
+'Batman: Arkham Asylum',PS3,2009,Action,'Eidos Interactive',0.794554
+'Assassins Creed: Revelations',PS3,2011,Action,Ubisoft,0.792079
+'Namco Museum',GBA,2001,Misc,'Namco Bandai Games',0.792079
+'Metal Gear Solid 3: Snake Eater',PS2,2004,Action,'Konami Digital Entertainment',0.789604
+Daxter,PSP,2006,Platform,'Sony Computer Entertainment',0.787129
+'Warcraft II: Tides of Darkness',PC,1995,Strategy,Activision,0.784653
+'The Legend of Zelda: Ocarina of Time',3DS,2011,Action,Nintendo,0.784653
+'FIFA Soccer 06',PS2,2005,Sports,'Electronic Arts',0.784653
+'EyeToy Play',PS2,2003,Misc,'Sony Computer Entertainment',0.782178
+'Uncharted 4: A Thiefs End',PS4,2016,Shooter,'Sony Computer Entertainment',0.782178
+'Gran Turismo 5 Prologue',PS3,2007,Racing,'Sony Computer Entertainment',0.782178
+'Assassins Creed: Revelations',X360,2011,Action,Ubisoft,0.779703
+'Street Fighter IV',PS3,2009,Fighting,Capcom,0.779703
+'FIFA 12',X360,2011,Sports,'Electronic Arts',0.779703
+'Teenage Mutant Ninja Turtles',NES,1989,Action,Palcom,0.774752
+Excitebike,NES,1984,Racing,Nintendo,0.772277
+Frogger,PS,1997,Action,'Hasbro Interactive',0.772277
+'Madden NFL 2003',PS2,2002,Sports,'Electronic Arts',0.767327
+'Watch Dogs',PS4,2014,Action,Ubisoft,0.767327
+Half-Life,PC,1997,Shooter,'Vivendi Games',0.762376
+'Super Mario World 2: Yoshis Island',SNES,1995,Platform,Nintendo,0.762376
+'FIFA Soccer 07',PS2,2006,Sports,'Electronic Arts',0.759901
+'The Legend of Zelda: Skyward Sword',Wii,2011,Action,Nintendo,0.757426
+'Street Fighter II Turbo',SNES,1992,Fighting,Capcom,0.757426
+'Carnival Games',Wii,2007,Misc,'Take-Two Interactive',0.757426
+'Fallout 4',XOne,2015,Role-Playing,'Bethesda Softworks',0.75495
+'World of Warcraft: The Burning Crusade',PC,2007,Role-Playing,Activision,0.75495
+'Fallout: New Vegas',X360,2010,Role-Playing,'Bethesda Softworks',0.752475
+'God of War II',PS2,2007,Action,'Sony Computer Entertainment',0.75
+'Forza Motorsport 2',X360,2007,Racing,'Microsoft Game Studios',0.747525
+'World Soccer Winning Eleven 9',PS2,2005,Sports,'Konami Digital Entertainment',0.747525
+'Namco Museum Vol.3',PS,1996,Misc,'Sony Computer Entertainment',0.74505
+'Tekken Tag Tournament',PS2,2000,Fighting,'Namco Bandai Games',0.74505
+'Far Cry 4',PS4,2014,Shooter,Ubisoft,0.740099
+'Star Fox 64',N64,1997,Shooter,Nintendo,0.740099
+Minecraft,PS4,2014,Misc,'Sony Computer Entertainment Europe',0.737624
+Golf,NES,1984,Sports,Nintendo,0.735149
+'Fallout 3',PS3,2008,Role-Playing,'Bethesda Softworks',0.735149
+'Professor Layton and the Diabolical Box',DS,2007,Puzzle,Nintendo,0.732673
+'Left 4 Dead 2',X360,2009,Shooter,'Electronic Arts',0.730198
+'Namco Museum: 50th Anniversary',PS2,2005,Misc,'Namco Bandai Games',0.727723
+'EA Sports Active',Wii,2009,Sports,'Electronic Arts',0.712871
+'Assassins Creed: Unity',PS4,2014,Action,Ubisoft,0.712871
+'Donkey Kong Land',GB,1994,Platform,Nintendo,0.710396
+'Tony Hawks Underground',PS2,2003,Sports,Activision,0.707921
+'Assassins Creed IV: Black Flag',PS3,2013,Action,Ubisoft,0.705446
+'Monster Hunter 4 Ultimate',3DS,2014,Role-Playing,Nintendo,0.705446
+MotorStorm,PS3,2006,Racing,'Sony Computer Entertainment',0.70297
+'The Elder Scrolls V: Skyrim',PC,2011,Role-Playing,'Bethesda Softworks',0.70297
+'Tekken 5',PS2,2005,Fighting,'Namco Bandai Games',0.700495
+'Dragon Warrior III',NES,1988,Role-Playing,'Enix Corporation',0.700495
+'Sports Champions',PS3,2010,Sports,'Sony Computer Entertainment',0.700495
+'NBA 2K16',PS4,2015,Sports,'Take-Two Interactive',0.695545
+'World Soccer Winning Eleven 8 International',PS2,2004,Sports,'Konami Digital Entertainment',0.695545
+'Flash Focus: Vision Training in Minutes a Day',DS,2007,Misc,Nintendo,0.693069
+'Namco Museum Vol.1',PS,1995,Misc,'Sony Computer Entertainment',0.693069
+'The Legend of Zelda: Links Awakening',GB,1992,Action,Nintendo,0.690594
+'Mario & Luigi: Bowser Inside Story',DS,2009,Role-Playing,Nintendo,0.690594
+'Big Brain Academy: Wii Degree',Wii,2007,Misc,Nintendo,0.688119
+'Nintendogs + cats',3DS,2011,Simulation,Nintendo,0.685644
+'Batman: Arkham Knight',PS4,2015,Action,'Warner Bros. Interactive Entertainment',0.680693
+'Mario & Sonic at the London 2012 Olympic Games',Wii,2011,Sports,Sega,0.678218
+'LEGO Indiana Jones: The Original Adventures',X360,2008,Action,Activision,0.678218
+'Resident Evil Director Cut',PS,1996,Action,'Virgin Interactive',0.675743
+'Ratchet & Clank: Size Matters',PSP,2007,Platform,'Sony Computer Entertainment',0.675743
+'Just Dance 2014',Wii,2013,Misc,Ubisoft,0.673267
+'The Sims: Unleashed',PC,2002,Simulation,'Electronic Arts',0.673267
+'Super Paper Mario',Wii,2007,Platform,Nintendo,0.673267
+'Harry Potter and the Sorcerer Stone',PS,2001,Action,'Electronic Arts',0.665842
+'The Witcher 3: Wild Hunt',PS4,2015,Role-Playing,'Namco Bandai Games',0.665842
+'Resident Evil 3: Nemesis',PS,1999,Action,'Eidos Interactive',0.663366
+'Spyro: Year of the Dragon',PS,2000,Platform,'Sony Computer Entertainment',0.660891
+'FIFA Soccer 2005',PS2,2004,Sports,'Electronic Arts',0.658416
+'Pokémon Trading Card Game',GB,1998,Strategy,Nintendo,0.658416
+'Battlefield 4',PS3,2013,Shooter,'Electronic Arts',0.655941
+MySims,DS,2007,Simulation,'Electronic Arts',0.655941
+'Friend Collection',DS,2009,Misc,Nintendo,0.65099
+'Tony Hawk Pro Skater 4',PS2,2002,Sports,Activision,0.65099
+'Midnight Club 3: DUB Edition',PSP,2005,Racing,'Take-Two Interactive',0.648515
+Banjo-Kazooie,N64,1998,Platform,Nintendo,0.64604
+'SOCOM: U.S. Navy SEALs',PS2,2002,Shooter,'Sony Computer Entertainment',0.64604
+'Guitar Hero: World Tour',Wii,2008,Misc,Activision,0.64604
+'Gran Turismo 6',PS3,2013,Racing,'Sony Computer Entertainment',0.643564
+'Jak and Daxter: The Precursor Legacy',PS2,2001,Platform,'Sony Computer Entertainment',0.643564
+'Pokemon Snap',N64,1999,Simulation,Nintendo,0.641089
+'FIFA Soccer 10',PS3,2009,Sports,'Electronic Arts',0.641089
+'Pro Evolution Soccer 2008',PS2,2007,Sports,'Konami Digital Entertainment',0.641089
+'Call of Duty: Ghosts',PS4,2013,Shooter,Activision,0.641089
+'Resident Evil 4',PS2,2005,Action,Capcom,0.638614
+'Tom Clancy The Division',PS4,2016,Shooter,Ubisoft,0.636139
+'Star Wars: Battlefront',PS2,2004,Shooter,LucasArts,0.636139
+'Doom II: Hell on Earth',PC,1994,Shooter,'Virgin Interactive',0.636139
+'The Simpsons: Road Rage',PS2,2001,Racing,'Electronic Arts',0.636139
+'Cooking Mama 2: Dinner With Friends',DS,2007,Simulation,'505 Games',0.636139
+'Luigi Mansion',GC,2001,Action,Nintendo,0.633663
+'Star Wars: Battlefront II',PS2,2005,Shooter,LucasArts,0.631188
+'WWF SmackDown!',PS,2000,Fighting,THQ,0.628713
+'Croc: Legend of the Gobbos',PS,1997,Platform,'Fox Interactive',0.623762
+'Grand Theft Auto: Liberty City Stories',PS2,2006,Action,'Take-Two Interactive',0.618812
+'The Getaway',PS2,2002,Action,'Sony Computer Entertainment',0.618812
+'Tomb Raider III: Adventures of Lara Croft',PS,1997,Action,'Eidos Interactive',0.618812
+'James Bond 007: Agent Under Fire',PS2,2001,Shooter,'Electronic Arts',0.616337
+'LEGO Star Wars: The Video Game',PS2,2005,Action,'Eidos Interactive',0.616337
+'Battlefield 4',X360,2013,Shooter,'Electronic Arts',0.616337
+'FIFA Soccer 11',X360,2010,Sports,'Electronic Arts',0.616337
+'Rugrats in Paris: The Movie',PS,2000,Action,THQ,0.613861
+'Spyro 2: Ripto Rage!',PS,1999,Platform,'Sony Computer Entertainment',0.613861
+'Left 4 Dead',X360,2008,Shooter,'Electronic Arts',0.613861
+'Mario & Sonic at the Olympic Winter Games',DS,2009,Sports,Sega,0.613861
+'Resident Evil 5',X360,2009,Action,Capcom,0.611386
+'Donkey Kong Country 3: Dixie Kong Double Trouble!',SNES,1996,Platform,Nintendo,0.611386
+'Assassin Creed: Brotherhood',X360,2010,Action,Ubisoft,0.608911
+'Kung Fu',NES,1985,Action,Nintendo,0.608911
+'Batman: Arkham Asylum',X360,2009,Action,'Eidos Interactive',0.608911
+'Clubhouse Games',DS,2006,Misc,Nintendo,0.608911
+'FIFA Soccer 2004',PS2,N/A,Sports,'Electronic Arts',0.606436
+'Star Wars Battlefront (2015)',XOne,2015,Shooter,'Electronic Arts',0.606436
+'Battlefield: Bad Company 2',X360,2010,Shooter,'Electronic Arts',0.60396
+'Guitar Hero: On Tour',DS,2008,Misc,Activision,0.60396
+'Assassin Creed: Unity',XOne,2014,Action,Ubisoft,0.59901
+'Far Cry 3',PS3,2012,Shooter,Ubisoft,0.596535
+'Monster Hunter 4',3DS,2013,Role-Playing,Capcom,0.594059
+Borderlands,X360,2009,Shooter,'Take-Two Interactive',0.594059
+'Tekken 4',PS2,2002,Fighting,'Namco Bandai Games',0.594059
+'Battlefield 4',PS4,2013,Shooter,'Electronic Arts',0.591584
+'LittleBigPlanet 2',PS3,2011,Platform,'Sony Computer Entertainment',0.589109
+'Grand Theft Auto 2',PS,1998,Action,'Take-Two Interactive',0.589109
+'Final Fantasy III',SNES,1994,Role-Playing,SquareSoft,0.589109
+'Spider-Man 2',PS2,2004,Action,Activision,0.586634
+'F-1 Race',GB,1990,Racing,Nintendo,0.586634
+'FIFA Soccer 2003',PS2,2002,Sports,'Electronic Arts',0.584158
+'Crash Bash',PS,2000,Misc,'Sony Computer Entertainment',0.581683
+'LEGO Batman: The Videogame',X360,2008,Action,'Warner Bros. Interactive Entertainment',0.579208
+'Metal Gear Solid V: The Phantom Pain',PS4,2015,Action,'Konami Digital Entertainment',0.579208
+'The Legend of Zelda: Spirit Tracks',DS,2009,Action,Nintendo,0.579208
+'WWF War Zone',PS,1998,Fighting,'Acclaim Entertainment',0.574257
+'The Legend of Zelda: Majora Mask',N64,2000,Action,Nintendo,0.574257
+'Professor Layton and the Unwound Future',DS,2008,Puzzle,Nintendo,0.574257
+'Rugrats: Search For Reptar',PS,1998,Adventure,THQ,0.569307
+'Assassin Creed IV: Black Flag',X360,2013,Action,Ubisoft,0.569307
+'English Training: Have Fun Improving Your Skills!',DS,2006,Misc,Nintendo,0.566832
+'James Bond 007: Nightfire',PS2,2002,Shooter,'Electronic Arts',0.566832
+'Ratchet & Clank',PS2,2002,Platform,'Sony Computer Entertainment',0.566832
+'Mario Party 9',Wii,2012,Misc,Nintendo,0.564356
+'Star Wars Episode III: Revenge of the Sith',PS2,2005,Action,LucasArts,0.564356
+'Max Payne',PS2,2001,Shooter,'Take-Two Interactive',0.561881
+'The Lord of the Rings: The Return of the King',PS2,2003,Action,'Electronic Arts',0.554455
+'Assassin Creed Syndicate',PS4,2015,Action,Ubisoft,0.554455
+Destiny,XOne,2014,Shooter,Activision,0.554455
+'True Crime: Streets of LA',PS2,2003,Action,Activision,0.55198
+'Wii Music',Wii,2008,Misc,Nintendo,0.55198
+'Gran Turismo (PSP)',PSP,2009,Racing,'Sony Computer Entertainment',0.55198
+'Monster Hunter X',3DS,2015,Action,Capcom,0.549505
+Tekken,PS,1995,Fighting,'Sony Computer Entertainment',0.544554
+'FIFA 16',XOne,2015,Sports,'Electronic Arts',0.542079
+'L.A. Noire',PS3,2011,Adventure,'Take-Two Interactive',0.542079
+'Madden NFL 16',PS4,2015,Sports,'Electronic Arts',0.539604
+'Yokai Watch 2 Ganso/Honke',3DS,2014,Role-Playing,Nintendo,0.539604
+'007: Tomorrow Never Dies',PS,1999,Shooter,'Electronic Arts',0.537129
+Baseball,NES,1983,Sports,Nintendo,0.534653
+'Killer Instinct',SNES,1995,Fighting,Nintendo,0.534653
+'WWF SmackDown! 2: Know Your Role',PS,2000,Fighting,THQ,0.534653
+'Crisis Core: Final Fantasy VII',PSP,2007,Role-Playing,'Square Enix',0.532178
+'God of War: Chains of Olympus',PSP,2008,Action,'Sony Computer Entertainment',0.532178
+'Dragon Quest VI: Maboroshi no Daichi',SNES,1995,Role-Playing,'Enix Corporation',0.532178
+'Dance Central',X360,2010,Misc,'MTV Games',0.532178
+'Enter the Matrix',PS2,2003,Action,Atari,0.529703
+'Super Mario Maker',WiiU,2015,Platform,Nintendo,0.529703
+'Fallout: New Vegas',PS3,2010,Role-Playing,'Bethesda Softworks',0.527228
+'LEGO Batman: The Videogame',Wii,N/A,Action,'Warner Bros. Interactive Entertainment',0.527228
+'Rhythm Heaven',DS,2008,Misc,Nintendo,0.527228
+'Ace Combat 04: Shattered Skies',PS2,2001,Simulation,'Sony Computer Entertainment Europe',0.527228
+'Club Penguin: Elite Penguin Force',DS,2008,Adventure,'Disney Interactive Studios',0.524752
+'Animal Crossing',GC,2001,Simulation,Nintendo,0.522277
+'LEGO Batman: The Videogame',DS,2008,Action,'Warner Bros. Interactive Entertainment',0.522277
+'Sonic Rush',DS,2005,Platform,Sega,0.522277
+'Resident Evil 6',PS3,2012,Shooter,Capcom,0.522277
+'Halo: The Master Chief Collection',XOne,2014,Shooter,'Microsoft Game Studios',0.522277
+'FIFA Soccer 08',PS2,2007,Sports,'Electronic Arts',0.519802
+Spider-Man,PS,2000,Action,Activision,0.517327
+'Need for Speed III: Hot Pursuit',PS,1998,Racing,'Electronic Arts',0.514851
+'Star Wars Episode I Racer',N64,1999,Racing,Nintendo,0.514851
+'Personal Trainer: Cooking',DS,2006,Misc,Nintendo,0.514851
+'The Elder Scrolls IV: Oblivion',PS3,2007,Role-Playing,Ubisoft,0.514851
+'Dragon Warrior IV',NES,1990,Role-Playing,'Enix Corporation',0.514851
+'Heavy Rain',PS3,2010,Adventure,'Sony Computer Entertainment',0.514851
+'Mass Effect 2',X360,2010,Role-Playing,'Electronic Arts',0.512376
+'FIFA 15',X360,2014,Sports,'Electronic Arts',0.512376
+'Dragon Ball Z: Budokai',PS2,2002,Fighting,Atari,0.507426
+'Madden NFL 2002',PS2,2001,Sports,'Electronic Arts',0.50495
+'World Class Track Meet',NES,1986,Sports,'Namco Bandai Games',0.50495
+'Borderlands 2',X360,2012,Shooter,'Take-Two Interactive',0.502475
+'The Legend of Zelda: A Link Between Worlds',3DS,2013,Action,Nintendo,0.502475
+'Donkey Kong',GB,1994,Platform,Nintendo,0.502475
+'The Sims: Vacation',PC,2002,Simulation,'Electronic Arts',0.502475
+'Mass Effect 3',X360,2012,Role-Playing,'Electronic Arts',0.502475
+'Kung Fu Panda',X360,2008,Action,Activision,0.497525
+'Far Cry 3',X360,2012,Shooter,Ubisoft,0.49505
+'Epic Mickey',Wii,2010,Platform,'Disney Interactive Studios',0.49505
+'Saints Row 2',X360,2008,Action,THQ,0.492574
+Rayman,PS,1995,Platform,Ubisoft,0.492574
+'Killzone 2',PS3,2009,Shooter,'Sony Computer Entertainment',0.490099
+'Tom Clancy Splinter Cell',XB,2002,Action,Ubisoft,0.490099
+'Mike Tyson Punch-Out!!',NES,1987,Fighting,Nintendo,0.490099
+'WWE SmackDown! Shut Your Mouth',PS2,2002,Sports,THQ,0.490099
+'Gears of War: Ultimate Edition',XOne,2015,Shooter,'Microsoft Game Studios',0.485149
+'NBA 2K13',X360,2012,Sports,'Take-Two Interactive',0.485149
+'Dragon Ball Z: Budokai Tenkaichi 3',PS2,2007,Fighting,Atari,0.485149
+'wwe Smackdown vs. Raw 2006',PS2,N/A,Fighting,N/A,0.485149
+'Middle-Earth: Shadow of Mordor',PS4,2014,Action,'Warner Bros. Interactive Entertainment',0.482673
+'Star Fox',SNES,1993,Shooter,Nintendo,0.482673
+'The Sims: Livin Large',PC,2000,Misc,'Electronic Arts',0.482673
+'World Soccer Winning Eleven 6 International',PS2,2002,Sports,'Konami Digital Entertainment',0.482673
+'Devil May Cry',PS2,2001,Action,Capcom,0.482673
+'Animal Crossing: Happy Home Designer',3DS,2015,Simulation,Nintendo,0.480198
+'Battlefield: Bad Company 2',PS3,2010,Shooter,'Electronic Arts',0.477723
+'The Sims 4',PC,2014,Simulation,'Electronic Arts',0.477723
+'Star Wars: The Old Republic',PC,2011,Role-Playing,'Electronic Arts',0.477723
+'Sonic Heroes',PS2,2003,Platform,Sega,0.475248
+'Kirby Super Star Ultra',DS,2008,Platform,Nintendo,0.475248
+'Hitman 2: Silent Assassin',PS2,2002,Action,'Eidos Interactive',0.475248
+'Street Fighter IV',X360,2009,Fighting,Capcom,0.472772
+'Wave Race 64',N64,1996,Racing,Nintendo,0.470297
+'SOCOM II: U.S. Navy SEALs',PS2,2003,Shooter,'Sony Computer Entertainment',0.470297
+'WWE SmackDown! vs. RAW 2006',PS2,2005,Fighting,THQ,0.470297
+inFAMOUS,PS3,2009,Action,'Sony Computer Entertainment',0.470297
+'Pac-Man Collection',GBA,2001,Puzzle,Atari,0.470297
+'Mass Effect',X360,2007,Role-Playing,'Microsoft Game Studios',0.467822
+'WarioWare: Smooth Moves',Wii,2006,Puzzle,Nintendo,0.465347
+'Cooking Mama: Cook Off',Wii,2007,Simulation,'505 Games',0.462871
+'Super Mario World 2: Yoshi Island',GBA,2002,Platform,Nintendo,0.462871
+'FIFA 14',PS4,2013,Sports,'Electronic Arts',0.460396
+Titanfall,XOne,2014,Shooter,'Electronic Arts',0.460396
+'Sonic Mega Collection Plus',PS2,2004,Misc,Sega,0.460396
+'Sega Superstars Tennis',X360,2008,Sports,Sega,0.460396
+'World Soccer Winning Eleven 7 International',PS2,2003,Sports,'Konami Digital Entertainment',0.460396
+'Need for Speed: Most Wanted',PS3,2012,Racing,'Electronic Arts',0.457921
+'Hot Shots Golf 3',PS2,2001,Sports,'Sony Computer Entertainment',0.457921
+'Call of Duty: Finest Hour',PS2,2004,Shooter,Activision,0.457921
+'Zumba Fitness 2',Wii,2011,Sports,'Majesco Entertainment',0.455446
+'Syphon Filter',PS,1999,Shooter,'Sony Computer Entertainment',0.455446
+'Imagine: Babyz',DS,2007,Simulation,Ubisoft,0.455446
+'Colin McRae Rally',PS,1998,Racing,Codemasters,0.45297
+'Call of Duty: Ghosts',XOne,2013,Shooter,Activision,0.450495
+'Madden NFL 13',X360,2012,Sports,'Electronic Arts',0.450495
+'The Elder Scrolls III: Morrowind',XB,2002,Role-Playing,Ubisoft,0.450495
+'Mortal Kombat',PS3,2011,Fighting,'Warner Bros. Interactive Entertainment',0.44802
+F-Zero,SNES,1990,Racing,Nintendo,0.44802
+'Yoshi Story',N64,1997,Platform,Nintendo,0.44802
+'Command & Conquer: Red Alert',PC,1996,Strategy,'Virgin Interactive',0.44802
+'Skylanders: Spyro Adventure',Wii,2011,Action,Activision,0.44802
+'FIFA 16',PS3,2015,Sports,'Electronic Arts',0.44802
+'Assassin Creed: Brotherhood',PS3,2010,Action,Ubisoft,0.445545
+BioShock,X360,2007,Shooter,'Take-Two Interactive',0.443069
+'Madden NFL 10',X360,2009,Sports,'Electronic Arts',0.443069
+'Medal of Honor',PS3,2010,Shooter,'Electronic Arts',0.443069
+'WWE SmackDown! vs. Raw',PS2,2002,Fighting,THQ,0.443069
+'Metroid Prime',GC,2002,Shooter,Nintendo,0.440594
+'Finding Nemo',GBA,2003,Action,THQ,0.440594
+Myst,PC,1994,Adventure,'Red Orb',0.438119
+'Need for Speed: Hot Pursuit',PS3,2010,Racing,'Electronic Arts',0.438119
+'Imagine: Fashion Designer',DS,2007,Simulation,Ubisoft,0.438119
+'WWE SmackDown! Here Comes the Pain',PS2,2003,Fighting,THQ,0.435644
+'Star Wars: The Force Unleashed',X360,2008,Action,LucasArts,0.435644
+'Yoshi Island DS',DS,2006,Platform,Nintendo,0.435644
+'Hot Shots Golf',PS,1997,Sports,'Sony Computer Entertainment',0.433168
+'Killzone 3',PS3,2011,Shooter,'Sony Computer Entertainment',0.433168
+'A Bug Life',PS,1998,Platform,'Sony Computer Entertainment',0.433168
+'WWF SmackDown! Just Bring It',PS2,2001,Fighting,THQ,0.433168
+'Dragon Quest V: Tenkuu no Hanayome',SNES,1992,Role-Playing,'Enix Corporation',0.433168
+'Mortal Kombat Trilogy',PS,1996,Fighting,'GT Interactive',0.433168
+'Battlefield 3',PC,2011,Shooter,'Electronic Arts',0.433168
+'NBA Street',PS2,2001,Sports,'Electronic Arts',0.433168
+'Professor Layton and the Last Specter',DS,2009,Puzzle,Nintendo,0.433168
+'Monster Hunter Tri',3DS,2011,Role-Playing,Nintendo,0.433168
+'Jak II',PS2,2003,Platform,'Sony Computer Entertainment',0.430693
+'inFAMOUS: Second Son',PS4,2014,Action,'Sony Computer Entertainment',0.430693
+'Ratchet & Clank: Going Commando',PS2,2003,Platform,'Sony Computer Entertainment',0.430693
+'Tekken 6',PS3,2009,Fighting,'Namco Bandai Games',0.430693
+'The Sims',PS2,2003,Simulation,'Electronic Arts',0.428218
+'Sonic and the Secret Rings',Wii,2007,Platform,Sega,0.428218
+'Saints Row: The Third',X360,2011,Action,THQ,0.428218
+'Missile Command',2600,1980,Shooter,Atari,0.425743
+'Mario Paint',SNES,1992,Misc,Nintendo,0.423267
+'Assassin Creed IV: Black Flag',PS4,2013,Action,Ubisoft,0.420792
+'Pokémon Stadium 2',N64,2000,Strategy,Nintendo,0.418317
+Metroid,NES,1986,Action,Nintendo,0.418317
+'L.A. Noire',X360,2011,Adventure,'Take-Two Interactive',0.415842
+'Call of Duty 3',X360,2006,Shooter,Activision,0.413366
+'The Legend of Zelda: A Link to the Past',GBA,2002,Action,Nintendo,0.410891
+'Onimusha: Warlords',PS2,2001,Action,'Virgin Interactive',0.410891
+'Mortal Kombat X',PS4,2015,Fighting,'Warner Bros. Interactive Entertainment',0.410891
+'Mario Party',N64,1998,Misc,Nintendo,0.410891
+'Madden NFL 12',X360,2011,Sports,'Electronic Arts',0.408416
+'LEGO Star Wars II: The Original Trilogy',PS2,2006,Action,LucasArts,0.408416
+'Madden NFL 11',X360,2010,Sports,'Electronic Arts',0.408416
+'Mario vs. Donkey Kong: Mini-Land Mayhem!',DS,2010,Puzzle,Nintendo,0.408416
+'Skate 3',X360,2010,Sports,'Electronic Arts',0.405941
+'Burnout 3: Takedown',PS2,2004,Racing,'Electronic Arts',0.405941
+'Yokai Watch 2 Shinuchi',3DS,2014,Role-Playing,'Level 5',0.405941
+'Need for Speed: Shift',PS3,2009,Racing,'Electronic Arts',0.405941
+'Final Fantasy XIII-2',PS3,2011,Role-Playing,'Square Enix',0.405941
+'Mortal Kombat',GEN,1992,Fighting,'Arena Entertainment',0.403465
+'Call Of Duty 2: Big Red One',PS2,2005,Shooter,Activision,0.403465
+'Guitar Hero: World Tour',X360,2008,Misc,Activision,0.403465
+'Medal of Honor',PS,1998,Shooter,'Electronic Arts',0.403465
+Fable,XB,2004,Role-Playing,'Microsoft Game Studios',0.40099
+'Hannah Montana',DS,2006,Action,'Disney Interactive Studios',0.398515
+'Tom Clancy Splinter Cell',PS2,2003,Action,Ubisoft,0.398515
+'Skylanders Giants',Wii,2012,Action,Activision,0.398515
+'Medal of Honor Heroes',PSP,2006,Shooter,'Electronic Arts',0.398515
+'Super Mario Bros.: The Lost Levels',NES,1986,Platform,Nintendo,0.398515
+'Star Wars: Shadows of the Empire',N64,1996,Action,Nintendo,0.398515
+'LEGO Star Wars: The Complete Saga',X360,2007,Action,LucasArts,0.39604
+'Midnight Club: Street Racing',PS2,2000,Racing,'Take-Two Interactive',0.393564
+'Pac-Man: Adventures in Time',PSP,2006,Fighting,'Sony Computer Entertainment',0.393564
+'Halo Wars',X360,2009,Strategy,'Microsoft Game Studios',0.393564
+'God of War Collection',PS3,2009,Action,'Sony Computer Entertainment',0.393564
+'ESPN NFL 2K5',PS2,2004,Sports,Sega,0.391089
+'Mario Strikers Charged',Wii,2007,Sports,Nintendo,0.391089
+'Medal of Honor',X360,2010,Shooter,'Electronic Arts',0.391089
+'FIFA Soccer 10',X360,2009,Sports,'Electronic Arts',0.391089
+'NBA 2K12',X360,2011,Sports,'Take-Two Interactive',0.391089
+'Style Savvy',DS,2008,Simulation,Nintendo,0.388614
+'Harry Potter and the Chamber of Secrets',PS2,2002,Action,'Electronic Arts',0.388614
+'Super Mario All-Stars: Limited Edition',Wii,2010,Platform,Nintendo,0.386139
+'Streets of Rage',GEN,1990,Action,Sega,0.386139
+'FIFA Soccer 09',PS3,2008,Sports,'Electronic Arts',0.383663
+'Ratchet & Clank Future: Tools of Destruction',PS3,2007,Platform,'Sony Computer Entertainment',0.383663
+'NBA Live 2005',PS2,2004,Sports,'Electronic Arts',0.383663
+LittleBigPlanet,PSP,2009,Platform,'Sony Computer Entertainment',0.381188
+'Killzone: Shadow Fall',PS4,2013,Shooter,'Sony Computer Entertainment',0.381188
+'Ghostbusters: The Video Game (DS Version)',X360,2009,Action,'Take-Two Interactive',0.381188
+'Monster Hunter Freedom 2',PSP,2007,Role-Playing,Capcom,0.381188
+'WWE SmackDown vs. RAW 2007',PS2,2006,Fighting,THQ,0.381188
+'Ratchet & Clank: Up Your Arsenal',PS2,2004,Platform,'Sony Computer Entertainment',0.378713
+'Art Academy',DS,2010,Misc,Nintendo,0.378713
+'Dragon Age: Origins',X360,2009,Role-Playing,'Electronic Arts',0.378713
+'Madden NFL 08',PS2,2007,Sports,'Electronic Arts',0.378713
+'Sonic Adventure 2 Battle',GC,2001,Platform,Sega,0.376238
+'Dragon Warrior II',NES,1987,Role-Playing,'Enix Corporation',0.376238
+'Madden NFL 13',PS3,2012,Sports,'Electronic Arts',0.376238
+'Pokémon Colosseum',GC,2003,Role-Playing,Nintendo,0.371287
+'Deca Sports',Wii,2008,Sports,'Konami Digital Entertainment',0.371287
+'Madden NFL 09',X360,2008,Sports,'Electronic Arts',0.371287
+'Space Invaders',2600,N/A,Shooter,Atari,0.368812
+'Crazy Taxi',PS2,2001,Racing,'Acclaim Entertainment',0.366337
+'Perfect Dark',N64,2000,Action,Nintendo,0.366337
+'Game Party',Wii,2007,Misc,'Midway Games',0.366337
+'Dragon Warrior',NES,1986,Role-Playing,Capcom,0.366337
+'Tomb Raider (2013)',PS3,2013,Action,'Square Enix',0.363861
+'Marvel: Ultimate Alliance',X360,2006,Role-Playing,Activision,0.361386
+'PES 2009: Pro Evolution Soccer',PS2,2008,Sports,'Konami Digital Entertainment',0.361386
+'Mario Party 2',N64,1999,Misc,Nintendo,0.361386
+'Saints Row: The Third',PS3,2011,Action,THQ,0.358911
+'Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City',XB,2003,Action,'Take-Two Interactive',0.358911
+'LEGO Harry Potter: Years 1-4',Wii,2010,Action,'Warner Bros. Interactive Entertainment',0.358911
+'Mortal Kombat: Deadly Alliance',PS2,2002,Fighting,'Midway Games',0.358911
+'Resistance 2',PS3,2008,Shooter,'Sony Computer Entertainment',0.356436
+Pure,X360,2008,Racing,'Disney Interactive Studios',0.356436
+'Tomb Raider: The Last Revelation',PS,1998,Action,'Eidos Interactive',0.356436
+'NBA 2K13',PS3,2012,Sports,'Take-Two Interactive',0.356436
+'Rock Band',X360,N/A,Misc,'Electronic Arts',0.356436
+'NBA 2K14',X360,2013,Sports,'Take-Two Interactive',0.35396
+'Mario Party 4',GC,2002,Misc,Nintendo,0.35396
+'uDraw Studio',Wii,2010,Misc,THQ,0.351485
+'Midnight Club: Los Angeles',PS3,2008,Racing,'Take-Two Interactive',0.34901
+'Final Fantasy V',SNES,1992,Role-Playing,SquareSoft,0.34901
+'Final Fantasy Tactics',PS,1997,Role-Playing,SquareSoft,0.34901
+'Twisted Metal 2',PS,1996,Racing,'Sony Computer Entertainment',0.346535
+'Halo: Combat Evolved Anniversary',X360,2011,Shooter,'Microsoft Game Studios',0.346535
+'Need for Speed Carbon: Own the City',PSP,2006,Racing,'Electronic Arts',0.346535
+'The Sims: Bustin Out',PS2,2003,Simulation,'Electronic Arts',0.344059
+'Riven: The Sequel to Myst',PC,1997,Adventure,'Red Orb',0.344059
+'Tom Clancy Rainbow Six: Vegas 2',X360,2008,Shooter,Ubisoft,0.341584
+'Sonic Adventure',DC,1998,Platform,Sega,0.341584
+'Ice Hockey',NES,1988,Sports,Nintendo,0.341584
+'pro evolution soccer 2011',PS3,2010,Sports,'Konami Digital Entertainment',0.341584
+'Dragon Ball Z: Budokai 2',PS2,2003,Fighting,Atari,0.339109
+'ATV Offroad Fury',PS2,2001,Racing,'Sony Computer Entertainment',0.339109
+'Dino Crisis',PS,1998,Action,Capcom,0.339109
+Minecraft,XOne,2014,Misc,'Microsoft Game Studios',0.339109
+'Need for Speed: ProStreet',PS2,2007,Racing,'Electronic Arts',0.339109
+'Madden NFL 16',XOne,2015,Sports,'Electronic Arts',0.336634
+'Tetris Plus',PS,1996,Puzzle,JVC,0.336634
+'Pro Wrestling',NES,1987,Fighting,Nintendo,0.336634
+'Theme Hospital',PC,1997,Strategy,'Electronic Arts',0.336634
+'Frogger Adventures: Temple of the Frog',GBA,N/A,Adventure,'Konami Digital Entertainment',0.334158
+'Need for Speed (2015)',PS4,2015,Racing,'Electronic Arts',0.334158
+'Zumba Fitness',X360,2010,Sports,'505 Games',0.334158
+'LEGO Indiana Jones: The Original Adventures',Wii,N/A,Action,LucasArts,0.334158
+Monopoly,PC,1994,Misc,'Hasbro Interactive',0.334158
+'Batman: Arkham Origins',PS3,2013,Action,'Warner Bros. Interactive Entertainment',0.334158
+'Dead Island',X360,2011,Action,'Deep Silver',0.334158
+'Guitar Hero',PS2,2005,Misc,RedOctane,0.331683
+'LEGO Star Wars: The Complete Saga',PS3,2007,Action,LucasArts,0.331683
+'Kinect: Disneyland Adventures',X360,2011,Misc,'Microsoft Game Studios',0.331683
+'WCW/nWo Revenge',N64,1998,Fighting,THQ,0.331683
+Bloodborne,PS4,2015,Action,'Sony Computer Entertainment',0.331683
+'NBA 2K15',PS4,2014,Sports,'Take-Two Interactive',0.331683
+'Madden NFL 11',PS3,2010,Sports,'Electronic Arts',0.331683
+'Yu-Gi-Oh! The Duelists of the Roses',PS2,2001,Misc,'Konami Digital Entertainment',0.331683
+'Madden NFL 08',X360,2007,Sports,'Electronic Arts',0.329208
+'Half-Life 2',PC,2004,Shooter,'Vivendi Games',0.329208
+'The Incredibles',PS2,2004,Action,THQ,0.329208
+'Tony Hawk Underground 2',PS2,2004,Sports,Activision,0.329208
+'Madden NFL 10',PS3,2009,Sports,'Electronic Arts',0.329208
+'Kinect Sports: Season Two',X360,2011,Sports,'Microsoft Game Studios',0.326733
+'Kirby Dream Land 2',GB,1995,Platform,Nintendo,0.326733
+'LEGO Harry Potter: Years 1-4',DS,2010,Action,'Warner Bros. Interactive Entertainment',0.324257
+'Donkey Kong Land II',GB,1996,Platform,Nintendo,0.324257
+'Dragon Warrior Monsters',GB,1998,Role-Playing,'Eidos Interactive',0.324257
+'Midnight Club: Los Angeles',X360,2008,Racing,'Take-Two Interactive',0.324257
+'Skylanders SWAP Force',Wii,2013,Platform,Activision,0.321782
+'WWE SmackDown vs Raw 2008',PS2,2007,Fighting,THQ,0.321782
+'My Fitness Coach',Wii,2008,Sports,Ubisoft,0.321782
+'Resident Evil - Code: Veronica X',PS2,2001,Action,Capcom,0.321782
+'The Sims 3',X360,2010,Simulation,'Electronic Arts',0.319307
+'The Legend of Zelda: Majora Mask 3D',3DS,2015,Action,Nintendo,0.316832
+'NBA 2K16',XOne,2015,Sports,'Take-Two Interactive',0.316832
+'Just Dance Kids',Wii,2010,Misc,Ubisoft,0.316832
+'Mario Tennis',N64,2000,Sports,Nintendo,0.316832
+'Grand Theft Auto',PS,1997,Action,'Take-Two Interactive',0.316832
+'James Bond 007: Everything or Nothing',PS2,2004,Shooter,'Electronic Arts',0.314356
+'WarioWare Touched!',DS,2004,Puzzle,Nintendo,0.314356
+'Need For Speed: High Stakes',PS,1999,Racing,'Electronic Arts',0.314356
+'Chrono Trigger',SNES,1995,Role-Playing,SquareSoft,0.314356
+'Cool Boarders 3',PS,1998,Sports,'989 Studios',0.314356
+'LEGO Marvel Super Heroes',X360,2013,Action,'Warner Bros. Interactive Entertainment',0.311881
+'Guild Wars 2',PC,2012,Action,NCSoft,0.311881
+'Pokemon Ranger: Shadows of Almia',DS,2008,Role-Playing,Nintendo,0.311881
+'Dead Island',PS3,2011,Action,'Deep Silver',0.309406
+'Tomb Raider II',PC,1997,Action,'Eidos Interactive',0.309406
+'God of War: Ascension',PS3,2013,Action,'Sony Computer Entertainment',0.309406
+'Need for Speed Underground 2',XB,2004,Racing,'Electronic Arts',0.306931
+'Pro Evolution Soccer 2010',PS3,2009,Sports,'Konami Digital Entertainment',0.306931
+'Just Dance 2015',Wii,2014,Misc,Ubisoft,0.306931
+'Yokai Watch Busters',3DS,2015,Action,'Level 5',0.306931
+'Mario Bros.',NES,1983,Platform,Nintendo,0.306931
+'FIFA Soccer 09',PS2,2008,Sports,'Electronic Arts',0.306931
+'Star Wars: The Force Unleashed',PS3,2008,Action,LucasArts,0.306931
+'Borderlands 2',PS3,2012,Shooter,'Take-Two Interactive',0.306931
+'TOCA Touring Car Championship',PS,1997,Racing,Codemasters,0.306931
+'Paper Mario: Sticker Star',3DS,2012,Role-Playing,Nintendo,0.304455
+'Sonic Ultimate Genesis Collection',PS3,2009,Misc,Sega,0.304455
+'Super Monkey Ball: Banana Blitz',Wii,2006,Misc,Sega,0.304455
+'Kirby: Nightmare in Dream Land',GBA,2002,Platform,Nintendo,0.304455
+'Wario Land 4',GBA,2001,Platform,Nintendo,0.30198
+'Guitar Hero III: Legends of Rock',PS3,2007,Misc,Activision,0.30198
+'Call of Duty 3',Wii,N/A,Shooter,Activision,0.30198
+'Resident Evil 4',Wii,2007,Action,Capcom,0.30198
+Minecraft,PSV,2014,Misc,'Sony Computer Entertainment Europe',0.299505
+'Onimusha 2: Samurai Destiny',PS2,2002,Adventure,Capcom,0.299505
+'Cool Boarders 2',PS,1997,Sports,'UEP Systems',0.299505
+'Paper Mario: The Thousand-Year Door',GC,2004,Role-Playing,Nintendo,0.299505
+'Madden NFL 12',PS3,2011,Sports,'Electronic Arts',0.299505
+'Monster Hunter Tri',Wii,2009,Role-Playing,Nintendo,0.299505
+'Dissidia: Final Fantasy',PSP,2008,Fighting,'Square Enix',0.299505
+'Sonic Advance',GBA,2001,Platform,Sega,0.29703
+'Spyro: Season of Ice',GBA,2001,Platform,'Vivendi Games',0.294554
+'Teenage Mutant Ninja Turtles II: The Arcade Game',NES,1990,Action,'Konami Digital Entertainment',0.294554
+'LEGO Indiana Jones: The Original Adventures',DS,2008,Action,Activision,0.294554
+'Dance Dance Revolution X2',PS2,2009,Simulation,'Konami Digital Entertainment',0.294554
+'New Super Luigi U',WiiU,2013,Platform,Nintendo,0.292079
+'Prince of Persia: The Sands of Time',PS2,2003,Action,Ubisoft,0.292079
+Scribblenauts,DS,2009,Puzzle,'Warner Bros. Interactive Entertainment',0.292079
+'The Legend of Zelda: Link Awakening DX',GB,1998,Adventure,Nintendo,0.292079
+'Need for Speed: Hot Pursuit',X360,2010,Racing,'Electronic Arts',0.292079
+'BioShock 2',X360,2010,Shooter,'Take-Two Interactive',0.289604
+'Assassin Creed IV: Black Flag',XOne,2013,Action,Ubisoft,0.289604
+'Devil May Cry 3: Dante Awakening Special Edition',PS2,2006,Action,Capcom,0.289604
+'Rock Band 2',X360,2008,Misc,'Electronic Arts',0.287129
+Frogger,2600,1981,Action,'Parker Bros.',0.287129
+'Guitar Hero II',X360,2007,Misc,Activision,0.287129
+'Wario Land 3',GB,2000,Platform,Nintendo,0.287129
+'Pro Yakyuu Family Stadium',NES,1986,Sports,'Namco Bandai Games',0.287129
+'Sonic Unleashed',Wii,2008,Platform,Sega,0.287129
+'High School Musical: Makin the Cut!',DS,2007,Puzzle,'Disney Interactive Studios',0.287129
+'Pro Evolution Soccer 2012',PS3,2011,Action,'Konami Digital Entertainment',0.284653
+'Saints Row',X360,2006,Action,THQ,0.284653
+'Star Wars: Knights of the Old Republic',XB,2003,Role-Playing,Activision,0.284653
+'Kirby Pinball Land',GB,1992,Misc,Nintendo,0.284653
+'Donkey Kong Country',GB,2000,Platform,Nintendo,0.284653
+'Hitman: Absolution',PS3,2012,Action,'Square Enix',0.284653
+'Yu-Gi-Oh: Duel Monsters 4',GB,2000,Role-Playing,'Konami Digital Entertainment',0.282178
+'ATV Offroad Fury 2',PS2,2002,Racing,THQ,0.282178
+'Forza Motorsport 5',XOne,2013,Racing,'Microsoft Game Studios',0.282178
+'Madden NFL 25',X360,2013,Sports,'Electronic Arts',0.282178
+'Pokemon Ranger',DS,2006,Role-Playing,Nintendo,0.282178
+'Mario & Luigi: Superstar Saga',GBA,2003,Role-Playing,Nintendo,0.279703
+'Final Fantasy XIII',X360,2010,Role-Playing,'Square Enix',0.279703
+'Star Wars: Rogue Squadron',N64,1998,Simulation,Nintendo,0.279703
+Tennis,NES,1984,Sports,Nintendo,0.279703
+'The Sims: House Party',PC,2001,Simulation,'Electronic Arts',0.277228
+'Your Shape featuring Jenny McCarthy',Wii,2009,Sports,Ubisoft,0.277228
+'Syphon Filter 2',PS,2000,Shooter,'Sony Computer Entertainment',0.274752
+'Tom Clancy Rainbow Six: Siege',PS4,2015,Shooter,Ubisoft,0.274752
+Volleyball,NES,1987,Sports,Nintendo,0.274752
+'FIFA 15',XOne,2014,Sports,'Electronic Arts',0.274752
+'Call of Duty: Roads to Victory',PSP,2007,Shooter,Activision,0.272277
+'Super Mario RPG: Legend of the Seven Stars',SNES,1996,Role-Playing,Nintendo,0.272277
+Mahjong,NES,1983,Misc,Nintendo,0.272277
+'R.C. Pro-Am',NES,1988,Racing,Nintendo,0.272277
+'SimCity 2000',PC,1992,Simulation,Maxis,0.272277
+'Demon Attack',2600,1981,Shooter,Imagic,0.269802
+'Dance Dance Revolution Extreme',PS2,2004,Simulation,'Konami Digital Entertainment',0.269802
+'Tetris DS',DS,2006,Puzzle,Nintendo,0.269802
+'Final Fantasy Tactics Advance',GBA,2003,Role-Playing,SquareSoft,0.269802
+'Far Cry: Primal',PS4,2016,Action,Ubisoft,0.269802
+'Toy Story 3: The Video Game',DS,2010,Action,'Disney Interactive Studios',0.267327
+'Final Fantasy III',DS,2006,Role-Playing,'Square Enix',0.267327
+'Kirby Epic Yarn',Wii,2010,Platform,Nintendo,0.267327
+'Project Gotham Racing',XB,2001,Racing,'Microsoft Game Studios',0.267327
+Golf,GB,1989,Sports,Nintendo,0.267327
+'NBA 2K12',PS3,2011,Sports,'Take-Two Interactive',0.264851
+Borderlands,PS3,2009,Shooter,'Take-Two Interactive',0.264851
+'Tony Hawk Pro Skater',N64,2000,Sports,Activision,0.264851
+'PES 2009: Pro Evolution Soccer',PS3,2008,Sports,'Konami Digital Entertainment',0.264851
+'Need for Speed: Hot Pursuit 2',PS2,2002,Racing,'Electronic Arts',0.264851
+'Mario Sports Mix',Wii,2010,Sports,Nintendo,0.264851
+'Rock Band',Wii,N/A,Misc,'MTV Games',0.264851
+'Dynasty Warriors 4',PS2,2003,Action,'Tecmo Koei',0.264851
+'Mortal Kombat',X360,2011,Fighting,'Warner Bros. Interactive Entertainment',0.264851
+'Parasite Eve',PS,1998,Role-Playing,SquareSoft,0.262376
+'Scooby-Doo! Night of 100 Frights',PS2,2002,Platform,THQ,0.262376
+'Project Gotham Racing (JP weekly sales)',XB,2002,Action,'Microsoft Game Studios',0.262376
+'Need for Speed: Most Wanted 5-1-0',PSP,2005,Racing,'Electronic Arts',0.262376
+'Portal 2',X360,2011,Shooter,'Valve Software',0.262376
+'Devil May Cry 3: Dante Awakening',PS2,2005,Action,Capcom,0.259901
+'Derby Stallion',PS,1997,Sports,'ASCII Entertainment',0.259901
+'Dead Rising',X360,2006,Action,Capcom,0.259901
+'Finding Nemo',PS2,2003,Action,THQ,0.259901
+'NBA 2K11',X360,2010,Action,'Take-Two Interactive',0.259901
+'Wipeout: The Game',Wii,2009,Misc,Mindscape,0.259901
+'The Sims 2: Pets',DS,2006,Simulation,'Electronic Arts',0.259901
+'Battlefield: Hardline',PS4,2015,Shooter,'Electronic Arts',0.259901
+'Metal Gear Solid: Peace Walker',PSP,2010,Action,'Konami Digital Entertainment',0.259901
+'World of Warcraft: Cataclysm',PC,2010,Role-Playing,Activision,0.257426
+'Tetris Worlds',PS2,2002,Puzzle,THQ,0.257426
+'Need For Speed: Undercover',PS3,2008,Racing,'Electronic Arts',0.257426
+'Dance Dance Revolution: Hottest Party',Wii,2007,Simulation,'Konami Digital Entertainment',0.257426
+'Mario Party 5',GC,2003,Misc,Nintendo,0.257426
+'Ghostbusters: The Video Game (DS Version)',PS3,2010,Action,'Take-Two Interactive',0.257426
+'Sim Theme Park',PC,1998,Strategy,'Electronic Arts',0.257426
+'Warcraft: Orcs & Humans',PC,1994,Strategy,Activision,0.257426
+'Skate 3',PS3,2010,Sports,'Electronic Arts',0.257426
+'Spec Ops: Airborne Commando',PS,2002,Shooter,'Take-Two Interactive',0.25495
+'Kingdom Hearts: Birth by Sleep',PSP,2010,Role-Playing,'Square Enix',0.25495
+'UFC 2009 Undisputed',X360,2009,Fighting,THQ,0.25495
+'Dark Souls',PS3,2011,Role-Playing,'Namco Bandai Games',0.25495
+'Yu-Gi-Oh! The Eternal Duelist Soul',GBA,2001,Strategy,'Konami Digital Entertainment',0.25495
+'Need for Speed: ProStreet',X360,2007,Racing,'Electronic Arts',0.252475
+'The Sims 3',PS3,2010,Simulation,'Electronic Arts',0.252475
+'Tom Clancy Splinter Cell: Conviction',X360,2010,Action,Ubisoft,0.252475
+'Pokemon Mystery Dungeon: Red/Blue Rescue Team',GBA,2005,Role-Playing,Nintendo,0.252475
+'The Incredibles',GBA,2004,Action,THQ,0.252475
+'R4: Ridge Racer Type 4',PS,1998,Racing,'Namco Bandai Games',0.252475
+'SoulCalibur II',PS2,2003,Fighting,'Namco Bandai Games',0.252475
+'Mario & Luigi: Dream Team',3DS,2013,Role-Playing,Nintendo,0.252475
+'Need for Speed: ProStreet',PS3,2007,Racing,'Electronic Arts',0.25
+'Carnival Games',DS,2008,Misc,'Take-Two Interactive',0.25
+'NBA 2K14',PS3,2013,Sports,'Take-Two Interactive',0.25
+'Pokémon Mystery Dungeon: Blue Rescue Team',DS,2005,Role-Playing,Nintendo,0.25
+'Sonic Mega Collection',GC,2002,Misc,Infogrames,0.25
+'Diablo III',PS3,2013,Role-Playing,Activision,0.25
+'NBA Jam',GEN,1992,Sports,'Arena Entertainment',0.25
+'PGR4 - Project Gotham Racing 4',X360,2007,Racing,'Microsoft Game Studios',0.25
+'Kingdom Hearts 358/2 Days',DS,2009,Role-Playing,'Square Enix',0.247525
+'Dance Central 2',X360,2011,Misc,'Microsoft Game Studios',0.247525
+'Rayman Raving Rabbids: TV Party',Wii,2008,Misc,Ubisoft,0.247525
+'SOCOM: U.S. Navy SEALs: Combined Assault',PS2,2006,Shooter,'Sony Computer Entertainment',0.247525
+'Peter Jackson King Kong: The Official Game of the Movie',PS2,2005,Action,Ubisoft,0.247525
+'Donkey Kong Country',GBA,2003,Platform,Nintendo,0.247525
+'Need for Speed: The Run',PS3,2011,Action,'Electronic Arts',0.247525
+'Madden NFL 15',PS4,2014,Sports,'Electronic Arts',0.24505
+'1080°: TenEighty Snowboarding',N64,1998,Sports,Nintendo,0.24505
+'Just Dance 3',X360,2011,Misc,Ubisoft,0.24505
+'NBA Live 2004',PS2,2003,Sports,'Electronic Arts',0.24505
+'Dead Space',PS3,2008,Action,'Electronic Arts',0.242574
+'Call of Duty 2',X360,2005,Shooter,Activision,0.242574
+'Madden NFL 15',X360,2014,Sports,'Electronic Arts',0.242574
+'Forza Horizon',X360,2012,Racing,'Microsoft Game Studios',0.242574
+TouchMaster,DS,2007,Puzzle,'Midway Games',0.240099
+'Tom Clancy The Division',XOne,2016,Shooter,Ubisoft,0.240099
+'LEGO Marvel Super Heroes',PS3,2013,Action,'Warner Bros. Interactive Entertainment',0.237624
+'Fire Emblem: Awakening',3DS,2012,Role-Playing,Nintendo,0.237624
+DriveClub,PS4,2014,Racing,'Sony Computer Entertainment',0.237624
+'Super Street Fighter II',SNES,1993,Fighting,Nintendo,0.237624
+'Mortal Kombat vs. DC Universe',PS3,2008,Fighting,'Midway Games',0.237624
+'Tenchu: Stealth Assassins',PS,1997,Action,Activision,0.235149
+Tennis,GB,1989,Sports,Nintendo,0.235149
+'Harry Potter and the Chamber of Secrets',GBA,2002,Action,'Electronic Arts',0.235149
+'Harry Potter and the Chamber of Secrets',PS,2002,Action,'Electronic Arts',0.232673
+SimCity,SNES,1991,Simulation,Nintendo,0.232673
+'Battlefield 4',XOne,2013,Shooter,'Electronic Arts',0.232673
+'Resident Evil 6',X360,2012,Shooter,Capcom,0.232673
+'Dragon Age: Inquisition',PS4,2014,Role-Playing,'Electronic Arts',0.230198
+'Sonic Classic Collection',DS,2010,Platform,Sega,0.230198
+'Spyro: Enter the Dragonfly',PS2,2002,Platform,'Universal Interactive',0.230198
+'Call of Duty: World at War',Wii,2008,Shooter,Activision,0.230198
+'Devil May Cry 2',PS2,2003,Action,Capcom,0.230198
+'Burnout Paradise',PS3,2008,Racing,'Electronic Arts',0.230198
+'E.T.: The Extra Terrestrial',2600,1981,Action,Atari,0.230198
+'BioShock Infinite',X360,2013,Shooter,'Take-Two Interactive',0.227723
+'Hot Shots Golf: Open Tee',PSP,2004,Sports,'Sony Computer Entertainment',0.227723
+'Rad Racer',NES,1986,Racing,Nintendo,0.227723
+Soccer,NES,1985,Sports,Nintendo,0.227723
+'Kirby Squeak Squad',DS,2006,Platform,Nintendo,0.227723
+'Tom Clancy Rainbow Six: Vegas',X360,2006,Shooter,Ubisoft,0.227723
+Destiny,X360,2014,Shooter,Activision,0.225248
+'Crash Nitro Kart',PS2,2003,Racing,'Vivendi Games',0.225248
+'Grand Theft Auto: San Andreas',XB,2005,Action,'Take-Two Interactive',0.225248
+'Star Wars: Dark Forces',PC,1994,Shooter,LucasArts,0.225248
+'NBA Street Vol. 2',PS2,2003,Sports,'Electronic Arts',0.225248
+'Def Jam Vendetta',PS2,2003,Fighting,'Electronic Arts',0.222772
+'FIFA Soccer 09',X360,2008,Sports,'Electronic Arts',0.222772
+'Who wants to be a millionaire',PC,1999,Misc,'Disney Interactive Studios',0.222772
+'Scooby Doo and the Cyber Chase',PS,2001,Adventure,THQ,0.222772
+Alleyway,GB,1989,Puzzle,Nintendo,0.222772
+'Dragon Ball Z: Budokai 3',PS2,2004,Fighting,Atari,0.222772
+'Jet Moto 2',PS,1997,Racing,'Sony Computer Entertainment',0.222772
+'Tom Clancy Ghost Recon',PS2,2002,Shooter,Ubisoft,0.222772
+'X-Men Legends',PS2,2004,Role-Playing,Activision,0.220297
+'Batman: Arkham Origins',X360,2013,Action,'Warner Bros. Interactive Entertainment',0.220297
+'Guitar Hero: World Tour',PS3,2008,Misc,Activision,0.220297
+'Mortal Kombat II',SNES,1993,Fighting,'Acclaim Entertainment',0.220297
+'Virtua Fighter 2',SAT,1995,Fighting,Sega,0.220297
+'Tetris DX',GB,1998,Puzzle,Nintendo,0.220297
+'Mortal Kombat vs. DC Universe',X360,2008,Fighting,'Midway Games',0.220297
+'Watch Dogs',PS3,2014,Action,Ubisoft,0.220297
+'Mario Super Sluggers',Wii,2008,Sports,Nintendo,0.220297
+'Tomb Raider (2013)',X360,2013,Action,'Square Enix',0.217822
+'The Legend of Zelda: Oracle of Ages',GB,2001,Action,Nintendo,0.217822
+'Need for Speed: Shift',X360,2009,Racing,'Electronic Arts',0.217822
+Monopoly,Wii,2008,Misc,'Electronic Arts',0.217822
+'Red Faction',PS2,2001,Shooter,THQ,0.217822
+'The Sims: Makin Magic',PC,2003,Simulation,'Electronic Arts',0.217822
+'MX Unleashed',PS2,2004,Racing,THQ,0.217822
+'PaRappa The Rapper',PS,1996,Misc,'Sony Computer Entertainment',0.217822
+'Toy Story Mania!',Wii,2009,Misc,'Disney Interactive Studios',0.217822
+'Mario Party 3',N64,2000,Misc,Nintendo,0.215347
+'Star Wars: The Force Unleashed',Wii,2008,Action,LucasArts,0.215347
+'Game Party 2',Wii,2008,Misc,'Midway Games',0.215347
+'Destiny: The Taken King',PS4,2015,Shooter,Activision,0.215347
+'LEGO Star Wars III: The Clone Wars',Wii,2011,Action,LucasArts,0.215347
+'Star Wars Rogue Leader: Rogue Squadron II',GC,2001,Simulation,LucasArts,0.212871
+'Max Payne 3',PS3,2012,Shooter,'Take-Two Interactive',0.212871
+'Need for Speed Rivals',PS4,2013,Racing,'Electronic Arts',0.210396
+'Madden NFL 09',PS3,2008,Sports,'Electronic Arts',0.210396
+'Yokai Watch',3DS,2013,Role-Playing,Nintendo,0.210396
+'Ratchet & Clank Future: A Crack in Time',PS3,2009,Platform,'Sony Computer Entertainment',0.207921
+'Yu-Gi-Oh! Forbidden Memories',PS,1999,Role-Playing,'Konami Digital Entertainment',0.207921
+'Mortal Kombat: Deception',PS2,2004,Fighting,'Midway Games',0.207921
+'Hot Shots Golf 2',PS,1999,Sports,'Sony Computer Entertainment',0.207921
+'Medal of Honor: European Assault (All Region sales)',PS2,2005,Shooter,'Electronic Arts',0.207921
+'WCW Nitro',PS,1998,Fighting,THQ,0.207921
+'High School Musical: Sing It!',PS2,2007,Misc,'Disney Interactive Studios',0.205446
+'Star Fox Adventures',GC,2002,Adventure,Nintendo,0.205446
+'FIFA 2000',PS,1998,Sports,'Electronic Arts',0.205446
+'Dynasty Warriors 3',PS2,2001,Action,THQ,0.205446
+'Donkey Kong Country Returns',3DS,2013,Platform,Nintendo,0.205446
+'The Legend of Zelda: Oracle of Seasons',GB,2001,Adventure,Nintendo,0.20297
+'Madden NFL 06',XB,2005,Sports,'Electronic Arts',0.20297
+'Shrek 2',PS2,2004,Platform,Activision,0.20297
+'The Legend of Dragoon',PS,1999,Role-Playing,'Sony Computer Entertainment',0.20297
+'Turok 2: Seeds of Evil',N64,1997,Platform,'Acclaim Entertainment',0.20297
+SingStar,PS2,2004,Misc,'Sony Computer Entertainment',0.20297
+'LittleBigPlanet 3',PS4,2014,Platform,'Sony Computer Entertainment',0.20297
+'NBA Live 2002',PS2,2001,Sports,'Electronic Arts',0.20297
+'Phineas and Ferb',DS,2009,Action,'Disney Interactive Studios',0.20297
+'Chrono Cross',PS,1999,Role-Playing,SquareSoft,0.20297
+'GoldenEye 007 (2010)',Wii,2010,Action,Activision,0.20297
+'Mario Party: Island Tour',3DS,2013,Misc,Nintendo,0.200495
+'Jak 3',PS2,2004,Platform,'Sony Computer Entertainment',0.200495
+'Rayman Raving Rabbids 2',Wii,2007,Misc,Ubisoft,0.200495
+'Kingdom Hearts: Chain of Memories',GBA,2004,Role-Playing,'Square Enix',0.200495
+Pinball,NES,1984,Action,Nintendo,0.200495
+'inFAMOUS 2',PS3,2011,Action,'Sony Computer Entertainment',0.200495
+'Gran Turismo Concept 2001 Tokyo',PS2,2001,Racing,Unknown,0.19802
+'Demon Souls',PS3,2009,Role-Playing,'Namco Bandai Games',0.19802
+'NCAA Football 06',PS2,2005,Sports,'Electronic Arts',0.19802
+'Hey You Pikachu!',N64,1998,Simulation,Nintendo,0.195545
+'2 Games in 1: Sonic Advance & ChuChu Rocket!',GBA,2005,Misc,THQ,0.195545
+'World of Warcraft: Mists of Pandaria',PC,2012,Role-Playing,Activision,0.195545
+'Jet Moto',PS,1996,Racing,'Sony Computer Entertainment',0.195545
+'Just Cause 3',PS4,2015,Action,'Square Enix',0.195545
+'Secret of Mana',SNES,1993,Role-Playing,SquareSoft,0.195545
+'The Orange Box',X360,2007,Shooter,'Electronic Arts',0.195545
+'Air Combat',PS,1995,Simulation,'Sony Computer Entertainment',0.195545
+'Kirby: Triple Deluxe',3DS,2014,Platform,Nintendo,0.193069
+'Sonic & Knuckles',GEN,1994,Platform,Sega,0.193069
+'Namco Museum',PS2,2001,Misc,'Namco Bandai Games',0.193069
+'The Sims: Hot Date',PC,2001,Simulation,'Electronic Arts',0.193069
+'Metroid Prime 3: Corruption',Wii,2007,Shooter,Nintendo,0.193069
+'Dragon Quest VI: Realms of Revelation',DS,2010,Role-Playing,Nintendo,0.190594
+'The Evil Within',PS4,2014,Action,'Bethesda Softworks',0.190594
+'DDRMAX2: Dance Dance Revolution',PS2,2003,Simulation,'Konami Digital Entertainment',0.190594
+'Crazy Taxi',DC,2000,Racing,Sega,0.190594
+'Virtua Fighter 4',PS2,2002,Fighting,Sega,0.190594
+'Sly 2: Band of Thieves',PS2,2004,Platform,'Sony Computer Entertainment',0.190594
+'Guitar Hero: World Tour',PS2,2008,Misc,Activision,0.188119
+'Sonic Advance 2',GBA,2002,Platform,Sega,0.188119
+'Madden NFL 07',X360,2006,Sports,'Electronic Arts',0.188119
+'NBA 2K11',PS3,2010,Action,'Take-Two Interactive',0.188119
+'NFL GameDay 2000',PS,1999,Sports,'989 Studios',0.188119
+'Call of Duty: Black Ops 3',PS3,2015,Shooter,Activision,0.185644
+'Disney The Lion King',SNES,1994,Platform,'Virgin Interactive',0.185644
+'Beyond: Two Souls',PS3,2013,Adventure,'Sony Computer Entertainment',0.185644
+'Kinect Star Wars',X360,2012,Action,'Microsoft Game Studios',0.183168
+'Midnight Club II',PS2,2003,Racing,'Take-Two Interactive',0.183168
+'Dragon Quest Monsters: Joker',DS,2006,Role-Playing,'Square Enix',0.183168
+'SpongeBob SquarePants: SuperSponge',PS,2001,Action,THQ,0.183168
+'The Getaway: Black Monday',PS2,2004,Action,'Sony Computer Entertainment',0.183168
+'Professor Layton and the Mask of Miracle',3DS,2011,Puzzle,Nintendo,0.183168
+'Just Cause 2',PS3,2010,Action,'Square Enix',0.183168
+'Dragon Dogma',PS3,2012,Role-Playing,Capcom,0.183168
+'The Legend of Zelda: The Wind Waker',WiiU,2013,Action,Nintendo,0.180693
+'50 Cent: Bulletproof',PS2,2005,Action,'Vivendi Games',0.180693
+'High School Musical: Sing It!',Wii,2007,Misc,'Disney Interactive Studios',0.180693
+'Wii Party U',WiiU,2013,Misc,Nintendo,0.180693
+'Madden NFL 25',PS3,2013,Sports,'Electronic Arts',0.180693
+'Final Fantasy II',SNES,1991,Role-Playing,Square,0.180693
+'Kirby 64: The Crystal Shards',N64,2000,Platform,Nintendo,0.180693
+'Dead or Alive 3',XB,2001,Fighting,'Microsoft Game Studios',0.180693
+'UFC 2009 Undisputed',PS3,2009,Fighting,THQ,0.180693
+'Metroid II: Return of Samus',GB,1991,Adventure,Nintendo,0.178218
+'WWF Attitude',PS,1998,Fighting,'Acclaim Entertainment',0.178218
+'The SpongeBob SquarePants Movie',PS2,2004,Platform,THQ,0.178218
+'Golden Sun',GBA,2001,Role-Playing,Nintendo,0.178218
+'Sonic the Hedgehog 3',GEN,1994,Platform,Sega,0.178218
+'Kid Icarus',NES,1986,Platform,Nintendo,0.178218
+'Def Jam: Fight for NY',PS2,2004,Fighting,'Electronic Arts',0.178218
+'Tom Clancy Ghost Recon',XB,2002,Shooter,Ubisoft,0.178218
+'State of Emergency',PS2,2002,Action,'Take-Two Interactive',0.178218
+'BioShock Infinite',PS3,2013,Shooter,'Take-Two Interactive',0.178218
+'Hitman: Absolution',X360,2012,Action,'Square Enix',0.178218
+'2 Games in 1 Double Pack: The Incredibles / Finding Nemo: The Continuing Adventures',GBA,2007,Action,THQ,0.178218
+'Call of Duty: Black Ops 3',X360,2015,Shooter,Activision,0.178218
+'The Urbz: Sims in the City',PS2,2004,Simulation,'Electronic Arts',0.178218
+'FIFA Soccer 08',PS3,2007,Sports,'Electronic Arts',0.178218
+'Star Wars: Starfighter',PS2,2001,Simulation,Activision,0.178218
+'Madden NFL 2000',PS,1998,Sports,'Electronic Arts',0.175743
+'Kingdom Hearts',PS3,2013,Role-Playing,'Square Enix',0.175743
+'Star Wars: Battlefront',XB,2004,Shooter,Activision,0.175743
+'Pro Evolution Soccer',PS2,2001,Sports,'Konami Digital Entertainment',0.175743
+Crackdown,X360,2007,Shooter,'Microsoft Game Studios',0.175743
+Yoshi,NES,1991,Puzzle,Nintendo,0.175743
+'Disney Aladdin',SNES,1993,Platform,Capcom,0.175743
+'Kirby Adventure',NES,1993,Platform,Nintendo,0.175743
+'Cooking Mama 3: Shop & Chop',DS,2009,Simulation,'505 Games',0.175743
+'Dance Dance Revolution X',PS2,2008,Simulation,'Konami Digital Entertainment',0.175743
+'2 Games in 1: Disney Princess & The Lion King',GBA,2004,Misc,THQ,0.175743
+'Star Wars Episode I: The Phantom Menace',PS,1999,Adventure,LucasArts,0.173267
+'Xenosaga Episode I: Der Wille zur Macht',PS2,2002,Role-Playing,'Namco Bandai Games',0.173267
+'Portal 2',PS3,2011,Shooter,Valve,0.173267
+'The Beatles: Rock Band',Wii,2009,Misc,'MTV Games',0.173267
+'Forza Motorsport 6',XOne,2015,Racing,'Microsoft Game Studios',0.173267
+'Sonic Colors',Wii,2010,Platform,Sega,0.173267
+'Cruisn USA',N64,1996,Racing,Nintendo,0.173267
+'Madden NFL 99',PS,1998,Sports,'Electronic Arts',0.173267
+'Diablo III',PS4,2014,Role-Playing,Activision,0.173267
+'Uncharted: Golden Abyss',PSV,2011,Shooter,'Sony Computer Entertainment',0.173267
+Destiny,PS3,2014,Shooter,Activision,0.170792
+'SSX Tricky',PS2,2001,Sports,'Electronic Arts',0.170792
+Overwatch,PS4,2016,Shooter,Activision,0.170792
+'Twisted Metal III',PS,1998,Action,'989 Studios',0.170792
+'Harry Potter and the Sorcerer Stone',GB,2001,Action,'Electronic Arts',0.170792
+'Disney Infinity',Wii,2013,Action,'Disney Interactive Studios',0.170792
+'Crash Bandicoot: The Huge Adventure',GBA,2002,Platform,'Universal Interactive',0.170792
+Dishonored,X360,2012,Action,'Bethesda Softworks',0.170792
+'Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City',PS2,2003,Action,'Take-Two Interactive',0.168317
+'The Order: 1886',PS4,2015,Shooter,'Sony Computer Entertainment',0.168317
+'The Elder Scrolls Online',PS4,2015,Role-Playing,'Bethesda Softworks',0.168317
+'Call of Duty: World at War Final Fronts',PS2,2008,Shooter,Activision,0.168317
+'Imagine: Teacher',DS,2008,Simulation,Ubisoft,0.168317
+'Call of Duty: Modern Warfare 3',PC,2011,Shooter,Activision,0.168317
+'Madden NFL 2005',XB,2004,Sports,'Electronic Arts',0.168317
+'Star Ocean: Till The End of Time',PS2,2003,Role-Playing,Ubisoft,0.168317
+'The Sims 3: Late Night Expansion Pack',PC,2010,Simulation,'Electronic Arts',0.165842
+'Game Party 3',Wii,2009,Puzzle,'Warner Bros. Interactive Entertainment',0.165842
+'Toy Story 2: Buzz Lightyear to the Rescue!',PS,1998,Platform,Activision,0.165842
+'Deal or No Deal',DS,2007,Misc,Mindscape,0.165842
+'Ace Combat 5: The Unsung War',PS2,2004,Simulation,'Sony Computer Entertainment Europe',0.165842
+'Need for Speed Underground',XB,2003,Racing,'Electronic Arts',0.165842
+'Kanshuu Nippon Joushikiryoku Kentei Kyoukai: Imasara Hito ni wa Kikenai Otona no Joushikiryoku Training DS',DS,2006,Misc,Nintendo,0.165842
+'Tetris Worlds',GBA,2001,Puzzle,THQ,0.165842
+'Cabela Big Game Hunter 2010',Wii,2009,Sports,'Activision Value',0.163366
+'The Crew',PS4,2014,Racing,Ubisoft,0.163366
+'FIFA Soccer 10',PS2,2009,Sports,'Electronic Arts',0.163366
+'We Ski',Wii,2008,Sports,'Namco Bandai Games',0.163366
+'Personal Trainer: Math',DS,2007,Puzzle,Nintendo,0.163366
+'Kirby Return to Dreamland',Wii,2011,Platform,Nintendo,0.163366
+'Super Puyo Puyo',SNES,1993,Puzzle,Banpresto,0.163366
+'Ben 10: Protector of Earth',DS,2007,Action,D3Publisher,0.163366
+'NCAA Football 07',PS2,2006,Sports,'Electronic Arts',0.163366
+'SOCOM 3: U.S. Navy SEALs',PS2,2005,Shooter,'Sony Computer Entertainment',0.160891
+'NBA 2K15',XOne,2014,Sports,'Take-Two Interactive',0.160891
+'Saints Row 2',PS3,2008,Action,THQ,0.160891
+'Saints Row IV',X360,2013,Action,'Deep Silver',0.160891
+'Jampack Winter 99',PS,1999,Misc,'Sony Computer Entertainment',0.160891
+'Dragon Age: Origins',PS3,2009,Role-Playing,'Electronic Arts',0.160891
+'FIFA 16',X360,2015,Sports,'Electronic Arts',0.160891
+'WCW vs. nWo: World Tour',N64,1997,Fighting,THQ,0.160891
+'WCW/NWO Thunder',PS,1998,Fighting,THQ,0.160891
+'Harry Potter and the Sorcerer Stone',GBA,2001,Action,'Electronic Arts',0.160891
+'Need For Speed: Undercover',X360,2008,Racing,'Electronic Arts',0.160891
+'Dragon Ball Z: The Legacy of Goku',GBA,2002,Role-Playing,Infogrames,0.160891
+'Sid Meier Civilization V',PC,2010,Strategy,'Take-Two Interactive',0.160891
+'Resident Evil 4',GC,2005,Action,Capcom,0.160891
+'Call of Duty Black Ops: Declassified',PSV,2012,Action,Activision,0.160891
+'Star Wars Battlefront: Renegade Squadron',PSP,2007,Shooter,LucasArts,0.158416
+'World Championship Poker: Featuring Howard Lederer - All In',PS2,2006,Misc,'Oxygen Interactive',0.158416
+'NFL GameDay 98',PS,1997,Sports,'Sony Computer Entertainment',0.158416
+'LEGO Batman 2: DC Super Heroes',X360,2012,Action,'Warner Bros. Interactive Entertainment',0.158416
+'Yoshi Cookie',GB,1992,Puzzle,Nintendo,0.158416
+'Time Crisis',PS,1997,Shooter,'Namco Bandai Games',0.158416
+'The Sims: Superstar',PC,2003,Simulation,'Electronic Arts',0.158416
+'Star Wars The Clone Wars: Lightsaber Duels',Wii,2008,Action,LucasArts,0.158416
+MySims,Wii,2007,Simulation,'Electronic Arts',0.158416
+'Metroid Fusion',GBA,2002,Action,Nintendo,0.158416
+'Shaun White Snowboarding: Road Trip',Wii,2008,Sports,Ubisoft,0.155941
+'SSX 3',PS2,2003,Sports,'Electronic Arts',0.155941
+'Big Beach Sports',Wii,2008,Sports,THQ,0.155941
+'Madden NFL 2001',PS,2000,Sports,'Electronic Arts',0.155941
+'Fight Night Round 3',PS3,2006,Fighting,'Electronic Arts',0.155941
+Knack,PS4,2013,Platform,'Sony Computer Entertainment Europe',0.155941
+'Star Wars: Battlefront II',XB,2005,Shooter,Activision,0.155941
+'Disney DuckTales',NES,1989,Platform,Capcom,0.155941
+'Tony Hawk Pro Skater 3',PS,2001,Sports,Activision,0.155941
+'Monsters Inc.',GBA,2001,Adventure,THQ,0.155941
+'StarCraft II: Heart of the Swarm',PC,2013,Strategy,Activision,0.155941
+'PGR: Project Gotham Racing 2',XB,2003,Racing,'Microsoft Game Studios',0.155941
+'Spy Hunter',PS2,2001,Racing,'Midway Games',0.155941
+'NCAA Football 2004',PS2,2003,Sports,'Electronic Arts',0.155941
+'SpongeBob SquarePants: Battle for Bikini Bottom',PS2,2003,Platform,THQ,0.155941
+'Dying Light',PS4,2015,Action,'Warner Bros. Interactive Entertainment',0.153465
+'Heavenly Sword',PS3,2007,Action,'Sony Computer Entertainment',0.153465
+'Street Fighter II: Special Champion Edition',GEN,1992,Fighting,Sega,0.153465
+SSX,PS2,2000,Sports,'Electronic Arts',0.153465
+'Max Payne 3',X360,2012,Shooter,'Take-Two Interactive',0.153465
+'NBA Ballers',PS2,2004,Sports,'Midway Games',0.153465
+'Need for Speed Carbon',X360,2006,Racing,'Electronic Arts',0.153465
+'NBA Live 2003',PS2,2002,Sports,'Electronic Arts',0.153465
+'Dragon Ball Z: Budokai Tenkaichi',PS2,2005,Fighting,Atari,0.153465
+'Ms. Pac-Man',2600,1981,Puzzle,Atari,0.15099
+'Mario Party 6',GC,2004,Misc,Nintendo,0.15099
+'Super Scope 6',SNES,1991,Shooter,Nintendo,0.15099
+'Go Vacation',Wii,2011,Misc,'Namco Bandai Games',0.15099
+'Dragon Quest V: Tenkuu no Hanayome',PS2,2004,Role-Playing,'Enix Corporation',0.15099
+'Army of Two',X360,2008,Shooter,'Electronic Arts',0.15099
+'Dragon Quest IV: Chapters of the Chosen',DS,2007,Role-Playing,'Square Enix',0.148515
+'Kirby & the Amazing Mirror',GBA,2004,Platform,Nintendo,0.148515
+'LEGO Pirates of the Caribbean: The Video Game',Wii,2011,Action,'Disney Interactive Studios',0.148515
+'Dig Dug',2600,1982,Puzzle,Atari,0.148515
+'Tom Clancy Rainbow Six',PS,1999,Shooter,'Red Storm Entertainment',0.148515
+'Ghosts Goblins',NES,1986,Action,Capcom,0.148515
+'Tiger Woods PGA Tour 2003',PS2,2002,Sports,'Electronic Arts',0.148515
+'NBA Live 06 (All region sales)',PS2,2005,Sports,'Electronic Arts',0.148515
+'Prince of Persia: Warrior Within',PS2,2004,Action,Ubisoft,0.148515
+Kinectimals,X360,2010,Simulation,'Microsoft Game Studios',0.148515
+'Until Dawn',PS4,2015,Adventure,'Sony Computer Entertainment Europe',0.148515
+'ESPN NFL 2K5',XB,2004,Sports,Sega,0.14604
+'Viva Pinata',X360,2006,Simulation,'Microsoft Game Studios',0.14604
+Pikmin,GC,2001,Strategy,Nintendo,0.14604
+'Call of Duty: Black Ops',PC,N/A,Shooter,Activision,0.14604
+'Sonic Generations',PS3,2011,Platform,Sega,0.14604
+'Tiger Woods PGA Tour 2004',PS2,2003,Sports,'Electronic Arts',0.14604
+'Ape Escape',PS,1999,Platform,'Sony Computer Entertainment',0.14604
+'NBA 2K15',X360,2014,Sports,'Take-Two Interactive',0.14604
+'NCAA Football 2005',PS2,2004,Sports,'Electronic Arts',0.143564
+'Just Cause 2',X360,2010,Action,'Square Enix',0.143564
+'Rock Band',PS3,N/A,Misc,'Electronic Arts',0.143564
+'Tony Hawk American Wasteland (Old all region sales)',PS2,2005,Sports,Activision,0.143564
+Rage,X360,2011,Shooter,'Bethesda Softworks',0.143564
+'Mario Hoops 3 on 3',DS,2006,Sports,Nintendo,0.143564
+'Kirby Air Ride',GC,2003,Racing,Nintendo,0.143564
+'Sled Storm',PS,1998,Racing,'Electronic Arts',0.143564
+'Pokemon Battle Revolution',Wii,2006,Role-Playing,Nintendo,0.141089
+'NFL Street 2',PS2,2004,Sports,'Electronic Arts',0.141089
+'Gears of War: Judgment',X360,2013,Shooter,'Microsoft Game Studios',0.141089
+Baseball,GB,1989,Sports,Nintendo,0.141089
+'Yu-Gi-Oh! Duel Monsters',GB,1998,Strategy,'Konami Digital Entertainment',0.141089
+'Super Mario Strikers',GC,2005,Sports,Nintendo,0.141089
+'Buzz! The Music Quiz',PS2,2005,Misc,'Sony Computer Entertainment',0.141089
+'SpongeBob Atlantis SquarePantis',DS,2007,Action,THQ,0.141089
+'Far Cry 4',XOne,2014,Shooter,Ubisoft,0.141089
+'Dance Dance Revolution: Hottest Party 2',Wii,2008,Simulation,'Konami Digital Entertainment',0.138614
+'Moshi Monsters: Moshling Zoo',DS,2011,Misc,Activision,0.138614
+'Dollar Dash',PS2,2005,Action,'Take-Two Interactive',0.138614
+'Far Cry 2',X360,2008,Action,Ubisoft,0.138614
+'F-1 World Grand Prix',N64,1998,Racing,'Video System',0.138614
+'River Raid',2600,1981,Shooter,Activision,0.138614
+'Silent Hill',PS,1999,Action,'Konami Digital Entertainment',0.138614
+'Dragon Quest V: Hand of the Heavenly Bride',DS,2008,Role-Playing,'Square Enix',0.138614
+'No Man Sky',PS4,2016,Action,'Hello Games',0.138614
+'Sonic Heroes',GC,2003,Platform,Sega,0.138614
+'ESPN NBA 2K5',PS2,2004,Sports,'Global Star',0.136139
+Diablo,PC,1996,Role-Playing,Activision,0.136139
+'The Legend of Zelda: Twilight Princess',GC,2006,Action,Nintendo,0.136139
+'Soul Edge',PS,1996,Fighting,'Sony Computer Entertainment',0.136139
+'Devil May Cry 4',PS3,2008,Action,Capcom,0.136139
+'Mario Bros.',2600,1982,Platform,Atari,0.136139
+'Pro Evolution Soccer 2008',PS3,2007,Sports,'Konami Digital Entertainment',0.136139
+'SoulCalibur IV',X360,2008,Fighting,Ubisoft,0.136139
+'LEGO Harry Potter: Years 1-4',X360,2010,Action,'Warner Bros. Interactive Entertainment',0.136139
+'NASCAR 2000',PS,1999,Racing,'Electronic Arts',0.136139
+'Wolfenstein: The New Order',PS4,2014,Shooter,'Bethesda Softworks',0.133663
+'Carnival Games: Mini Golf',Wii,2008,Sports,'Take-Two Interactive',0.133663
+'Guitar Hero: On Tour Decades',DS,2008,Misc,Activision,0.133663
+'MySims Kingdom',DS,2008,Simulation,'Electronic Arts',0.133663
+'Jampack Summer 2K',PS,2000,Misc,'Sony Computer Entertainment',0.133663
+'Need for Speed: Most Wanted',X360,2012,Racing,'Electronic Arts',0.133663
+'Guitar Hero 5',Wii,2009,Misc,Activision,0.133663
+'High School Musical 3: Senior Year',DS,2008,Misc,'Disney Interactive Studios',0.133663
+'Kingdom Hearts 3D: Dream Drop Distance',3DS,2012,Action,'Square Enix',0.133663
+'Hannah Montana: Music Jam',DS,2007,Action,'Disney Interactive Studios',0.133663
+'Pokemon Mystery Dungeon: Explorers of Sky',DS,2009,Role-Playing,Nintendo,0.133663
+'Spyro 2: Season of Flame',GBA,2002,Platform,'Vivendi Games',0.133663
+'Pro Evolution Soccer 2010',PS2,2009,Sports,'Konami Digital Entertainment',0.131188
+'NCAA Football 2002',PS2,2001,Sports,'Electronic Arts',0.131188
+'Conflict: Desert Storm',PS2,2002,Shooter,'Gotham Games',0.131188
+'Mario Party 7',GC,2005,Misc,Nintendo,0.131188
+'Pro Evolution Soccer 2013',PS3,2012,Sports,'Konami Digital Entertainment',0.128713
+'Smuggler Run',PS2,2000,Racing,'Take-Two Interactive',0.128713
+'Fight Night Round 3',PS2,2006,Fighting,'Electronic Arts',0.128713
+'Donkey Kong Classics',NES,1988,Platform,Nintendo,0.128713
+'Twisted Metal',PS,1995,Action,'Sony Computer Entertainment',0.128713
+'Dark Souls III',PS4,2016,Role-Playing,'Namco Bandai Games',0.128713
+'Final Fight',SNES,1990,Action,Capcom,0.128713
+'Dragon Quest Monsters 2',GB,2001,Role-Playing,'Enix Corporation',0.128713
+'Pokemon Pinball: Ruby & Sapphire',GBA,2003,Misc,Nintendo,0.128713
+'LEGO Marvel Super Heroes',PS4,2013,Action,'Warner Bros. Interactive Entertainment',0.128713
+'Mafia II',X360,2010,Action,'Take-Two Interactive',0.126238
+Dishonored,PS3,2012,Action,'Bethesda Softworks',0.126238
+Stuntman,PS2,2002,Racing,Atari,0.126238
+'Tom Clancy Rainbow Six 3',XB,2003,Shooter,Ubisoft,0.126238
+'Active Life: Outdoor Challenge',Wii,2008,Sports,Atari,0.126238
+'BioShock 2',PS3,2010,Shooter,'Take-Two Interactive',0.126238
+'007: The World is not Enough',N64,2000,Action,'Electronic Arts',0.126238
+'Spider-Man 2: Enter: Electro',PS,2001,Action,Activision,0.126238
+'Watch Dogs',XOne,2014,Action,Ubisoft,0.126238
+'Star Wars: The Force Unleashed II',PS3,2010,Action,LucasArts,0.126238
+'Ni no Kuni: Wrath of the White Witch',PS3,2011,Role-Playing,'Namco Bandai Games',0.126238
+'Command & Conquer: Tiberian Sun',PC,1999,Strategy,'Westwood Studios',0.126238
+'LEGO Battles: Ninjago',DS,2011,Strategy,'Warner Bros. Interactive Entertainment',0.126238
+'Mario Party 10',WiiU,2015,Misc,Nintendo,0.126238
+'Dead Rising 3',XOne,2013,Action,'Microsoft Game Studios',0.123762
+'Resident Evil: The Umbrella Chronicles',Wii,2007,Action,Capcom,0.123762
+'Fire Emblem Fates',3DS,2015,Role-Playing,Nintendo,0.123762
+'Dark Cloud',PS2,2000,Role-Playing,'Sony Computer Entertainment',0.123762
+'Warcraft III: The Frozen Throne',PC,2003,Strategy,Activision,0.123762
+'Tom Clancy Ghost Recon Advanced Warfighter',X360,2006,Shooter,Ubisoft,0.123762
+'Disney Fairies: Tinker Bell',DS,2008,Adventure,'Disney Interactive Studios',0.123762
+'MVP Baseball 2005',PS2,2005,Sports,'Electronic Arts',0.123762
+'Die Hard Trilogy',PS,1996,Shooter,'Fox Interactive',0.123762
+'Call of Duty: Black Ops II',PC,2012,Shooter,Activision,0.121287
+'Fight Night Round 4',PS3,2009,Fighting,'Electronic Arts',0.121287
+'MySims Kingdom',Wii,2008,Simulation,'Electronic Arts',0.121287
+'The Simpsons Game',DS,2007,Action,'Electronic Arts',0.121287
+'Mortal Kombat 3',SNES,1994,Fighting,'Acclaim Entertainment',0.121287
+'NFL GameDay 99',PS,1998,Sports,'989 Studios',0.121287
+'Call of Duty: Modern Warfare: Reflex Edition',Wii,2009,Shooter,Activision,0.121287
+'FIFA 17',XOne,2016,Sports,'Electronic Arts',0.121287
+'Mario Golf: Toadstool Tour',GC,2003,Sports,Nintendo,0.121287
+'Tiger Woods 99 PGA Tour Golf',PS,1997,Sports,'Electronic Arts',0.121287
+'Donkey Kong Country: Tropical Freeze',WiiU,2014,Platform,Nintendo,0.118812
+'Dead Space 2',X360,2011,Shooter,'Electronic Arts',0.118812
+'Sonic Rivals 2',PSP,2007,Racing,Sega,0.118812
+'Knockout Kings',PS,1997,Fighting,'Electronic Arts',0.118812
+'The Simpsons Skateboarding',PS2,2002,Sports,'Electronic Arts',0.118812
+'NASCAR 98',PS,1996,Racing,'Electronic Arts',0.118812
+'F1 Race',NES,1984,Racing,Nintendo,0.118812
+Xevious,NES,1984,Shooter,'Namco Bandai Games',0.118812
+'NASCAR 99',PS,1998,Racing,'Electronic Arts',0.118812
+'NBA Live 2000',PS,1998,Sports,'Electronic Arts',0.118812
+'Mafia II',PS3,2010,Action,'Take-Two Interactive',0.118812
+'Call of Duty 3',PS3,2006,Shooter,Activision,0.118812
+'Super Monkey Ball 2',GC,2002,Puzzle,Atari,0.118812
+'Pac-Man World 2',PS2,2002,Action,'Namco Bandai Games',0.116337
+'Madden NFL 15',XOne,2014,Sports,'Electronic Arts',0.116337
+'Sonic & Sega All-Stars Racing',Wii,2010,Racing,Sega,0.116337
+'LEGO Star Wars III: The Clone Wars',X360,2011,Action,LucasArts,0.116337
+'Football Manager 2012',PC,2011,Sports,Sega,0.116337
+'Puzzle & Dragons',3DS,2013,Role-Playing,GungHo,0.116337
+'Mega Man 2',NES,1988,Action,Capcom,0.116337
+'Simpsons Wrestling',PS,2001,Fighting,'Electronic Arts',0.116337
+'NBA Live 98',PS,1997,Sports,'Electronic Arts',0.116337
+'The Simpsons Game',PS2,2007,Action,'Electronic Arts',0.116337
+Monopoly,PS,1997,Misc,'Hasbro Interactive',0.116337
+'SoulCalibur II',GC,2003,Fighting,'Namco Bandai Games',0.113861
+'Resistance 3',PS3,2011,Shooter,'Sony Computer Entertainment',0.113861
+'Tokyo Xtreme Racer Zero',PS2,2000,Racing,'Crave Entertainment',0.113861
+'Final Fantasy XIV: A Realm Reborn',PC,2010,Role-Playing,'Square Enix',0.113861
+'NFL Blitz',PS,1998,Sports,'Midway Games',0.113861
+'Red Faction II',PS2,2002,Shooter,THQ,0.113861
+'Super Scribblenauts',DS,2010,Puzzle,'Warner Bros. Interactive Entertainment',0.113861
+'Madden NFL 2001',PS2,2000,Sports,'Electronic Arts',0.113861
+'WWF No Mercy',N64,2000,Fighting,THQ,0.113861
+'Ice Climber',NES,1985,Platform,Nintendo,0.113861
+'Sonic CD',SCD,1993,Platform,Sega,0.113861
+'Ninja Hattori Kun: Ninja wa Shuugyou Degogiru no Maki',NES,1986,Platform,'Hudson Soft',0.113861
+'Dead Rising 2',X360,2010,Action,Capcom,0.113861
+'Rock Band 2',PS3,2008,Misc,'MTV Games',0.113861
+'Pac-Man World',PS,1998,Action,'Namco Bandai Games',0.113861
+'Disney Sing It: Pop Hits',Wii,2009,Misc,'Disney Interactive Studios',0.111386
+'Final Fantasy: Crystal Chronicles',GC,2003,Role-Playing,Nintendo,0.111386
+'Medal of Honor: Frontline',XB,2002,Shooter,'Electronic Arts',0.111386
+'Madden NFL 09',PS2,2008,Sports,'Electronic Arts',0.111386
+'Drawn To Life: SpongeBob SquarePants Edition',DS,2008,Adventure,THQ,0.111386
+Banjo-Tooie,N64,2000,Platform,Nintendo,0.111386
+'Buzz! The BIG Quiz',PS2,2006,Misc,'Sony Computer Entertainment',0.111386
+'007: Quantum of Solace',X360,2008,Action,Activision,0.111386
+'The Sims 3',Wii,2010,Simulation,'Electronic Arts',0.111386
+'New Play Control! Mario Power Tennis',Wii,2009,Sports,Nintendo,0.108911
+'Bratz: Forever Diamondz',DS,2006,Adventure,THQ,0.108911
+'Dirge of Cerberus: Final Fantasy VII',PS2,2006,Shooter,'Square Enix',0.108911
+'Nintendo World Cup',NES,1990,Sports,Nintendo,0.108911
+'WWF WrestleMania 2000',N64,1999,Fighting,THQ,0.108911
+'Wario Land II',GB,1997,Platform,Nintendo,0.108911
+'Mass Effect 2',PS3,2011,Role-Playing,'Electronic Arts',0.108911
+'Major League Baseball 2K5',PS2,2005,Sports,'Take-Two Interactive',0.108911
+'Fight Night 2004',PS2,2004,Fighting,'Electronic Arts',0.108911
+'Tom Clancy Splinter Cell: Pandora Tomorrow',XB,2004,Action,Ubisoft,0.108911
+'Imagine: Master Chef',DS,2007,Simulation,Ubisoft,0.106436
+'Assassin Creed III: Liberation',PSV,2012,Action,Ubisoft,0.106436
+'SoulCalibur IV',PS3,2008,Fighting,Ubisoft,0.106436
+'Mario Golf',N64,1999,Action,Nintendo,0.106436
+'Disney Princess',GBA,2003,Platform,THQ,0.106436
+'Fight Night Round 3',X360,2006,Fighting,'Electronic Arts',0.106436
+'Metal Gear Rising: Revengeance',PS3,2013,Action,'Konami Digital Entertainment',0.106436
+'Chrono Trigger',DS,2008,Role-Playing,'Square Enix',0.106436
+'Star Wars: The Force Unleashed II',X360,2010,Action,LucasArts,0.106436
+'The House of the Dead 2 & 3 Return',Wii,2008,Shooter,Sega,0.106436
+'Disney Princess: Magical Jewels',DS,2007,Adventure,'Disney Interactive Studios',0.106436
+'LittleBigPlanet PS Vita',PSV,2012,Platform,'Sony Computer Entertainment',0.106436
+Xenogears,PS,1998,Role-Playing,SquareSoft,0.10396
+'The SpongeBob SquarePants Movie',GBA,2004,Platform,THQ,0.10396
+'Tom Clancy Ghost Recon: Future Soldier',X360,2012,Shooter,Ubisoft,0.10396
+'Battlefield: Bad Company',X360,2008,Shooter,'Electronic Arts',0.10396
+'Midway Arcade Treasures',PS2,2003,Misc,'Midway Games',0.10396
+Wall-E,DS,2008,Platform,THQ,0.10396
+'Triple Play 99',PS,N/A,Sports,N/A,0.10396
+Homefront,X360,2011,Shooter,THQ,0.10396
+'Super Monkey Ball',GC,2001,Puzzle,Atari,0.10396
+'Donkey Kong',2600,1981,Platform,Coleco,0.10396
+'Mortal Kombat 4',PS,1998,Fighting,'GT Interactive',0.10396
+'Mario Superstar Baseball',GC,2005,Sports,Nintendo,0.10396
+'Mass Effect 3',PS3,2012,Role-Playing,'Electronic Arts',0.10396
+'LEGO Batman 2: DC Super Heroes',Wii,2012,Action,'Warner Bros. Interactive Entertainment',0.10396
+'Medal of Honor: Warfighter',PS3,2012,Action,'Electronic Arts',0.10396
+'WCW vs the World',PS,1998,Fighting,THQ,0.10396
+'SNK vs. Capcom: The Match of the Millennium',PSP,2006,Fighting,Sega,0.10396
+'LEGO City Undercover',3DS,2013,Platform,Nintendo,0.10396
+'Onimusha 3: Demon Siege',PS2,2004,Action,Capcom,0.101485
+'Diablo III',X360,2013,Role-Playing,Activision,0.101485
+'Batman: Arkham Knight',XOne,2015,Action,'Warner Bros. Interactive Entertainment',0.101485
+BioShock,PS3,2008,Shooter,'Take-Two Interactive',0.101485
+'Red Dead Revolver',PS2,2004,Shooter,'Take-Two Interactive',0.101485
+'Anno 2070',PC,2011,Strategy,Ubisoft,0.101485
+'Resident Evil: Outbreak',PS2,2003,Action,Capcom,0.101485
+'Smarty Pants',Wii,2007,Misc,'Electronic Arts',0.101485
+Tamagotchi,GB,1996,Simulation,'Namco Bandai Games',0.101485
+'4 Nin uchi Mahjong',NES,1984,Misc,Nintendo,0.101485
+'Dragon Ball Z',SNES,1993,Fighting,'Namco Bandai Games',0.101485
+'Game de Hakken!! Tamagotchi 2',GB,1997,Simulation,'Namco Bandai Games',0.101485
+'Namco Museum 64',N64,1999,Misc,'Namco Bandai Games',0.101485
+'Hasbro Family Game Night',Wii,2008,Puzzle,'Electronic Arts',0.101485
+'Dragon Quest Monsters: Joker 2',DS,2010,Role-Playing,'Square Enix',0.101485
+'Tony Hawk American Wasteland (Weekly american sales)',PS2,2005,Sports,Activision,0.101485
+'My Word Coach',DS,2007,Misc,Ubisoft,0.101485
+'Hello Kitty Party',DS,2007,Misc,'Rising Star Games',0.09901
+'SingStar Pop',PS2,2007,Misc,'Sony Computer Entertainment',0.09901
+'Sonic Rivals',PSP,2006,Racing,Sega,0.09901
+'SimCity (2013)',PC,2013,Simulation,'Electronic Arts',0.09901
+'Kirby Super Star',SNES,1996,Platform,Nintendo,0.09901
+'Far Cry 4',PS3,2014,Shooter,Ubisoft,0.09901
+'WWE SmackDown vs Raw 2008',X360,2007,Fighting,THQ,0.09901
+'Kinect Joy Ride',X360,2010,Racing,'Microsoft Game Studios',0.09901
+'Rayman Raving Rabbids',Wii,2006,Misc,Ubisoft,0.09901
+'Need for Speed Rivals',PS3,2013,Racing,'Electronic Arts',0.09901
+'Tiger Woods PGA Tour 2005',PS2,2004,Sports,'Electronic Arts',0.09901
+'Dead Space 2',PS3,2011,Shooter,'Electronic Arts',0.09901
+'NCAA Football 2003',PS2,2002,Sports,'Electronic Arts',0.09901
+'Frogger 2: Swampy Revenge',PS,1999,Action,'Hasbro Interactive',0.096535
+'Disney Infinity',X360,2013,Action,'Disney Interactive Studios',0.096535
+'LEGO Indiana Jones 2: The Adventure Continues',Wii,2009,Action,Activision,0.096535
+'Sonic Ultimate Genesis Collection',X360,2009,Misc,Sega,0.096535
+'Tiger Woods PGA Tour 09 All-Play',Wii,2008,Sports,'Electronic Arts',0.096535
+'Disney DuckTales',GB,1988,Platform,Capcom,0.096535
+'Classic NES Series: Super Mario Bros.',GBA,2004,Platform,Nintendo,0.096535
+'Triple Play 2000',PS,1999,Sports,'Electronic Arts',0.096535
+'Dragon Quest VII: Warriors of Eden',3DS,2013,Role-Playing,'Square Enix',0.094059
+'Cabela Big Game Hunter',PS2,2002,Sports,Activision,0.094059
+'UFC Undisputed 2010',PS3,2010,Fighting,THQ,0.094059
+'NBA Live 06 (Weekly american sales)',PS2,2005,Sports,'Electronic Arts',0.094059
+'The Legend of Zelda: The Minish Cap',GBA,2004,Action,Nintendo,0.094059
+'NFL Street',PS2,2004,Sports,'Electronic Arts',0.094059
+'Sonic Generations',X360,2011,Platform,Sega,0.094059
+'Super Metroid',SNES,1994,Action,Nintendo,0.094059
+'Pro Yakyuu Family Stadium 87',NES,1987,Sports,'Namco Bandai Games',0.094059
+'Dead Space',X360,2008,Action,'Electronic Arts',0.094059
+'Resident Evil (Remake)',GC,2002,Action,Capcom,0.094059
+'Inazuma Eleven 2',DS,2009,Role-Playing,Nintendo,0.094059
+'Tomb Raider (2013)',PS4,2014,Action,'Square Enix',0.091584
+'LEGO Star Wars II: The Original Trilogy',PSP,2006,Action,LucasArts,0.091584
+'Toy Story 3: The Video Game',Wii,2010,Action,'Disney Interactive Studios',0.091584
+'Fight Night Round 4',X360,2009,Fighting,'Electronic Arts',0.091584
+'LEGO Star Wars: The Video Game',GC,2005,Action,'Eidos Interactive',0.091584
+'Injustice: Gods Among Us',X360,2013,Fighting,'Warner Bros. Interactive Entertainment',0.091584
+'Madden NFL 15',PS3,2014,Sports,'Electronic Arts',0.091584
+'Disney The Lion King',GEN,1994,Platform,'Virgin Interactive',0.091584
+'Ridge Racer',PSP,2004,Racing,'Sony Computer Entertainment',0.091584
+'Metroid: Other M',Wii,2010,Action,Nintendo,0.091584
+'Knockout Kings 2000',PS,1999,Fighting,'Electronic Arts',0.091584
+'Gran Turismo 4 Prologue',PS2,2003,Racing,'Sony Computer Entertainment',0.091584
+'Twisted Metal: Black',PS2,2001,Racing,'Sony Computer Entertainment',0.091584
+'NASCAR 2005: Chase for the Cup',PS2,2004,Racing,'Electronic Arts',0.091584
+'Call of Duty: Black Ops',Wii,2010,Shooter,Activision,0.089109
+'Spider-Man: The Movie',XB,2002,Action,Activision,0.089109
+'Need For Speed: Undercover',PS2,2008,Racing,'Electronic Arts',0.089109
+2Xtreme,PS,1996,Sports,'Sony Computer Entertainment',0.089109
+'Far Cry 2',PS3,2008,Action,Ubisoft,0.089109
+'Sonic Advance 3',GBA,2004,Platform,THQ,0.089109
+'Final Fantasy III',NES,1990,Role-Playing,SquareSoft,0.089109
+'Battlefield 4',PC,2013,Shooter,'Electronic Arts',0.089109
+'Colin McRae Rally 3',PS2,2002,Racing,Codemasters,0.089109
+'Madden NFL 2002',PS,2001,Sports,'Electronic Arts',0.086634
+'Doom (2016)',PS4,2016,Shooter,'Bethesda Softworks',0.086634
+'Final Fantasy XII: Revenant Wings',DS,2007,Role-Playing,'Square Enix',0.086634
+'Bakugan: Battle Brawlers',DS,2009,Action,Activision,0.086634
+'Deus Ex: Human Revolution',PS3,2011,Shooter,'Square Enix',0.086634
+'NBA Jam',SNES,1994,Sports,'Acclaim Entertainment',0.086634
+'Teenage Mutant Ninja Turtles III: The Manhattan Project',NES,1991,Action,'Konami Digital Entertainment',0.086634
+'Dynasty Warriors 5',PS2,2005,Action,'Tecmo Koei',0.086634
+'Hannah Montana: Spotlight World Tour',Wii,2007,Action,'Disney Interactive Studios',0.086634
+'WWE 13',PS3,2012,Action,THQ,0.086634
+'Deus Ex: Human Revolution',X360,2011,Shooter,'Square Enix',0.086634
+'True Crime: Streets of LA',XB,2003,Action,Activision,0.084158
+'The Sims 2',PSP,2005,Simulation,'Electronic Arts',0.084158
+'Paper Mario',N64,2000,Role-Playing,Nintendo,0.084158
+'Bravely Default: Flying Fairy',3DS,2012,Role-Playing,Nintendo,0.084158
+Titanfall,X360,2014,Shooter,'Electronic Arts',0.084158
+'Duke Nukem: Time to Kill',PS,1998,Shooter,'Take-Two Interactive',0.084158
+'Persona 4: Golden',PSV,2012,Role-Playing,Atlus,0.084158
+'Dead Rising 2',PS3,2010,Action,Capcom,0.084158
+'Hasbro Family Game Night 2',Wii,2009,Misc,'Electronic Arts',0.084158
+'Disney Princess: Enchanted Journey',Wii,2007,Adventure,'Disney Interactive Studios',0.084158
+'Gardening Mama',DS,2009,Puzzle,'505 Games',0.084158
+'Dave Mirra Freestyle BMX 2',PS2,2001,Sports,'Acclaim Entertainment',0.084158
+'Need for Speed: The Run',X360,2011,Action,'Electronic Arts',0.084158
+'LEGO Indiana Jones: The Original Adventures',PS2,2008,Action,LucasArts,0.081683
+'Assassin Creed: Rogue',PS3,2014,Action,Ubisoft,0.081683
+'Ridge Racer 7',PS3,2006,Racing,'Namco Bandai Games',0.081683
+'A Collection of Activision Classic Games for the Atari 2600',PS,1998,Misc,Activision,0.081683
+'Forza Horizon 2',XOne,2014,Racing,'Microsoft Game Studios',0.081683
+'MotorStorm: Pacific Rift',PS3,2008,Racing,'Sony Computer Entertainment',0.081683
+'Sonic Colors',DS,2010,Platform,Sega,0.081683
+'Star Wars Knights of the Old Republic II: The Sith Lords',XB,2004,Role-Playing,Activision,0.081683
+'LEGO Harry Potter: Years 1-4',PS3,2010,Action,'Warner Bros. Interactive Entertainment',0.081683
+'Pocket Monsters Stadium',N64,1998,Strategy,Nintendo,0.081683
+'NBA 2K15',PS3,2014,Sports,'Take-Two Interactive',0.079208
+'Tom Clancy Ghost Recon 2',XB,2004,Shooter,Ubisoft,0.079208
+'Crash Bandicoot 2: N-Tranced',GBA,2003,Platform,'Vivendi Games',0.079208
+'Burnout Paradise',X360,2008,Racing,'Electronic Arts',0.079208
+'SingStar Abba',PS2,2008,Misc,'Sony Computer Entertainment',0.079208
+Gradius,NES,1986,Shooter,'Konami Digital Entertainment',0.079208
+'Dragon Quest III: Soshite Densetsu e...',SNES,1996,Role-Playing,'Enix Corporation',0.079208
+Centipede,2600,1981,Shooter,Atari,0.079208
+'Yoshi New Island',3DS,2014,Platform,Nintendo,0.079208
+'Ryse: Son of Rome',XOne,2013,Action,'Microsoft Game Studios',0.079208
+'Dead to Rights',PS2,2002,Shooter,'Electronic Arts',0.079208
+'LEGO Harry Potter: Years 5-7',Wii,N/A,Action,'Warner Bros. Interactive Entertainment',0.079208
+'Marvel vs. Capcom 3: Fate of Two Worlds',PS3,2011,Fighting,Capcom,0.076733
+'Dance Dance Revolution (Japan)',PS,1999,Simulation,'Konami Digital Entertainment',0.076733
+'F1 2010',PS3,2010,Racing,Codemasters,0.076733
+'Madden NFL 98',PS,1997,Sports,'Electronic Arts',0.076733
+'FIFA Soccer 09',PSP,2008,Sports,'Electronic Arts',0.076733
+'Namco Museum DS',DS,2007,Misc,Atari,0.076733
+'FIFA Soccer 08',PSP,2007,Sports,'Electronic Arts',0.076733
+'Grand Theft Auto: Chinatown Wars',DS,2009,Action,'Take-Two Interactive',0.076733
+'Alan Wake',X360,2010,Action,'Microsoft Game Studios',0.076733
+'Battlefield: Bad Company',PS3,2008,Shooter,'Electronic Arts',0.076733
+'Mortal Kombat X',XOne,2015,Fighting,'Warner Bros. Interactive Entertainment',0.076733
+'Samurai Warriors',PS2,2004,Action,'Electronic Arts',0.076733
+'The Simpsons: Hit & Run',XB,2003,Racing,'Vivendi Games',0.076733
+'Devil May Cry 4',X360,2008,Action,Capcom,0.076733
+'Tom Clancy Rainbow Six: Vegas 2',PS3,2008,Shooter,Ubisoft,0.076733
+'Monster Hunter Freedom',PSP,2005,Role-Playing,Capcom,0.076733
+'Crysis 2',X360,2011,Action,'Electronic Arts',0.076733
+'SaGa Frontier',PS,1997,Role-Playing,SquareSoft,0.076733
+'SingStar Party',PS2,2004,Misc,'Sony Computer Entertainment',0.076733
+'FIFA Soccer 08',X360,2007,Sports,'Electronic Arts',0.076733
+'The ICO & Shadow of the Colossus Collection',PS3,2011,Adventure,'Sony Computer Entertainment',0.076733
+'Test Drive',PS2,2002,Racing,Atari,0.074257
+'Mario & Luigi: Partners in Time',DS,2005,Role-Playing,Nintendo,0.074257
+'Lost Planet: Extreme Condition',X360,2006,Shooter,Capcom,0.074257
+'Mortal Kombat 3',GEN,1994,Fighting,'Acclaim Entertainment',0.074257
+'Doom 3',XB,2005,Shooter,Activision,0.074257
+'Donkey Kong Jungle Beat',GC,2004,Platform,Nintendo,0.074257
+'Need for Speed Carbon',PS2,2006,Racing,'Electronic Arts',0.074257
+'Max Payne 2: The Fall of Max Payne',PS2,2003,Shooter,'Take-Two Interactive',0.074257
+'Command & Conquer: Red Alert 2',PC,2000,Strategy,'Electronic Arts',0.074257
+'MVP Baseball 2004',PS2,2004,Sports,'Electronic Arts',0.074257
+'WWE SmackDown vs Raw 2008',PS3,2007,Fighting,THQ,0.071782
+'Ratchet & Clank: Up Your Arsenal (Weekly american sales)',PS2,2004,Platform,'Sony Computer Entertainment',0.071782
+'Your Shape: Fitness Evolved',X360,2010,Sports,Ubisoft,0.071782
+Rage,PS3,2011,Shooter,'Bethesda Softworks',0.071782
+'Skylanders SWAP Force',X360,2013,Platform,Activision,0.071782
+'NBA 2K14',PS4,2013,Sports,'Take-Two Interactive',0.071782
+'Spider-Man: The Movie',GBA,2002,Action,Activision,0.071782
+'WWF War Zone',N64,1998,Fighting,'Acclaim Entertainment',0.071782
+'Tony Hawk Pro Skater',GB,2000,Sports,Activision,0.071782
+'The Sims: Bustin Out',GBA,2003,Simulation,'Electronic Arts',0.071782
+'Triple Play 2001',PS,2000,Sports,'Electronic Arts',0.071782
+'Metroid Prime 2: Echoes',GC,2004,Shooter,Nintendo,0.071782
+'UFC Undisputed 2010',X360,2010,Fighting,THQ,0.071782
+'Final Fantasy X / X-2 HD Remaster',PS3,2013,Role-Playing,'Square Enix',0.071782
+Corvette,PS2,2004,Racing,'TDK Mediactive',0.071782
+'Petz Wild Animals: Dolphinz',DS,2007,Simulation,Ubisoft,0.071782
+'Pokemon Ranger: Guardian Signs',DS,2010,Role-Playing,Nintendo,0.071782
+'Middle-Earth: Shadow of Mordor',XOne,2014,Action,'Warner Bros. Interactive Entertainment',0.069307
+'Need for Speed Underground Rivals',PSP,2005,Racing,'Electronic Arts',0.069307
+'LEGO Batman: The Videogame',PS3,2008,Action,'Warner Bros. Interactive Entertainment',0.069307
+'Dark Souls II',PS3,2014,Role-Playing,'Namco Bandai Games',0.069307
+'World of Warcraft: Wrath of the Lich King',PC,2008,Role-Playing,Activision,0.069307
+'Kingdom Hearts II',PS3,2014,Role-Playing,'Square Enix',0.069307
+'The LEGO Movie Videogame',X360,2014,Action,'Warner Bros. Interactive Entertainment',0.069307
+'TOCA 2: Touring Cars',PS,1998,Racing,Codemasters,0.069307
+Gyromite,NES,1985,Puzzle,Nintendo,0.069307
+'NFL 2K3',PS2,2002,Sports,Atari,0.069307
+'Fighting Force',PS,1997,Fighting,'Eidos Interactive',0.069307
+'Mega Man Battle Network 4: Red Sun / Blue Moon',GBA,2003,Role-Playing,Capcom,0.069307
+'MAG: Massive Action Game',PS3,2010,Shooter,'Sony Computer Entertainment',0.069307
+'Madden NFL 97',PS,1996,Sports,'Electronic Arts',0.069307
+'Cars 2',DS,2011,Racing,'Disney Interactive Studios',0.069307
+'Skylanders Giants',X360,2012,Action,Activision,0.069307
+'LEGO Batman: The Videogame',PSP,N/A,Action,'Warner Bros. Interactive Entertainment',0.069307
+'TNN Motor Sports Hardcore 4x4',PS,1996,Racing,'ASC Games',0.066832
+'IHRA Drag Racing 2',PS2,2002,Racing,'Bethesda Softworks',0.066832
+'The Beatles: Rock Band',X360,2009,Misc,'MTV Games',0.066832
+'Tekken 6',X360,2009,Fighting,'Namco Bandai Games',0.066832
+[Prototype],X360,2009,Action,Activision,0.066832
+'Deal or No Deal',Wii,2009,Misc,'Zoo Games',0.066832
+Madagascar,PS2,2005,Platform,Activision,0.066832
+'Rugrats Studio Tour',PS,1999,Adventure,THQ,0.066832
+'LEGO Battles',DS,2009,Strategy,'Warner Bros. Interactive Entertainment',0.066832
+'Pitfall II: Lost Caverns',2600,1983,Platform,Activision,0.066832
+'Turok: Evolution',PS2,2002,Shooter,'Acclaim Entertainment',0.066832
+'High School Musical 3: Senior Year DANCE!',Wii,2008,Misc,'Disney Interactive Studios',0.066832
+'Gold Gym: Cardio Workout',Wii,2008,Sports,Ubisoft,0.066832
+'Burnout 3: Takedown',XB,2004,Racing,'Electronic Arts',0.066832
+Adventure,2600,N/A,Adventure,Atari,0.064356
+'Yu-Gi-Oh! The Sacred Cards',GBA,2002,Role-Playing,'Konami Digital Entertainment',0.064356
+'Crysis 2',PS3,2011,Action,'Electronic Arts',0.064356
+'NBA Live 07',PS2,2006,Sports,'Electronic Arts',0.064356
+'Saints Row IV',PS3,2013,Action,'Deep Silver',0.064356
+'SingStar 80s',PS2,2005,Misc,'Sony Computer Entertainment',0.064356
+'EA Playground',Wii,2007,Sports,'Electronic Arts',0.064356
+'Test Drive 5',PS,1997,Racing,Accolade,0.064356
+'Romancing SaGa 3',SNES,1995,Role-Playing,SquareSoft,0.064356
+'EA Sports Active 2',Wii,2010,Sports,'Electronic Arts',0.064356
+'Digimon World',PS,1999,Role-Playing,'Namco Bandai Games',0.064356
+'Rise of the Tomb Raider',XOne,2015,Adventure,'Square Enix',0.064356
+'Need for Speed Carbon',Wii,2006,Racing,'Electronic Arts',0.061881
+'Yoshi Woolly World',WiiU,2015,Platform,Nintendo,0.061881
+'Mega Man Battle Network 3 Blue / White Version',GBA,2002,Role-Playing,Capcom,0.061881
+'FIFA Street',PS3,2012,Sports,'Electronic Arts',0.061881
+'Resident Evil Zero',GC,2002,Action,Capcom,0.061881
+'Need for Speed: Most Wanted',X360,2005,Racing,'Electronic Arts',0.061881
+'Tom Clancy Rainbow Six: Siege',XOne,2015,Shooter,Ubisoft,0.061881
+'Pirates of the Caribbean: The Curse of the Black Pearl',GBA,2003,Platform,'TDK Mediactive',0.061881
+Transformers,PS2,2004,Shooter,Atari,0.061881
+'Guitar Hero: Aerosmith',Wii,2008,Misc,Activision,0.061881
+'Mystery Case Files: MillionHeir',DS,2008,Adventure,Nintendo,0.061881
+'Valkyria Chronicles',PS3,2008,Role-Playing,Sega,0.061881
+'Midnight Club 3: DUB Edition (America weekly sales)',PS2,2005,Racing,'Take-Two Interactive',0.061881
+'Champions of Norrath',PS2,2004,Role-Playing,'Sony Online Entertainment',0.059406
+'Watch Dogs',X360,2014,Action,Ubisoft,0.059406
+'Imagine: Wedding Designer',DS,2008,Simulation,Ubisoft,0.059406
+'Metal Gear Solid V: Ground Zeroes',PS4,2014,Action,'Konami Digital Entertainment',0.059406
+Yakuman,GB,1989,Misc,Nintendo,0.059406
+'Assassin Creed Syndicate',XOne,2015,Action,Ubisoft,0.059406
+'Army Men 3D',PS,1999,Action,3DO,0.059406
+'WWE 13',X360,2012,Action,THQ,0.059406
+'Twisted Metal 4',PS,1999,Racing,'989 Studios',0.059406
+Manhunt,PS2,2003,Action,'Take-Two Interactive',0.059406
+'Kid Icarus: Uprising',3DS,2012,Action,Nintendo,0.059406
+'Silent Hill 2',PS2,2001,Action,'Konami Digital Entertainment',0.059406
+'Tomb Raider: Underworld',PS3,2008,Action,'Eidos Interactive',0.056931
+'Castlevania: Symphony of the Night',PS,1997,Platform,'Konami Digital Entertainment',0.056931
+'The Sims 2: Nightlife',PC,2005,Simulation,'Electronic Arts',0.056931
+'LEGO Batman: The Videogame',PS2,2008,Action,'Warner Bros. Interactive Entertainment',0.056931
+'Road Rash',PS,1995,Racing,'Electronic Arts',0.056931
+'Pokemon Mystery Dungeon: Gates to Infinity',3DS,2012,Role-Playing,Nintendo,0.056931
+Atlantis,2600,1981,Shooter,Imagic,0.056931
+'NBA 2K9',X360,2008,Sports,'Take-Two Interactive',0.056931
+'WWE 12',X360,2011,Fighting,THQ,0.056931
+'Tony Hawk Underground',XB,2003,Sports,Activision,0.056931
+'Hogan Alley',NES,1984,Shooter,Nintendo,0.056931
+'The Elder Scrolls Online',XOne,2015,Role-Playing,'Bethesda Softworks',0.056931
+'Jillian Michaels Fitness Ultimatum 2009',Wii,2008,Sports,'Deep Silver',0.056931
+'.hack//Infection Part 1',PS2,2002,Role-Playing,Atari,0.056931
+'Rockstar Games presents Table Tennis',Wii,2007,Sports,'Take-Two Interactive',0.056931
+'Sonic Adventure DX: Director Cut',GC,2003,Platform,Sega,0.056931
+'Jet Li: Rise to Honor',PS2,2004,Action,'Sony Computer Entertainment',0.056931
+'Battle Arena Toshinden',PS,1994,Fighting,'Sony Computer Entertainment',0.056931
+'Yokai Watch 3',3DS,2016,Action,'Level 5',0.056931
+'Kung Fu Panda',DS,2008,Action,Activision,0.054455
+'Tamagotchi Connection: Corner Shop',DS,2005,Simulation,Atari,0.054455
+'Football Manager 2011',PC,2010,Sports,Sega,0.054455
+'Devil Dice',PS,1998,Puzzle,THQ,0.054455
+'Final Fantasy IV',DS,2007,Simulation,'Square Enix',0.054455
+'Hyrule Warriors',WiiU,2014,Action,Nintendo,0.054455
+'Need for Speed Carbon',PS3,2006,Racing,'Electronic Arts',0.054455
+'Championship Manager 03/04',PC,2003,Sports,'Eidos Interactive',0.054455
+'Brian Lara Cricket',PS,1998,Sports,Codemasters,0.054455
+Ratatouille,DS,2007,Action,THQ,0.054455
+'Wheel of Fortune',PS,1998,Misc,'Hasbro Interactive',0.054455
+'LEGO The Lord of the Rings',X360,2012,Action,'Warner Bros. Interactive Entertainment',0.054455
+'Winter Sports: The Ultimate Challenge',Wii,2007,Sports,RTL,0.054455
+'SOCOM: U.S. Navy SEALs Confrontation',PS3,2008,Shooter,'Sony Computer Entertainment',0.05198
+'NBA Live 2001',PS,2000,Sports,'Electronic Arts',0.05198
+'Star Wars: The Force Unleashed',PS2,2008,Action,LucasArts,0.05198
+Combat,2600,N/A,Action,Atari,0.05198
+'Tom Clancy Rainbow Six: Vegas',PS3,2007,Shooter,Ubisoft,0.05198
+'Dragon Ball: Daimaou Fukkatsu',NES,1988,Role-Playing,'Namco Bandai Games',0.05198
+'Gegege no Kitarou 2: Youkai Gundan no Chousen',NES,1987,Role-Playing,'Namco Bandai Games',0.05198
+'Reel Fishing',PS,1996,Sports,Natsume,0.05198
+'Injustice: Gods Among Us',PS3,2013,Fighting,'Warner Bros. Interactive Entertainment',0.05198
+'Pokemon XD: Gale of Darkness',GC,2005,Role-Playing,Nintendo,0.05198
+Black,PS2,2006,Shooter,'Electronic Arts',0.05198
+'RollerCoaster Tycoon 2',PC,2002,Strategy,Atari,0.05198
+'Lara Croft Tomb Raider: The Angel of Darkness',PS2,2003,Action,'Eidos Interactive',0.05198
+'Tom Clancy Splinter Cell: Pandora Tomorrow',PS2,2004,Action,Ubisoft,0.05198
+'Road Rash 3D',PS,1998,Racing,'Electronic Arts',0.05198
+'Ratchet: Deadlocked',PS2,2005,Shooter,'Sony Computer Entertainment',0.049505
+'Baldur Gate: Dark Alliance',PS2,2001,Role-Playing,'Virgin Interactive',0.049505
+'Transformers: Autobots / Decepticons',DS,2007,Action,Activision,0.049505
+'Tales of Xillia',PS3,2011,Role-Playing,'Namco Bandai Games',0.049505
+'Diddy Kong Racing DS',DS,2007,Racing,Nintendo,0.049505
+[Prototype],PS3,2009,Action,Activision,0.049505
+'Assassin Creed: Bloodlines',PSP,2009,Action,Ubisoft,0.049505
+'Oddworld: Abe Oddysee',PS,1997,Platform,'GT Interactive',0.049505
+'The Witcher 3: Wild Hunt',XOne,2015,Role-Playing,'Namco Bandai Games',0.049505
+'Ridge Racer V',PS2,2000,Action,'Namco Bandai Games',0.049505
+'WWE SmackDown vs. Raw 2009',PS2,2008,Fighting,THQ,0.049505
+'Tetris 2 (All region sales)',GB,1992,Puzzle,Nintendo,0.049505
+'Star Wars Episode III: Revenge of the Sith',XB,2005,Action,Activision,0.049505
+'Ben 10: Protector of Earth',Wii,2007,Action,D3Publisher,0.04703
+'Frogger: The Great Quest',PS2,2001,Platform,'Konami Digital Entertainment',0.04703
+'2010 FIFA World Cup South Africa',PS3,2010,Sports,'Electronic Arts',0.04703
+'Ninja Gaiden',XB,2004,Action,'Microsoft Game Studios',0.04703
+'Crash Bandicoot: The Wrath of Cortex',XB,2002,Platform,'Universal Interactive',0.04703
+Driv3r,PS2,2004,Racing,Atari,0.04703
+'Disney Tarzan / Disney Aladdin in Nasira Revenge / Disney The Emperor New Groove Action Game',PS,2003,Misc,'Sony Computer Entertainment',0.04703
+'Farming Simulator 2015',PC,2014,Simulation,'Focus Home Interactive',0.04703
+'Guitar Hero: Aerosmith',X360,2008,Misc,Activision,0.04703
+'Medal of Honor: Airborne',PS3,2007,Shooter,'Electronic Arts',0.04703
+'Kirby Tilt Tumble',GB,2000,Puzzle,Nintendo,0.04703
+'SpongeBob SquarePants: Battle for Bikini Bottom',GBA,2003,Platform,THQ,0.04703
+'Vigilante 8',PS,1998,Racing,Activision,0.04703
+Castlevania,NES,1986,Platform,'Konami Digital Entertainment',0.04703
+'Donkey Kong Country 2',GBA,2004,Platform,Nintendo,0.04703
+Bayonetta,PS3,2009,Action,Sega,0.04703
+'WarioWare Inc.: Mega MicroGame',GBA,2003,Puzzle,Nintendo,0.04703
+'Star Wars: Battlefront II',PSP,2005,Shooter,LucasArts,0.04703
+'Madden NFL 17',PS4,2016,Sports,'Electronic Arts',0.04703
+'Boom Blox',Wii,2008,Puzzle,'Electronic Arts',0.04703
+'Fallout 4',PC,2015,Role-Playing,'Bethesda Softworks',0.04703
+'The Sims 2: Castaway',Wii,2007,Simulation,'Electronic Arts',0.04703
+'LEGO Batman 2: DC Super Heroes',PS3,2012,Action,'Warner Bros. Interactive Entertainment',0.044554
+'Naruto Shippuden: Ultimate Ninja Storm 2',PS3,2010,Fighting,'Namco Bandai Games',0.044554
+'Mario Power Tennis',GC,2004,Sports,Nintendo,0.044554
+'Intelligent Qube',PS,1997,Puzzle,'Sony Computer Entertainment',0.044554
+'Game & Watch Gallery 2',GB,1997,Misc,Nintendo,0.044554
+'Game & Watch Gallery 3',GB,1999,Misc,Nintendo,0.044554
+Pac-Man,NES,1984,Puzzle,'Namco Bandai Games',0.044554
+'Parfait: Chocolat Second Style',PS2,2006,Adventure,Alchemist,0.044554
+'F1 2011',PS3,2011,Racing,Codemasters,0.044554
+Cars,PSP,2006,Racing,THQ,0.044554
+'NBA Live 99',PS,1997,Sports,'Electronic Arts',0.044554
+'Chocobo no Fushigi Dungeon',PS,1997,Role-Playing,SquareSoft,0.044554
+'Golden Sun: The Lost Age',GBA,2002,Role-Playing,Nintendo,0.044554
+'SimCity 2000',PS,1996,Simulation,Maxis,0.044554
+'Max Payne',XB,2001,Shooter,'Take-Two Interactive',0.044554
+'WCW Mayhem',PS,1998,Fighting,'Electronic Arts',0.044554
+'NBA 2K2',PS2,2002,Sports,Sega,0.044554
+'NASCAR Thunder 2003',PS2,N/A,Racing,Unknown,0.044554
+'Super Street Fighter IV: 3D Edition',3DS,2011,Fighting,Capcom,0.044554
+Cars,PS2,2006,Racing,THQ,0.042079
+'Fuzion Frenzy',XB,2001,Misc,'Microsoft Game Studios',0.042079
+'Call of Duty: Finest Hour',XB,2004,Shooter,Activision,0.042079
+'FIFA Soccer 11',PSP,2010,Sports,'Electronic Arts',0.042079
+'Sly Cooper and the Thievius Raccoonus',PS2,2002,Platform,'Sony Computer Entertainment',0.042079
+'LEGO Indiana Jones 2: The Adventure Continues',DS,2009,Action,Activision,0.042079
+'The Magical Quest starring Mickey Mouse',SNES,1992,Platform,Capcom,0.042079
+'Dragon Quest IV: Michibikareshi Monotachi',PS,2001,Role-Playing,'Enix Corporation',0.042079
+'Star Wars Episode 1: Jedi Power Battles',PS,1999,Action,LucasArts,0.042079
+'Dino Crisis 2',PS,2000,Action,'Virgin Interactive',0.042079
+'Need for Speed Underground',GC,2003,Racing,'Electronic Arts',0.042079
+'Shrek / Shrek 2 2-in-1 Gameboy Advance Video',GBA,2007,Misc,N/A,0.042079
+'Test Drive 4',PS,1997,Racing,'Electronic Arts',0.042079
+'FIFA Soccer 07',PSP,2006,Sports,'Electronic Arts',0.042079
+'World Soccer Winning Eleven 9 (JP & Others sales)',PSP,2005,Sports,'Konami Digital Entertainment',0.039604
+'The Lord of the Rings: The Fellowship of the Ring',PS2,2002,Action,'Black Label Games',0.039604
+'LEGO Star Wars III: The Clone Wars',PS3,2011,Action,LucasArts,0.039604
+'ATV Offroad Fury 3',PS2,2004,Racing,'SouthPeak Games',0.039604
+'Pikmin 2',GC,2004,Strategy,Nintendo,0.039604
+'Just Dance 2016',Wii,2015,Misc,Ubisoft,0.039604
+'Disney Sing It',Wii,2008,Misc,'Disney Interactive Studios',0.039604
+'Battlefield: Hardline',XOne,2015,Shooter,'Electronic Arts',0.039604
+'WWE 2K16',PS4,2015,Sports,'Take-Two Interactive',0.039604
+'Dragon Ball Z: La Legende Saien',SNES,1993,Fighting,'Namco Bandai Games',0.039604
+TwinBee,NES,1986,Shooter,'Konami Digital Entertainment',0.039604
+'Ganbare Goemon! Karakuri Douchuu',NES,1986,Platform,'Konami Digital Entertainment',0.039604
+'NFL 2K',DC,1999,Sports,Sega,0.039604
+SolarStriker,GB,1989,Shooter,Nintendo,0.039604
+'Enter the Matrix',XB,2003,Action,Atari,0.039604
+'NHL 2002',PS2,2001,Sports,'Electronic Arts',0.039604
+'Mario vs. Donkey Kong 2: March of the Minis',DS,2006,Puzzle,Nintendo,0.039604
+'PokéPark Wii: Pikachu Adventure',Wii,2009,Adventure,Nintendo,0.039604
+'One Piece: Pirate Warriors',PS3,2012,Action,'Namco Bandai Games',0.039604
+'WWE 2K14',PS3,2013,Sports,'Take-Two Interactive',0.037129
+'Metal Gear Solid: Portable Ops',PSP,2006,Action,'Konami Digital Entertainment',0.037129
+'Nuclear Strike',PS,1997,Simulation,'Electronic Arts',0.037129
+'Captain Toad: Treasure Tracker',WiiU,2014,Puzzle,Nintendo,0.037129
+'WWE SmackDown vs Raw 2008',PSP,2007,Fighting,THQ,0.037129
+'The Simpsons: Road Rage',GBA,2003,Racing,THQ,0.037129
+'Pro Evolution Soccer 2008',Wii,2008,Sports,'Konami Digital Entertainment',0.037129
+'SpongeBob SquarePants: Revenge of the Flying Dutchman',GBA,2002,Platform,THQ,0.037129
+'Mario & Sonic at the London 2012 Olympic Games',3DS,2012,Sports,Sega,0.037129
+'Scarface: The World is Yours',PS2,2006,Action,'Vivendi Games',0.037129
+'Kobe Bryant in NBA Courtside',N64,1998,Sports,Nintendo,0.037129
+'Disney Chip Dale: Rescue Rangers',NES,1990,Platform,Capcom,0.037129
+'The Dukes of Hazzard: Racing for Home',PS,1999,Racing,Ubisoft,0.037129
+'Hitman 2: Silent Assassin',XB,N/A,Action,'Eidos Interactive',0.037129
+'FIFA 14',XOne,2013,Sports,'Electronic Arts',0.037129
+'Spider-Man: The Movie',GC,2002,Action,Activision,0.037129
+'Final Fantasy I & II: Dawn of Souls',GBA,2004,Role-Playing,Nintendo,0.037129
+'NBA 2K17',PS4,2016,Sports,'Take-Two Interactive',0.037129
+'Pokemon Super Mystery Dungeon',3DS,2015,Role-Playing,Nintendo,0.037129
+'Just Dance 4',X360,2012,Misc,Ubisoft,0.037129
+'Metal Gear Solid VR Missions',PS,1999,Adventure,'Konami Digital Entertainment',0.034653
+'Pole Position',2600,1982,Racing,Atari,0.034653
+'Resident Evil: Operation Raccoon City',PS3,2012,Action,Capcom,0.034653
+'LEGO Indiana Jones: The Original Adventures',PSP,2008,Action,LucasArts,0.034653
+'Pro Yakyuu Family Stadium 88',NES,1988,Sports,'Namco Bandai Games',0.034653
+Shenmue,DC,1999,Adventure,Sega,0.034653
+'Mario Tennis',GB,2000,Sports,Nintendo,0.034653
+'Tony Hawk Pro Skater 2',GBA,2001,Sports,Activision,0.034653
+'WWE 12',PS3,2011,Fighting,THQ,0.034653
+'WWE SmackDown vs. Raw 2010',PS3,2009,Fighting,THQ,0.034653
+'Plants vs. Zombies',DS,2011,Strategy,Mastertronic,0.034653
+'Sonic the Hedgehog',PS3,2006,Platform,Sega,0.034653
+'Super Ghouls Ghosts',SNES,1991,Platform,Capcom,0.034653
+Spore,PC,2008,Strategy,'Electronic Arts',0.032178
+'Soviet Strike',PS,1996,Simulation,'Electronic Arts',0.032178
+'Your Shape: Fitness Evolved 2012',X360,2011,Sports,Ubisoft,0.032178
+'Army of Two',PS3,2008,Shooter,'Electronic Arts',0.032178
+Gun,PS2,2005,Shooter,Activision,0.032178
+'Ty the Tasmanian Tiger',PS2,2002,Platform,'Electronic Arts',0.032178
+'Wario Land: Shake It!',Wii,2008,Platform,Nintendo,0.032178
+'Sonic Rush Adventure',DS,2007,Platform,Sega,0.032178
+'Medal of Honor: Warfighter',X360,2012,Action,'Electronic Arts',0.032178
+'Mega Man 3',NES,1990,Platform,Capcom,0.032178
+'Ratchet & Clank (2016)',PS4,2016,Platform,'Sony Computer Entertainment',0.032178
+'Mission: Impossible',N64,1997,Action,Ocean,0.032178
+'Romancing SaGa 2',SNES,1993,Role-Playing,SquareSoft,0.032178
+'Cabela Dangerous Hunts',PS2,2003,Sports,'Zoo Digital Publishing',0.032178
+'Cool Boarders 4',PS,1998,Sports,'989 Studios',0.032178
+'Rage Racer',PS,1996,Racing,'Sony Computer Entertainment',0.032178
+'Medal of Honor: Rising Sun',XB,2003,Shooter,'Electronic Arts',0.032178
+'Football Manager 2013',PC,2012,Sports,Sega,0.032178
+'Destruction Derby 2',PS,1996,Racing,Psygnosis,0.032178
+'Mirror Edge',X360,2008,Platform,'Electronic Arts',0.032178
+'Destiny: The Taken King',XOne,2015,Shooter,Activision,0.032178
+'Mario vs. Donkey Kong',GBA,2004,Puzzle,Nintendo,0.032178
+'007: Quantum of Solace',PS3,2008,Action,Activision,0.029703
+'EA Sports Active: More Workouts',Wii,2009,Sports,'Electronic Arts',0.029703
+'Fallout: New Vegas',PC,2010,Role-Playing,'Bethesda Softworks',0.029703
+'Need for Speed: Most Wanted',PSV,2012,Racing,'Electronic Arts',0.029703
+'Final Fantasy Tactics: The War of the Lions',PSP,2007,Role-Playing,'Square Enix',0.029703
+'Midnight Club 3: DUB Edition Remix',PS2,2006,Racing,'Take-Two Interactive',0.029703
+'Tom Clancy Ghost Recon: Jungle Storm',PS2,2004,Shooter,Ubisoft,0.029703
+SingStar,PS3,2007,Misc,'Sony Computer Entertainment',0.029703
+'Bushido Blade',PS,1997,Fighting,'Sony Computer Entertainment',0.029703
+'LEGO Star Wars III: The Clone Wars',DS,2011,Action,LucasArts,0.029703
+'NASCAR Thunder 2002',PS2,2001,Racing,'Electronic Arts',0.029703
+'Jet Force Gemini',N64,1999,Shooter,Nintendo,0.029703
+'Mega Man X',SNES,1993,Platform,Capcom,0.029703
+'Yu-Gi-Oh! The Sacred Cards (American and Others sales)',GBA,2002,Role-Playing,'Konami Digital Entertainment',0.029703
+'Sega Rally Championship',SAT,1995,Racing,Sega,0.029703
+'Test Drive: Off Road',PS,1997,Racing,'Eidos Interactive',0.029703
+'Medal of Honor Heroes 2',PSP,2007,Shooter,'Electronic Arts',0.029703
+'Sniper: Ghost Warrior',X360,2010,Shooter,'City Interactive',0.029703
+Rocksmith,PS3,2011,Misc,Ubisoft,0.029703
+'LEGO Star Wars: The Video Game',XB,2005,Action,'Eidos Interactive',0.029703
+'FIFA Soccer 10',PSP,2009,Sports,'Electronic Arts',0.029703
+'Plants vs. Zombies: Garden Warfare',X360,2014,Shooter,'Electronic Arts',0.029703
+'Worldwide Soccer Manager 2009',PC,2008,Simulation,Sega,0.027228
+'Omerta: City of Gangsters',PS3,2011,Simulation,'Konami Digital Entertainment',0.027228
+'Gauntlet: Dark Legacy',PS2,2001,Action,'Midway Games',0.027228
+'Ninja Gaiden Sigma',PS3,2007,Action,'Eidos Interactive',0.027228
+'Bad Boys: Miami Takedown',PS2,2004,Shooter,'Empire Interactive',0.027228
+Kaboom!,2600,1980,Misc,Activision,0.027228
+'Red Dead Redemption: Undead Nightmare',PS3,2010,Action,'Take-Two Interactive',0.027228
+'Sonic and the Black Knight',Wii,2009,Platform,Sega,0.027228
+'Call of Duty 4: Modern Warfare',PC,2007,Shooter,Activision,0.027228
+Qix,GB,1990,Puzzle,Nintendo,0.027228
+'Derby Stallion III',SNES,1995,Sports,'ASCII Entertainment',0.027228
+Doraemon,NES,1986,Action,'Hudson Soft',0.027228
+'High School Musical 2: Work This Out!',DS,2008,Misc,'Disney Interactive Studios',0.027228
+'Ratchet & Clank: All 4 One',PS3,2011,Platform,'Sony Computer Entertainment',0.027228
+'Donkey Konga',GC,2003,Misc,Nintendo,0.027228
+'Fight Night Champion',PS3,2011,Fighting,'Electronic Arts',0.027228
+'Dragon Quest I & II',SNES,1993,Role-Playing,'Enix Corporation',0.027228
+'Tak and the Power of Juju',PS2,2003,Platform,THQ,0.027228
+Asteroids,PS,1998,Shooter,Success,0.027228
+'Puyo Puyo Sun Ketteiban',PS,1997,Puzzle,Compile,0.027228
+'Pokemon Rumble Blast',3DS,2011,Action,Nintendo,0.024752
+'Action Bass',PS,2000,Action,'Take-Two Interactive',0.024752
+'Tenchu: Wrath of Heaven',PS2,2003,Action,Activision,0.024752
+'Shadow of the Colossus',PS2,2005,Action,'Sony Computer Entertainment',0.024752
+'Brave Fencer Musashi',PS,1998,Role-Playing,SquareSoft,0.024752
+'Hot Shots Golf: Out of Bounds',PS3,2007,Sports,'Sony Computer Entertainment',0.024752
+'Dance Dance Revolution Extreme 2',PS2,2005,Simulation,'Konami Digital Entertainment',0.024752
+'Mirror Edge',PS3,2008,Platform,'Electronic Arts',0.024752
+'Rabbids Go Home',Wii,2009,Platform,Ubisoft,0.024752
+'South Park',N64,1998,Shooter,'Acclaim Entertainment',0.024752
+Commando,NES,1986,Action,Capcom,0.024752
+Pilotwings,SNES,1990,Simulation,Nintendo,0.024752
+'Resident Evil - Code: Veronica',DC,2000,Action,'Eidos Interactive',0.024752
+'Super R.C. Pro-Am',GB,1991,Racing,Nintendo,0.024752
+'The Lord of the Rings: The Return of the King',XB,2003,Action,'Electronic Arts',0.024752
+'LEGO Star Wars: The Video Game',GBA,2005,Action,'Eidos Interactive',0.024752
+'Royal Palace of White Sword and The City of Gentiles',PS2,2005,Role-Playing,'Take-Two Interactive',0.024752
+'Guitar Hero 5',X360,2009,Misc,Activision,0.024752
+'Mobile Suit Gundam: Federation vs. Zeon',PS2,2001,Simulation,Atari,0.024752
+'Need for Speed Underground 2',GC,2004,Racing,'Electronic Arts',0.024752
+MechAssault,XB,2002,Simulation,'Microsoft Game Studios',0.022277
+'ModNation Racers',PS3,2010,Racing,'Sony Computer Entertainment',0.022277
+'LEGO Star Wars III: The Clone Wars',3DS,2011,Action,LucasArts,0.022277
+'Derby Stallion 99',PS,1999,Sports,'ASCII Entertainment',0.022277
+Cars,GBA,2006,Racing,THQ,0.022277
+'Fantasy Life',3DS,2012,Role-Playing,Nintendo,0.022277
+'Tom Clancy Rainbow Six 3: Black Arrow',XB,2004,Shooter,Ubisoft,0.022277
+'WWE 2K15',PS4,2014,Sports,'Take-Two Interactive',0.022277
+'Donkey Kong',NES,1983,Platform,Nintendo,0.022277
+'Jampack Winter 98',PS,1998,Misc,'Sony Computer Entertainment',0.022277
+'WWE 2K14',X360,2013,Sports,'Take-Two Interactive',0.022277
+'Alien: Isolation',PS4,2014,Shooter,Sega,0.022277
+'Yakuza 3',PS3,2009,Action,Sega,0.022277
+'Pokémon Mystery Dungeon: Red Rescue Team (US weekly sales)',GBA,2005,Role-Playing,Nintendo,0.022277
+'The Beatles: Rock Band',PS3,2009,Misc,'MTV Games',0.022277
+'Dragon Age II',X360,2011,Action,'Electronic Arts',0.019802
+'Moon Patrol',2600,1982,Shooter,Atari,0.019802
+'Supercar Street Challenge',PS2,2001,Racing,Activision,0.019802
+'Pilotwings 64',N64,1996,Simulation,Nintendo,0.019802
+'Crackdown 2',X360,2010,Shooter,'Microsoft Game Studios',0.019802
+'Final Fantasy XIV: A Realm Reborn',PS3,2013,Role-Playing,'Square Enix',0.019802
+'Castlevania: Lords of Shadow',PS3,2010,Action,'Konami Digital Entertainment',0.019802
+Rocksmith,X360,2011,Misc,Ubisoft,0.019802
+'Disney Infinity 2.0: Marvel Super Heroes',X360,2014,Action,'Disney Interactive Studios',0.019802
+'SOCOM: U.S. Navy SEALs Fireteam Bravo',PSP,2005,Shooter,'Sony Computer Entertainment',0.019802
+'Call Of Duty 2: Big Red One',XB,2005,Shooter,Activision,0.019802
+'Yoshi Cookie',NES,1992,Puzzle,Nintendo,0.019802
+'Guitar Hero 5',PS2,2009,Misc,Activision,0.019802
+'Worldwide Soccer Manager 2008',PC,2007,Sports,Russel,0.019802
+'Spider-Man 2',XB,2004,Action,Activision,0.019802
+Counter-Strike,XB,2003,Shooter,'Microsoft Game Studios',0.017327
+'Mad Max (2015)',PS4,2015,Action,'Warner Bros. Interactive Entertainment',0.017327
+GRID,PS3,2008,Racing,Codemasters,0.017327
+'Guitar Hero Encore: Rocks The 80s',PS2,2007,Misc,RedOctane,0.017327
+'Sunset Overdrive',XOne,2014,Shooter,'Microsoft Game Studios',0.017327
+'Rock Band',PS2,N/A,Misc,'Electronic Arts',0.017327
+'Tom Clancy Splinter Cell: Chaos Theory',XB,2005,Action,Ubisoft,0.017327
+'Donkey Kong Jr.',NES,1983,Platform,Nintendo,0.017327
+'Arc the Lad',PS,1995,Role-Playing,'Sony Computer Entertainment',0.017327
+'NBA Jam Tournament Edition',GEN,1994,Sports,'Acclaim Entertainment',0.017327
+'Need for Speed: ProStreet',Wii,2007,Racing,'Electronic Arts',0.017327
+'Pikmin 3',WiiU,2013,Strategy,Nintendo,0.017327
+'Legend of Mana',PS,1999,Role-Playing,SquareSoft,0.017327
+'Lumines: Puzzle Fusion',PSP,2004,Puzzle,Ubisoft,0.017327
+'Toy Story 3: The Video Game',PS3,2010,Action,'Disney Interactive Studios',0.017327
+'Guitar Hero 5',PS3,2009,Misc,Activision,0.014851
+Megamania,2600,1981,Shooter,Activision,0.014851
+'Medal of Honor: Airborne',X360,2007,Shooter,'Electronic Arts',0.014851
+'The Legend of Zelda: Tri Force Heroes',3DS,2015,Action,Nintendo,0.014851
+'Jungle Hunt',2600,1982,Platform,Atari,0.014851
+'Triple Play 98',PS,1997,Sports,'Electronic Arts',0.014851
+'LEGO The Lord of the Rings',PS3,2012,Action,'Warner Bros. Interactive Entertainment',0.014851
+'Petz Dogz 2',DS,2007,Simulation,Ubisoft,0.014851
+'WWE SmackDown vs. Raw 2011',PS3,2010,Fighting,THQ,0.014851
+'Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories',GB,1999,Strategy,'Konami Digital Entertainment',0.014851
+'Lode Runner',NES,1984,Puzzle,'Hudson Soft',0.014851
+'The Final Fantasy Legend',GB,1989,Role-Playing,SquareSoft,0.014851
+'Famicom Jump: Eiyuu Retsuden',NES,1989,Role-Playing,'Namco Bandai Games',0.014851
+'F-Zero X',N64,1998,Racing,Nintendo,0.014851
+Popeye,NES,1983,Platform,Nintendo,0.014851
+'NERF N-Strike',Wii,2008,Shooter,'Electronic Arts',0.014851
+'NBA Live 2001',PS2,2001,Sports,'Electronic Arts',0.014851
+'SingStar Legends',PS2,2006,Misc,'Sony Computer Entertainment',0.014851
+'SingStar Rocks!',PS2,2006,Misc,'Sony Computer Entertainment',0.014851
+'Tales of Symphonia',GC,2003,Role-Playing,Nintendo,0.014851
+'Untold Legends: Brotherhood of the Blade',PSP,2005,Role-Playing,Activision,0.014851
+'Star Ocean: The Second Story',PS,1998,Role-Playing,'Sony Computer Entertainment',0.014851
+'Lightning Returns: Final Fantasy XIII',PS3,2013,Role-Playing,'Square Enix',0.014851
+'Star Wars: The Force Unleashed',PSP,2008,Action,LucasArts,0.012376
+'Imagine: Babysitters',DS,2008,Simulation,Ubisoft,0.012376
+'The Simpsons Game',PSP,2007,Action,'Electronic Arts',0.012376
+'Yakuza 2',PS2,2006,Adventure,Sega,0.012376
+'Skate 2',X360,2009,Sports,'Electronic Arts',0.012376
+'Dragon Ball Z: The Legacy of Goku II',GBA,2003,Role-Playing,Atari,0.012376
+'Virtua Fighter 5',PS3,2007,Fighting,Sega,0.012376
+'NFL 2K1',DC,2000,Sports,Sega,0.012376
+BeatMania,PS,1998,Simulation,'Konami Digital Entertainment',0.012376
+'Namco Museum Battle Collection',PSP,2005,Misc,'Sony Computer Entertainment',0.012376
+'LEGO Star Wars II: The Original Trilogy',DS,2006,Action,LucasArts,0.012376
+'Madden NFL 2004',XB,2003,Sports,'Electronic Arts',0.012376
+'Empire: Total War',PC,2009,Strategy,Sega,0.012376
+'The Godfather',PS2,2006,Action,'Electronic Arts',0.012376
+'Tiger Woods PGA Tour 10',Wii,2009,Sports,'Electronic Arts',0.012376
+'Star Wars: Bounty Hunter',PS2,2002,Shooter,LucasArts,0.012376
+'Densha De Go!',PS,1997,Simulation,Taito,0.012376
+'Dante Inferno',PS3,2010,Action,'Electronic Arts',0.012376
+'Sonic & Sega All-Stars Racing',DS,2010,Racing,Sega,0.012376
+'Skylanders Giants',PS3,2012,Action,Activision,0.012376
+'Endless Ocean',Wii,2007,Adventure,Nintendo,0.012376
+'NFL Blitz 2000',PS,1998,Sports,'Midway Games',0.012376
+'Sonic Free Riders',X360,2010,Racing,Sega,0.012376
+'NASCAR Thunder 2004',PS2,2003,Racing,'Electronic Arts',0.009901
+'Prince of Persia',PS3,2008,Action,Ubisoft,0.009901
+'SpongeBob SquarePants: Revenge of the Flying Dutchman',PS2,2002,Platform,THQ,0.009901
+'Grand Theft Auto V',PC,2015,Action,'Take-Two Interactive',0.009901
+'The Biggest Loser',Wii,2009,Sports,THQ,0.009901
+'Fisherman Bass Club',PS2,2002,Sports,Agetec,0.009901
+'MySims Agents',DS,2009,Adventure,'Electronic Arts',0.009901
+'Resident Evil: The Darkside Chronicles',Wii,2009,Action,Capcom,0.009901
+'NCAA Football 13',X360,2012,Action,'Electronic Arts',0.009901
+'Grand Theft Auto: Chinatown Wars',PSP,2009,Action,'Take-Two Interactive',0.009901
+'FIFA Soccer 11',Wii,2010,Sports,'Electronic Arts',0.009901
+'The Orange Box',PS3,2007,Shooter,'Electronic Arts',0.009901
+Joust,2600,1982,Platform,Atari,0.009901
+'Tomb Raider: Underworld',X360,2008,Action,'Eidos Interactive',0.009901
+'Tom Clancy Ghost Recon 2',PS2,2004,Shooter,Ubisoft,0.009901
+'DiRT 3',PS3,2011,Racing,Codemasters,0.009901
+'LEGO City Undercover',WiiU,2013,Platform,Nintendo,0.009901
+'Spore Creatures',DS,2008,Simulation,'Electronic Arts',0.009901
+'Ready 2 Rumble Boxing',PS,1998,Sports,'Midway Games',0.009901
+'Dragon Ball Z: Taiketsu',GBA,2003,Fighting,Atari,0.009901
+'Disney Lilo & Stitch',GBA,2002,Platform,Ubisoft,0.009901
+'Star Fox: Assault',GC,2005,Shooter,Nintendo,0.009901
+'Naruto: Ultimate Ninja Storm',PS3,2008,Fighting,'Namco Bandai Games',0.009901
+'Marvel vs. Capcom 3: Fate of Two Worlds',X360,2011,Fighting,Capcom,0.009901
+'NCAA Football 14',X360,2013,Sports,'Electronic Arts',0.007426
+'Doko Demo Issyo',PS,1999,Misc,'Sony Computer Entertainment',0.007426
+'Call of Duty 3',PS2,2006,Shooter,Activision,0.007426
+'Imagine: Fashion Designer New York',DS,2008,Simulation,Ubisoft,0.007426
+'Red Dead Redemption: Undead Nightmare',X360,2010,Action,'Take-Two Interactive',0.007426
+'Bully: Scholarship Edition',X360,2008,Action,'Take-Two Interactive',0.007426
+'Virtua Fighter',SAT,1994,Fighting,Sega,0.007426
+'Championship Manager 99/00',PC,1999,Sports,'Eidos Interactive',0.007426
+'WWE SmackDown vs. Raw 2010',PS2,2009,Fighting,THQ,0.007426
+'Pro Evolution Soccer 2008',X360,2007,Sports,'Konami Digital Entertainment',0.007426
+'Super Princess Peach',DS,2005,Platform,Nintendo,0.007426
+'NHL 99',PS,1997,Sports,'Electronic Arts',0.007426
+'SoulCalibur III',PS2,2005,Fighting,'Namco Bandai Games',0.007426
+'Skylanders SWAP Force',PS3,2013,Platform,Activision,0.007426
+'F1 2012',PS3,2012,Racing,Codemasters,0.007426
+'World Tour Soccer',PSP,2005,Sports,'Sony Computer Entertainment',0.007426
+'Disney Universe',Wii,2011,Action,'Disney Interactive Studios',0.007426
+'Ridge Racer Revolution',PS,1995,Racing,'Sony Computer Entertainment',0.007426
+'LEGO Pirates of the Caribbean: The Video Game',X360,2011,Action,'Disney Interactive Studios',0.007426
+'Hot Wheels Turbo Racing',PS,1999,Racing,'Electronic Arts',0.007426
+'NCAA Football 99',PS,1998,Sports,'Electronic Arts',0.00495
+'Mortal Kombat: Armageddon',PS2,2006,Fighting,'Midway Games',0.00495
+'Aliens vs Predator',X360,2010,Shooter,Sega,0.00495
+Freekstyle,PS2,2002,Racing,'Electronic Arts',0.00495
+'Junior Brain Trainer',DS,2008,Misc,GSP,0.00495
+Darksiders,X360,2010,Action,THQ,0.00495
+DiRT,PS3,2007,Racing,Codemasters,0.00495
+'Call of Duty 4: Modern Warfare',DS,2007,Shooter,Activision,0.00495
+'Simple 1500 Series Vol. 1: The Mahjong',PS,1998,Misc,D3Publisher,0.00495
+'Sega Superstars Tennis',Wii,2008,Sports,Sega,0.00495
+'NBA Street V3',PS2,2005,Sports,'Electronic Arts',0.00495
+'Sleeping Dogs',PS3,2012,Action,'Square Enix',0.00495
+'Mercenaries 2: World in Flames',X360,2008,Shooter,'Electronic Arts',0.00495
+'Worms Armageddon',PS,1999,Strategy,Microprose,0.00495
+Hulk,PS2,2003,Action,'Universal Interactive',0.00495
+'LEGO Indiana Jones: The Original Adventures',PS3,2008,Action,Activision,0.00495
+'NFL Blitz',N64,1998,Sports,'Midway Games',0.00495
+'NFL Quarterback Club 98',N64,1997,Sports,'Acclaim Entertainment',0.00495
+'DJ Hero',X360,2009,Misc,Activision,0.00495
+'Dora the Explorer: Dora Saves the Mermaids',DS,2007,Platform,'Take-Two Interactive',0.00495
+'Diablo II: Lord of Destruction',PC,2001,Role-Playing,'Vivendi Games',0.00495
+'Naruto Shippuden: Ultimate Ninja Storm 4',PS4,2016,Fighting,'Namco Bandai Games',0.00495
+'Spider-Man 2',GBA,2004,Action,Activision,0.00495
+'Virtua Tennis 3',PS3,2007,Sports,Sega,0.00495
+'Seek and Destroy',PS2,2002,Racing,'Play It',0.00495
+Warhawk,PS3,2007,Simulation,'Sony Computer Entertainment',0.00495
+'Apollo Justice: Ace Attorney',DS,2007,Adventure,Capcom,0.00495
+'Assassin Creed: Rogue',X360,2014,Action,Ubisoft,0.002475
+'Cosmic Ark',2600,1981,Shooter,Imagic,0.002475
+'SOCOM: U.S. Navy SEALs Fireteam Bravo 2',PSP,2006,Shooter,'Sony Computer Entertainment',0.002475
+'Skylanders: Trap Team',Wii,2014,Action,Activision,0.002475
+'Aliens vs Predator',PS3,2010,Shooter,Sega,0.002475
+Defender,2600,1980,Misc,Atari,0.002475
+'Dance on Broadway',Wii,2010,Misc,Ubisoft,0.002475
+'Adventure Island',NES,1986,Platform,'Hudson Soft',0.002475
+'Arc the Lad II',PS,1996,Role-Playing,'Sony Computer Entertainment',0.002475
+'Tag Team Match M.U.S.C.L.E.',NES,1985,Fighting,'Namco Bandai Games',0.002475
+'Derby Stallion 96',SNES,1996,Sports,'ASCII Entertainment',0.002475
+'UFC Undisputed 3',PS3,2012,Action,THQ,0.002475
+'NBA 2K3',PS2,2002,Sports,Sega,0.002475
+'Dragon Ball: XenoVerse',PS4,2015,Fighting,'Namco Bandai Games',0.002475
+'The Simpsons: Road Rage',XB,2001,Racing,'Electronic Arts',0.002475
+'Dave Mirra Freestyle BMX',PS,2000,Sports,'Acclaim Entertainment',0.002475
+'Imagine: Animal Doctor',DS,2007,Simulation,Ubisoft,0.002475
+'WWE SmackDown vs. Raw 2010',X360,2009,Fighting,THQ,0.002475
+'Forza Motorsport',XB,2005,Racing,'Microsoft Game Studios',0.002475
+'Sonic the Hedgehog',X360,2006,Platform,Sega,0.002475
+'MySims Agents',Wii,2009,Adventure,'Electronic Arts',0.002475
+'Monster Rancher 2',PS,1998,Simulation,'Sony Computer Entertainment',0.002475
+'Pokemon Conquest',DS,2012,Role-Playing,Nintendo,0.002475
+'The Simpsons Game',X360,2007,Action,'Electronic Arts',0.002475
+'Guinness World Records: The Videogame',Wii,2008,Action,'Warner Bros. Interactive Entertainment',0
+'MVP Baseball 2003',PS2,2003,Sports,'Electronic Arts',0
+'Legacy of Kain: Soul Reaver',PS,N/A,Action,'Eidos Interactive',0
+'Dragon Ball Z: Budokai Tenkaichi 3',Wii,2007,Fighting,Atari,0
+'Disney Tangled',DS,2010,Action,'Disney Interactive Studios',0
+'Tales of Destiny',PS,1997,Role-Playing,'Namco Bandai Games',0
+'ATV: Quad Power Racing',PS,2000,Racing,'Acclaim Entertainment',0
+'Disney Fairies: Tinker Bell and the Lost Treasure',DS,2009,Adventure,'Disney Interactive Studios',0
+'Mega Man X4',PS,1996,Action,'Virgin Interactive',0
+'Naruto: Clash of Ninja 2',GC,2003,Fighting,Nintendo,0
+'Dance Dance Revolution SuperNOVA',PS2,2006,Simulation,'Konami Digital Entertainment',0
