@@ -8,7 +8,7 @@ parentesco = Relation()
 
 fact(parentesco, ("Abuelo", "Padre"), ("Abuela", "Padre"), ("Padre", "Hijo"), ("Madre", "Hijo"), ("Padre", "Primo"), ("Madre", "Primo"))
 
-print("Realizando algunas consultas)
+print("Realizando algunas consultas")
 print("Abuelos:")
 abuelos = run(0, X, conde(parentesco(X, "Padre")))
 print(abuelos)
